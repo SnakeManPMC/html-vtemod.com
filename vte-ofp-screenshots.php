@@ -15,7 +15,6 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1>Vietnam: The Experience</h1>
 </header>
 
@@ -120,8 +119,6 @@ Back to <a href="../index.php">PMC Tactical</a> index,
 </section>
 
 <footer>
-<?php include("../include/paypal.php"); ?>
-<br><br>
 @2000 - <?print(date("Y"));?> PMC. All rights reserved.
 <?php include("../include/w3-validator-logo.php"); ?>
 </footer>

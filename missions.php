@@ -15,7 +15,6 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1>Vietnam: The Experience - ArmA 2 Missions</h1>
 </header>
 
@@ -164,8 +163,6 @@ NAME, TYPE, PLAYERS, RESPAWN, DESCRIPTION
 </section>
 
 <footer>
-<?php include("../include/paypal.php"); ?>
-<br><br>
 @2000 - <?print(date("Y"));?> PMC. All rights reserved.
 <?php include("../include/w3-validator-logo.php"); ?>
 </footer>

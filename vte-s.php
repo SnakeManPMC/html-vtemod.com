@@ -15,14 +15,12 @@
 <body>
 
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 
 <h1>OFP Vietnam Mod - Vietnam: The Experience</h1>
 <p>
 You are redicrected to OFP Screenshots page of Vietnam War MOD called Vietnam: The Experience...
 </p>
 
-<?php include("../include/paypal.php"); ?>
 @2000 - <?print(date("Y"));?> PMC. All rights reserved.
 <?php include("../include/w3-validator-logo.php"); ?>
 

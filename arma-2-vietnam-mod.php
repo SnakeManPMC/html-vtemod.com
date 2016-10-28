@@ -7,14 +7,14 @@
 <META name="keywords" content="ArmA 2, Vietnam The Experience, Mod">
 <meta charset="UTF-8">
 
-<?php include("../include/google-analytics.php"); ?>
+<?php include("include/google-analytics.php"); ?>
 
 <meta http-equiv="Refresh" content="3;URL=vte-arma2.php">
 </head>
 
 <body>
 
-<?php include("../include/google-ads.php"); ?>
+<?php include("include/google-ads.php"); ?>
 
 <header>
 <h1>ArmA 2 Vietnam Mod - Vietnam: The Experience</h1>
@@ -29,7 +29,7 @@ You are redicrected to ArmA 2 Vietnam War MOD called Vietnam: The Experience...
   -
   <?print(date("Y"));?>
   PMC. All rights reserved.</font>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("include/w3-validator-logo.php"); ?>
 </div>
 </body>
 </html>

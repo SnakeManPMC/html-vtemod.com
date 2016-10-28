@@ -8,13 +8,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../include/google-analytics.php"); ?>
+<?php include("include/google-analytics.php"); ?>
 
 </head>
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("include/google-ads.php"); ?>
 <h1>Vietnam: The Experience Installation Help</h1>
 </header>
 
@@ -79,7 +79,7 @@ Now just click Apply and then OK and the shortcut is complete.
 
 <footer>
 @2000 - <?print(date("Y"));?> PMC. All rights reserved.
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

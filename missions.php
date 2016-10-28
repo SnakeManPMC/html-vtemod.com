@@ -25,7 +25,7 @@
 
 <p>
 Note that mission pack includes a <b>Campaign</b>, <b>Single player</b> and <b>Multi player</b> missions.<br>
-Download missions in one pack: <a href="http://tactical.nekromantix.com/arma2/downloads/VTE_Mission_Pack_12-01-12.7z">VTE_Mission_Pack_12-01-12.7z</a> - 5.92mb.
+Download missions in one pack: <a href="downloads/VTE_Mission_Pack_12-01-12.7z">VTE_Mission_Pack_12-01-12.7z</a> - 5.92mb.
 </p>
 
 <table class="vte_arma2_missions">

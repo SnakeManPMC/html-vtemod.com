@@ -29,7 +29,7 @@
 <p>When you first start your OFP dir COULD look like this. What we mean by could, is that your OFP can be installed on various directories, the most common would be the lame C:\Program Files\ which is windows default directory.<br>
 <img src="screenshots/VTE_i_OFP_dirs-01.jpg" width="333" height="218" alt="Pic">
 </p>
-<p>When you double click the downloaded vte file (check latest from <a href="http://tactical.nekromantix.com/vte/">here</a>), winrar pops up and shows you screen something like this:<br>
+<p>When you double click the downloaded vte file (check latest from <a href="http://www.vtemod.com/">here</a>), winrar pops up and shows you screen something like this:<br>
 <img src="screenshots/VTE_i_Winrar-01.jpg" width="407" height="196" alt="Pic"><br>
 </p>
 <p>Click the button Extract To and browse to your OFP directory and make sure its selected/highlighted, now click OK and Winrar unpacks VTE into the OFP dir.<br>

@@ -32,12 +32,12 @@ Read the <a href="http://tactical.nekromantix.com/manual/doku.php?id=arma2:vte">
 
 <p>Downloads (2.41gb):<br>
 Torrent: <a href="http://www.gameupdates.org/details.php?id=5230">gameupdates.org</a><br>
-Mirror 1: <a href="http://tactical.nekromantix.com/arma2/downloads/vietnam_the_experience_v1.5.7z">PMC Tactical</a><br>
+Mirror 1: <a href="downloads/vietnam_the_experience_v1.5.7z">PMC Tactical</a><br>
 Mirror 2: <a href="http://www.armaholic.com/page.php?id=8302">Armaholic.com</a><br>
-<a href="http://tactical.nekromantix.com/arma2/downloads/pmc_vte5.rar">pmc_vte5.rar</a> PMC VTE v1.5 public key for multiplayer server use.<br>
+<a href="downloads/pmc_vte5.rar">pmc_vte5.rar</a> PMC VTE v1.5 public key for multiplayer server use.<br>
 All mirrors are much appreciated!<br><br>
 
-VTE <b>v1.5.25</b> UPGRADE! <a href="http://tactical.nekromantix.com/arma2/downloads/VTE_v1.5.25_upgrade.7z">VTE_v1.5.25_upgrade.7z</a> - 219kb<br><br>
+VTE <b>v1.5.25</b> UPGRADE! <a href="downloads/VTE_v1.5.25_upgrade.7z">VTE_v1.5.25_upgrade.7z</a> - 219kb<br><br>
 
 Frequent upgrades using delta patching:<br>
 VTE <b>v1.5.26</b> <a href="http://www.funkymonkeys.org/download/other/vte_v1.5.26_upgrade.7z">vte_v1.5.26_upgrade.7z</a> - 85.1mb<br>
@@ -49,7 +49,7 @@ Required Addons: <a href="http://dev-heaven.net/projects/show/cca">Extended even
 </p>
 
 <p>
-<b>Play Vietnam: The Experience with SIX</b> the easy way to install, launch and server browse for Vietnam multiplayer without getting any unwanted content. Download it from <a href="http://tactical.nekromantix.com/arma2/downloads.php">PMC Tactical - ArmA 2 Downloads</a> page.
+<b>Play Vietnam: The Experience with SIX</b> the easy way to install, launch and server browse for Vietnam multiplayer without getting any unwanted content. Download <a href="downloads/Play_Vietnam-The_Experience_withSIX.7z">Play_Vietnam-The_Experience_withSIX.7z</a>.
 </p>
 
 <p><b>Weapons</b><br>
@@ -111,7 +111,7 @@ For more information read our <a href="http://tactical.nekromantix.com/forum/vie
 <br><br>
 @2000 - <?print(date("Y"));?> PMC. All rights reserved.
 <?php include("../include/w3-validator-logo.php"); ?>
-<a href="http://validator.w3.org/feed/check.cgi?url=http%3A//tactical.nekromantix.com/vte/rss_feed_vte.xml"><img src="https://validator.w3.org/feed/images/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
+<a href="http://validator.w3.org/feed/check.cgi?url=http%3A//www.vtemod.com/rss_feed_vte.xml"><img src="https://validator.w3.org/feed/images/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
 </footer>
 
 </body>

@@ -74,7 +74,7 @@ Rung Sat Special Zone (12.8 x 12.8km)
 <br><br>
 @2000 - <?print(date("Y"));?> PMC. All rights reserved.
 <?php include("../include/w3-validator-logo.php"); ?>
-<a href="http://validator.w3.org/feed/check.cgi?url=http%3A//tactical.nekromantix.com/vte/rss_feed_vte.xml"><img src="https://validator.w3.org/feed/images/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
+<a href="http://validator.w3.org/feed/check.cgi?url=http%3A//www.vtemod.com/rss_feed_vte.xml"><img src="https://validator.w3.org/feed/images/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
 </footer>
 
 </body>

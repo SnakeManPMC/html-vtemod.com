@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-	<atom:link href="http://tactical.nekromantix.com/vte/rss_feed_vte.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.vtemod.com/rss_feed_vte.xml" rel="self" type="application/rss+xml" />
 	<title>PMC Tactical VTE News</title>
-	<link>http://tactical.nekromantix.com/vte/index.php</link>
+	<link>http://www.vtemod.com/index.php</link>
 	<description>Vietnam: The Experience news</description>
 
 	<item>
 		<pubDate>Fri, 15 Dec 2006 02:59:00 GMT</pubDate>
-		<guid>http://tactical.nekromantix.com/vte/index.php</guid>
+		<guid>http://www.vtemod.com/index.php</guid>
 		<category>VTE news section</category>
 		<title>PMC VTE News</title>
-		<link>http://tactical.nekromantix.com/vte/index.php</link>
+		<link>http://www.vtemod.com/index.php</link>
 		<description>We are doing NAM/VTE stuff like crazy.</description>
 	</item>
 
@@ -20,7 +20,7 @@
 		<guid isPermaLink="false">VTE v0.4</guid>
 		<category>VTE news section</category>
 		<title>PMC VTE v0.4 released!</title>
-		<link>http://tactical.nekromantix.com/vte/index.php</link>
+		<link>http://www.vtemod.com/index.php</link>
 		<description>Vietnam: The Experience v0.4 has been released. This is the final VTE release for OFP. Check more details at the official page and forums.</description>
 	</item>
 
@@ -29,7 +29,7 @@
 		<guid isPermaLink="false">VTE0001</guid>
 		<category>VTE news section</category>
 		<title>PMC ArmA VTE final alpha released!</title>
-		<link>http://tactical.nekromantix.com/vte/index.php</link>
+		<link>http://www.vtemod.com/index.php</link>
 		<description>Vietnam: The Experience ArmA final alpha has been released. Check more details at the official page and forums.</description>
 	</item>
 
@@ -56,7 +56,7 @@
 		<guid isPermaLink="false">VTE_Pages_Updated</guid>
 		<category>VTE Homepage news</category>
 		<title>VTE homepage was updated!</title>
-		<link>http://tactical.nekromantix.com/vte/</link>
+		<link>http://www.vtemod.com/</link>
 		<description>Vietnam: The Experience homepage was updated. Earlier it was just OFP page, really outdated, so now we splitted OFP, ArmA and ArmA 2 pages separate so it is much easier to check each games VTE version. Hope you enjoy!</description>
 	</item>
 
@@ -65,7 +65,7 @@
 		<guid isPermaLink="false">VTE_v121_mp</guid>
 		<category>VTE MP news</category>
 		<title>VTE v1.2.1 ready for MP!</title>
-		<link>http://tactical.nekromantix.com/vte/</link>
+		<link>http://www.vtemod.com/</link>
 		<description>Vietnam: The Experience v1.2.1 for ArmA 2 is now ready for multiplayer. Check it out from Six-Updater or look download instructions from VTE forum.</description>
 	</item>
 
@@ -74,7 +74,7 @@
 		<guid isPermaLink="false">VTE_v139</guid>
 		<category>VTE release news</category>
 		<title>VTE v1.3.9 released!</title>
-		<link>http://tactical.nekromantix.com/vte/vte-arma2.php</link>
+		<link>http://www.vtemod.com/vte-arma2.php</link>
 		<description>Vietnam: The Experience v1.3.9 for ArmA 2 has been released. Download link from VTE ArmA 2 home page.</description>
 	</item>
 
@@ -83,7 +83,7 @@
 		<guid isPermaLink="false">VTE_v1310</guid>
 		<category>VTE release news</category>
 		<title>VTE v1.3.10 released!</title>
-		<link>http://tactical.nekromantix.com/vte/vte-arma2.php</link>
+		<link>http://www.vtemod.com/vte-arma2.php</link>
 		<description>Vietnam: The Experience v1.3.10 for ArmA 2 has been released. Download link from VTE ArmA 2 home page.</description>
 	</item>
 
@@ -91,7 +91,7 @@
 		<pubDate>Wed, 22 Jun 2011 04:52:45 +0000</pubDate>
 		<guid isPermaLink="false">1308718365</guid>
 		<title>Vietnam: The Experience v1.4 released!</title>
-		<description>&lt;img src=&quot;http://tactical.nekromantix.com/vte/screenshots/VTE_logo.gif&quot; width=&quot;263&quot; height=&quot;262&quot; alt=&quot;VTE v1.4&quot;&gt;&lt;br&gt;&lt;br&gt;
+		<description>&lt;img src=&quot;http://www.vtemod.com/screenshots/VTE_logo.gif&quot; width=&quot;263&quot; height=&quot;262&quot; alt=&quot;VTE v1.4&quot;&gt;&lt;br&gt;&lt;br&gt;
 		
 		PMC has released Vietnam: The Experience v1.4 for ArmA 2!&lt;br&gt;&lt;br&gt;
 		
@@ -99,29 +99,29 @@
 		
 		Too many changes to list, check changelog for details.&lt;br&gt;&lt;br&gt;
 		
-		More details from &lt;a href=&quot;http://tactical.nekromantix.com/vte/vte-arma2.php&quot;&gt;VTE homepage&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+		More details from &lt;a href=&quot;http://www.vtemod.com/vte-arma2.php&quot;&gt;VTE homepage&lt;/a&gt;&lt;br&gt;&lt;br&gt;
 		
 		Check it out from &lt;a href=&quot;http://tactical.nekromantix.com/forum/viewtopic.php?f=56&amp;t=22479&quot;&gt;this&lt;/a&gt; topic at our forum and online manual from &lt;a href=&quot;http://tactical.nekromantix.com/manual/doku.php?id=arma2:vte&quot;&gt;here&lt;/a&gt;. Enjoy.</description>
-		<link>http://tactical.nekromantix.com/arma2/</link>
+		<link>http://www.vtemod.com/</link>
 	</item>
 
 	<item>
 		<pubDate>Thu, 4 Oct 2012 07:27:00 +0000</pubDate>
 		<guid isPermaLink="false">VTE_100312MPVideo</guid>
 		<title>Vietnam: The Experience 10-03-12 Multiplayer Video!</title>
-		<description>&lt;img src=&quot;http://tactical.nekromantix.com/vte/screenshots/VTE_logo.gif&quot; width=&quot;263&quot; height=&quot;262&quot; alt=&quot;VTE v1.4&quot;&gt;&lt;br&gt;&lt;br&gt;
+		<description>&lt;img src=&quot;http://www.vtemod.com/screenshots/VTE_logo.gif&quot; width=&quot;263&quot; height=&quot;262&quot; alt=&quot;VTE v1.4&quot;&gt;&lt;br&gt;&lt;br&gt;
 		
 		PMC has released Vietnam: The Experience 10-03-12 Multiplayer video!&lt;br&gt;&lt;br&gt;
 		
 		Check it out from &lt;a href=&quot;http://www.youtube.com/watch?&amp;v=L4hUfyQ-ELM&quot;&gt;youtube&lt;/a&gt;. Enjoy.</description>
-		<link>http://tactical.nekromantix.com/vte/</link>
+		<link>http://www.vtemod.com/</link>
 	</item>
 
 	<item>
 		<pubDate>Wed, 28 Nov 2012 20:36:00 +0000</pubDate>
 		<guid isPermaLink="false">vte15112812</guid>
 		<title>Vietnam: The Experience v1.5 released!</title>
-		<description>&lt;img src=&quot;http://tactical.nekromantix.com/vte/screenshots/VTE_logo.gif&quot; width=&quot;263&quot; height=&quot;262&quot; alt=&quot;VTE v1.5&quot;&gt;&lt;br&gt;&lt;br&gt;
+		<description>&lt;img src=&quot;http://www.vtemod.com/screenshots/VTE_logo.gif&quot; width=&quot;263&quot; height=&quot;262&quot; alt=&quot;VTE v1.5&quot;&gt;&lt;br&gt;&lt;br&gt;
 		
 		PMC has released Vietnam: The Experience v1.5 for ArmA 2!&lt;br&gt;&lt;br&gt;
 		
@@ -129,34 +129,34 @@
 		
 		Too many changes to list, check changelog for details.&lt;br&gt;&lt;br&gt;
 		
-		More details from &lt;a href=&quot;http://tactical.nekromantix.com/vte/vte-arma2.php&quot;&gt;VTE homepage&lt;/a&gt;&lt;br&gt;&lt;br&gt;
+		More details from &lt;a href=&quot;http://www.vtemod.com/vte-arma2.php&quot;&gt;VTE homepage&lt;/a&gt;&lt;br&gt;&lt;br&gt;
 		
 		Check it out from &lt;a href=&quot;http://tactical.nekromantix.com/forum/viewtopic.php?f=56&amp;t=22600&quot;&gt;this&lt;/a&gt; topic at our forum and online manual from &lt;a href=&quot;http://tactical.nekromantix.com/manual/doku.php?id=arma2:vte&quot;&gt;here&lt;/a&gt;. Enjoy.</description>
-		<link>http://tactical.nekromantix.com/arma2/</link>
+		<link>http://www.vtemod.com/</link>
 	</item>
 
 	<item>
 		<pubDate>Fri, 26 Apr 2013 09:19:00 +0000</pubDate>
 		<guid isPermaLink="false">VTE_042613v15upgrade</guid>
 		<title>Vietnam: The Experience v1.5.25 Upgrade!</title>
-		<description>&lt;img src=&quot;http://tactical.nekromantix.com/vte/screenshots/VTE_logo.gif&quot; width=&quot;263&quot; height=&quot;262&quot; alt=&quot;VTE v1.5.25&quot;&gt;&lt;br&gt;&lt;br&gt;
+		<description>&lt;img src=&quot;http://www.vtemod.com/screenshots/VTE_logo.gif&quot; width=&quot;263&quot; height=&quot;262&quot; alt=&quot;VTE v1.5.25&quot;&gt;&lt;br&gt;&lt;br&gt;
 		
 		PMC has released Vietnam: The Experience v1.5.25 UPGRADE!&lt;br&gt;&lt;br&gt;
 		
-		Check it out from &lt;a href=&quot;http://tactical.nekromantix.com/vte/vte-arma2.php&quot;&gt;VTE ArmA 2 Homepage&lt;/a&gt;. Enjoy.</description>
-		<link>http://tactical.nekromantix.com/vte/vte-arma2.php</link>
+		Check it out from &lt;a href=&quot;http://www.vtemod.com/vte-arma2.php&quot;&gt;VTE ArmA 2 Homepage&lt;/a&gt;. Enjoy.</description>
+		<link>http://www.vtemod.com/vte-arma2.php</link>
 	</item>
 
 	<item>
 		<pubDate>Wed, 19 Jun 2013 07:34:00 +0000</pubDate>
 		<guid isPermaLink="false">VTE_061913v1527upgrade</guid>
 		<title>Vietnam: The Experience v1.5.27 Upgrade!</title>
-		<description>&lt;img src=&quot;http://tactical.nekromantix.com/vte/screenshots/VTE_logo.gif&quot; width=&quot;263&quot; height=&quot;262&quot; alt=&quot;VTE v1.5.27&quot;&gt;&lt;br&gt;&lt;br&gt;
+		<description>&lt;img src=&quot;http://www.vtemod.com/screenshots/VTE_logo.gif&quot; width=&quot;263&quot; height=&quot;262&quot; alt=&quot;VTE v1.5.27&quot;&gt;&lt;br&gt;&lt;br&gt;
 		
 		PMC has released Vietnam: The Experience v1.5.27 UPGRADE!&lt;br&gt;&lt;br&gt;
 		
-		Check it out from &lt;a href=&quot;http://tactical.nekromantix.com/vte/vte-arma2.php&quot;&gt;VTE ArmA 2 Homepage&lt;/a&gt;. Enjoy.</description>
-		<link>http://tactical.nekromantix.com/vte/vte-arma2.php</link>
+		Check it out from &lt;a href=&quot;http://www.vtemod.com/vte-arma2.php&quot;&gt;VTE ArmA 2 Homepage&lt;/a&gt;. Enjoy.</description>
+		<link>http://www.vtemod.com/vte-arma2.php</link>
 	</item>
 
 </channel>

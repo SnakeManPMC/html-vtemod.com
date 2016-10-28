@@ -15,7 +15,6 @@
 <body>
 
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 
 <header>
 <h1>ArmA 2 Vietnam Mod - Vietnam: The Experience</h1>
@@ -24,7 +23,6 @@
 You are redicrected to ArmA 2 Vietnam War MOD called Vietnam: The Experience...
 </p>
 
-<?php include("../include/paypal.php"); ?>
 <br>
 
 <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">@2000

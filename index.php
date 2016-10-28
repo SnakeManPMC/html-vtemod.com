@@ -23,7 +23,7 @@
 
 <h2>ArmA, ArmA 2 and OFP Vietnam war Modification</h2>
 <img src="screenshots/VTE_logo.gif" alt="VTE Logo">
-<b><a href="http://tactical.nekromantix.com/vte/rss_feed_vte.xml"><img src="images/RSS.gif" width="36" height="14" alt="VTE News RSS Feed"></a></b>
+<b><a href="rss_feed_vte.xml"><img src="images/RSS.gif" width="36" height="14" alt="VTE News RSS Feed"></a></b>
 <p>Welcome to Vietnam: The Experience (VTE) ArmA, ArmA 2 and OFP mod page. In here you can find the leading, most detailed and comprehensive modification made for the Vietnam War. This is the best Vietnam war mod for PC games.
 </p>
 

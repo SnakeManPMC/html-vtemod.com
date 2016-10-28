@@ -22,7 +22,7 @@
 <section>
 
 <h2>ArmA 3 Vietnam War Modification</h2>
-<b>VTE ArmA 3 News Feed <a href="http://tactical.nekromantix.com/vte/rss_feed_vte.xml"><img src="images/RSS.gif" width="36" height="14" alt="VTE ArmA 2 News RSS Feed"></a></b>
+<b>VTE ArmA 3 News Feed <a href="rss_feed_vte.xml"><img src="images/RSS.gif" width="36" height="14" alt="VTE ArmA 2 News RSS Feed"></a></b>
 <p>
 Welcome to Vietnam: The Experience (VTE) ArmA 3 mod page. In here you can find the leading, most detailed and comprehensive modification made for the Vietnam War. We are dedicated to bring ArmA 3 the best NAM feeling to this date.
 <br><br>

@@ -1,0 +1,403 @@
+
+body
+{
+	background: url(images/background.gif) white;
+	color: black;
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.small
+{
+	/* 75% of the baseline */
+	font-size: 12px;
+}
+
+.large
+{
+	/* 125% of the baseline */
+	font-size: 20px;
+}
+
+/* specific horizontal line thingy background_f4.gif body for Falcon pages */
+body.f4
+{
+	background: url(images/background_f4.gif) white;
+	color: black;
+
+	font-size: 16px;
+}
+
+/* donate page, no background. */
+body.donate
+{
+	background: white;
+	color: black;
+
+	font-size: 16px;
+}
+
+h1
+{
+	font-size: 32px;
+}
+
+header
+{
+	text-align: center;
+	width: 100%;
+}
+
+section
+{
+	width: 100%;
+}
+
+footer
+{
+	text-align: center;
+	width: 100%;
+}
+
+.vte_arma2_missions
+{
+	background: white;
+
+	font-size: 16px;
+}
+
+/* OFP menu */
+ul.ofp_menu
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	/* new */
+	overflow: hidden;
+}
+
+/* makes the stuff all in one line */
+ul.ofp_menu li
+{
+	display: inline;
+	max-width: 100%;
+}
+
+ul.ofp_menu a
+{
+	color: darkgreen;
+}
+
+/* ArmA menu */
+ul.arma_menu
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+/* makes the stuff all in one line */
+ul.arma_menu li
+{
+	display: inline;
+	max-width: 100%;
+}
+
+/* old pages arma .menu stuff: color darkred. */
+ul.arma_menu a
+{
+	color: darkred;
+}
+
+/* ArmA 2 menu */
+ul.arma2_menu
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+/* old pages arma2 .menu stuff; color: grey; */
+
+/* makes the stuff all in one line */
+ul.arma2_menu li
+{
+	display: inline;
+	max-width: 100%;
+}
+
+/* ArmA 3 menu */
+ul.arma3_menu
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+/* makes the stuff all in one line */
+ul.arma3_menu li
+{
+	display: inline;
+	max-width: 100%;
+}
+
+/* Falcon 4 menu */
+ul.f4_menu
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+/* makes the stuff all in one line */
+ul.f4_menu li
+{
+	display: inline;
+	max-width: 100%;
+}
+
+/* old pages f4 .menu stuff; color: color: #003399; which is same as blue, default?
+*/
+ul.f4_menu a
+{
+	color: darkblue;
+}
+
+table
+{
+	width: 100%;
+	background-color: white;
+	border: 1px solid black;
+}
+
+table.news
+{
+	width: 100%;
+	background-color: blue;
+	color: white;
+	border: 1px solid black;
+}
+
+div.f4screenshots
+{
+	display: inline-block;
+	margin-left: 5px;
+	margin-right: 20px;
+}
+
+div.armanews
+{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+div.arma2news
+{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+div.arma3news
+{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+div.f4news
+{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+div.ofpnews
+{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+/*
+not sure if this could be called div.header or does it conflict
+with the "header {" then :)
+
+Anyways
+
+This removes the need for use of tables, just use div's, easy and full control
+*/
+div.armaheader
+{
+	background: white;
+	border: 1px solid black;
+	margin: 0px;
+}
+
+/*
+arma logo image, aligned left of the header box
+*/
+div.armalogo
+{
+	position: relative;
+	left: 0px;
+	max-width: 100px;
+	margin: 2px;
+}
+
+/*
+some fiddling with the menu UL/LI thingy, hum stupid or not?
+*/
+div.armaextramenu
+{
+	padding-top: 5px;
+}
+
+/*
+arma main section with the big chunk of text, ie main content
+*/
+div.armasection
+{
+	background: white;
+	border: 1px solid black;
+	margin: 0px;
+	padding: 10px;
+}
+
+/*
+arma2 the same :)
+*/
+div.arma2header
+{
+	background: white;
+	border: 1px solid black;
+	margin: 0px;
+}
+
+div.arma2logo
+{
+	position: relative;
+	left: 0px;
+	max-width: 100px;
+	margin: 2px;
+}
+
+div.arma2extramenu
+{
+	padding-top: 5px;
+}
+
+div.arma2section
+{
+	background: white;
+	border: 1px solid black;
+	margin: 0px;
+	padding: 10px;
+}
+
+/*
+arma3 the same :)
+*/
+div.arma3header
+{
+	background: white;
+	border: 1px solid black;
+	margin: 0px;
+}
+
+div.arma3logo
+{
+	position: relative;
+	left: 0px;
+	max-width: 100px;
+	margin: 2px;
+}
+
+div.arma3extramenu
+{
+	padding-top: 5px;
+}
+
+div.arma3section
+{
+	background: white;
+	border: 1px solid black;
+	margin: 0px;
+	padding: 10px;
+}
+
+/*
+falcon 4 the same :)
+*/
+div.f4header
+{
+	background: white;
+	border: 1px solid black;
+	margin: 0px;
+}
+
+div.f4logo
+{
+	position: relative;
+	left: 0px;
+	max-width: 100px;
+	margin: 2px;
+}
+
+div.f4extramenu
+{
+	padding-top: 5px;
+}
+
+div.f4section
+{
+	background: white;
+	border: 1px solid black;
+	margin: 0px;
+	padding: 10px;
+}
+
+/*
+ofp the same :)
+*/
+div.ofpheader
+{
+	background: white;
+	border: 1px solid black;
+	margin: 0px;
+}
+
+div.ofplogo
+{
+	position: relative;
+	left: 0px;
+	max-width: 100px;
+	margin: 2px;
+}
+
+div.ofpextramenu
+{
+	padding-top: 5px;
+}
+
+div.ofpsection
+{
+	background: white;
+	border: 1px solid black;
+	margin: 0px;
+	padding: 10px;
+}
+
+/*
+specific black background for Falcon pages
+*/
+body.r6
+{
+	background: black;
+	color: white;
+
+	max-width: 1200px;
+	margin: 0 auto;
+
+	font-size: 16px;
+}

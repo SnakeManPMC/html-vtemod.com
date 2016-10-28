@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Vietnam: The Experience ArmA 3 Screenshots</title>
-<LINK href="../pmc.css" rel=stylesheet type="text/css">
+<LINK href="vte.css" rel=stylesheet type="text/css">
 <META name="description" content="ArmA 3 Vietnam: The Experience Screenshots at PMC Tactical">
 <META name="keywords" content="PMC, ArmA 3, Vietnam The Experience, VTE, Vietnam War Mod, Screenshots">
 <meta charset="UTF-8">

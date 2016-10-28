@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Vietnam: The Experience - ArmA 2 Missions</title>
-<LINK href="../pmc.css" rel=stylesheet type="text/css">
+<LINK href="vte.css" rel=stylesheet type="text/css">
 <META name="description" content="Vietnam: The Experience - PMC Tactical, ArmA 2 Vietnam War Mod">
 <META name="keywords" content="PMC, ArmA 2, Vietnam The Experience, VTE, Vietnam Mod, Vietnam Addon, Vietnam war, Multiplayer">
 <meta charset="UTF-8">

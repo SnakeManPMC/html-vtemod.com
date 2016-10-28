@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Vietnam: The Experience, ArmA 2</title>
-<LINK href="../pmc.css" rel=stylesheet type="text/css">
+<LINK href="vte.css" rel=stylesheet type="text/css">
 <META name="description" content="Vietnam: The Experience ArmA 2 - PMC Tactical ArmA 2 Vietnam War Mod">
 <META name="keywords" content="PMC, ArmA 2, Vietnam The Experience, VTE, Vietnam Mod, Vietnam Addon, Vietnam war, Multiplayer">
 <meta charset="UTF-8">
@@ -21,7 +21,7 @@
 
 <section>
 <h2>ArmA 2 Vietnam War Modification</h2>
-<b>VTE News Feed <a href="http://tactical.nekromantix.com/vte/rss_feed_vte.xml"><img src="../images/RSS.gif" width="36" height="14" alt="VTE ArmA 2 News RSS Feed"></a></b>
+<b>VTE News Feed <a href="http://tactical.nekromantix.com/vte/rss_feed_vte.xml"><img src="images/RSS.gif" width="36" height="14" alt="VTE ArmA 2 News RSS Feed"></a></b>
 <p>
 Welcome to Vietnam: The Experience (VTE) ArmA 2 mod page. In here you can find the leading, most detailed and comprehensive modification made for the Vietnam War. We are dedicated to bring ArmA 2 the best NAM feeling to this date.
 <br><br>
@@ -96,13 +96,12 @@ Apple, Bouncing Betty, Claymore, M49 trip flare, M14 mine, MON-200, POMZ, whip t
 For more information read our <a href="http://tactical.nekromantix.com/forum/viewforum.php?f=56">VTE ArmA 2 forums</a>.
 </p>
 
-<p>
-Back to <a href="../index.php">PMC Tactical</a> index,
-<a href="index.php">VTE</a> root,
-<a href="../ofp/">OFP</a>,
-<a href="../arma/">ArmA</a>,
-<a href="../arma2/">ArmA 2</a> or
-<a href="../arma3/">ArmA 3</a>.
+<p>Back to <a href="http://tactical.nekromantix.com/">PMC Tactical</a> index,
+<a href="index.php">VTE root</a>,
+<a href="http://tactical.nekromantix.com/ofp/">OFP</a>,
+<a href="http://tactical.nekromantix.com/arma/">ArmA</a>,
+<a href="http://tactical.nekromantix.com/arma2/">ArmA 2</a> or
+<a href="http://tactical.nekromantix.com/arma3/">ArmA 3</a>.
 </p>
 
 </section>

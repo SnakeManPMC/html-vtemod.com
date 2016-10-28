@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Vietnam: The Experience OFP Screenshots</title>
-<LINK href="../pmc.css" rel=stylesheet type="text/css">
+<LINK href="vte.css" rel=stylesheet type="text/css">
 <META name="description" content="Vietnam: The Experience OFP Screenshots at PMC Tactical">
 <META name="keywords" content="PMC. OFP. Vietnam The Experience. VTE. Screenshots.">
 <meta charset="UTF-8">

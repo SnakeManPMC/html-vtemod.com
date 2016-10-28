@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Vietnam: The Experience, OFP</title>
-<LINK href="../pmc.css" rel=stylesheet type="text/css">
+<LINK href="vte.css" rel=stylesheet type="text/css">
 <META name="description" content="Vietnam: The Experience OFP - PMC Tactical OFP Vietnam War Mod">
 <META name="keywords" content="PMC, OFP, Operation Flashpoint, Vietnam The Experience, VTE, Vietnam Mod, Vietnam Addon, Vietnam war">
 <meta charset="UTF-8">
@@ -22,7 +22,7 @@
 <section>
 
 <h2>Operation Flashpoint (OFP) Vietnam war Modification</h2>
-<b>VTE OFP News Feed <a href="http://tactical.nekromantix.com/vte/rss_feed_vte.xml"><img src="../images/RSS.gif" width="36" height="14" alt="PMC VTE OFP RSS Feed"></a></b>
+<b>VTE OFP News Feed <a href="http://tactical.nekromantix.com/vte/rss_feed_vte.xml"><img src="images/RSS.gif" width="36" height="14" alt="PMC VTE OFP RSS Feed"></a></b>
 <p>Welcome to Vietnam: The Experience (VTE) OFP mod page. In here you can find the leading, most detailed and comprehensive modification made for the Vietnam War. These pages are not fancy, we do not waste time making web pages and shitty banners, we edit and play some nasty NAM shieet instead. We are dedicated to bring OFP the best NAM feeling to this date.
 </p>
 <p>All the screenshots of VTE can be found in the dedicated <a href="vte-ofp-screenshots.php">PMC VTE OFP Screenshots</a>
@@ -64,13 +64,13 @@ Intro, Vietnam 12km, Vietnam 25km, SEB Ia Drang, 7 Mountains, A Shau Valley, Aus
 
 <p>
 For more information read our <a href="http://tactical.nekromantix.com/forum/viewforum.php?f=1">VTE OFP forums</a>.
-<br><br>
-Back to <a href="../index.php">PMC Tactical</a> index,
-<a href="index.php">VTE</a> root,
-<a href="../ofp/">OFP</a>,
-<a href="../arma/">ArmA</a>,
-<a href="../arma2/">ArmA 2</a> or
-<a href="../arma3/">ArmA 3</a>.
+</p>
+<p>Back to <a href="http://tactical.nekromantix.com/">PMC Tactical</a> index,
+<a href="index.php">VTE root</a>,
+<a href="http://tactical.nekromantix.com/ofp/">OFP</a>,
+<a href="http://tactical.nekromantix.com/arma/">ArmA</a>,
+<a href="http://tactical.nekromantix.com/arma2/">ArmA 2</a> or
+<a href="http://tactical.nekromantix.com/arma3/">ArmA 3</a>.
 </p>
 
 </section>

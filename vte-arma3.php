@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Vietnam: The Experience, ArmA 3</title>
-<LINK href="../pmc.css" rel=stylesheet type="text/css">
+<LINK href="vte.css" rel=stylesheet type="text/css">
 <META name="description" content="Vietnam: The Experience ArmA 3 - PMC Tactical ArmA 3 Vietnam War Mod">
 <META name="keywords" content="PMC, ArmA 3, Vietnam The Experience, VTE, Vietnam Mod, Vietnam Addon, Vietnam war, Multiplayer">
 <meta charset="UTF-8">
@@ -22,7 +22,7 @@
 <section>
 
 <h2>ArmA 3 Vietnam War Modification</h2>
-<b>VTE ArmA 3 News Feed <a href="http://tactical.nekromantix.com/vte/rss_feed_vte.xml"><img src="../images/RSS.gif" width="36" height="14" alt="VTE ArmA 2 News RSS Feed"></a></b>
+<b>VTE ArmA 3 News Feed <a href="http://tactical.nekromantix.com/vte/rss_feed_vte.xml"><img src="images/RSS.gif" width="36" height="14" alt="VTE ArmA 2 News RSS Feed"></a></b>
 <p>
 Welcome to Vietnam: The Experience (VTE) ArmA 3 mod page. In here you can find the leading, most detailed and comprehensive modification made for the Vietnam War. We are dedicated to bring ArmA 3 the best NAM feeling to this date.
 <br><br>
@@ -59,13 +59,12 @@ PBR.
 Rung Sat Special Zone (12.8 x 12.8km)
 </p>
 
-<p>
-Back to <a href="../index.php">PMC Tactical</a> index,
-<a href="index.php">VTE</a> root,
-<a href="../ofp/">OFP</a>,
-<a href="../arma/">ArmA</a>,
-<a href="../arma2/">ArmA 2</a> or
-<a href="../arma3/">ArmA 3</a>.
+<p>Back to <a href="http://tactical.nekromantix.com/">PMC Tactical</a> index,
+<a href="index.php">VTE root</a>,
+<a href="http://tactical.nekromantix.com/ofp/">OFP</a>,
+<a href="http://tactical.nekromantix.com/arma/">ArmA</a>,
+<a href="http://tactical.nekromantix.com/arma2/">ArmA 2</a> or
+<a href="http://tactical.nekromantix.com/arma3/">ArmA 3</a>.
 </p>
 
 </section>

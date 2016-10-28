@@ -23,24 +23,6 @@ body
 	font-size: 20px;
 }
 
-/* specific horizontal line thingy background_f4.gif body for Falcon pages */
-body.f4
-{
-	background: url(images/background_f4.gif) white;
-	color: black;
-
-	font-size: 16px;
-}
-
-/* donate page, no background. */
-body.donate
-{
-	background: white;
-	color: black;
-
-	font-size: 16px;
-}
-
 h1
 {
 	font-size: 32px;
@@ -145,28 +127,6 @@ ul.arma3_menu li
 	max-width: 100%;
 }
 
-/* Falcon 4 menu */
-ul.f4_menu
-{
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
-
-/* makes the stuff all in one line */
-ul.f4_menu li
-{
-	display: inline;
-	max-width: 100%;
-}
-
-/* old pages f4 .menu stuff; color: color: #003399; which is same as blue, default?
-*/
-ul.f4_menu a
-{
-	color: darkblue;
-}
-
 table
 {
 	width: 100%;
@@ -182,13 +142,6 @@ table.news
 	border: 1px solid black;
 }
 
-div.f4screenshots
-{
-	display: inline-block;
-	margin-left: 5px;
-	margin-right: 20px;
-}
-
 div.armanews
 {
 	max-width: 1000px;
@@ -202,12 +155,6 @@ div.arma2news
 }
 
 div.arma3news
-{
-	max-width: 1000px;
-	margin: 0 auto;
-}
-
-div.f4news
 {
 	max-width: 1000px;
 	margin: 0 auto;
@@ -327,37 +274,6 @@ div.arma3section
 }
 
 /*
-falcon 4 the same :)
-*/
-div.f4header
-{
-	background: white;
-	border: 1px solid black;
-	margin: 0px;
-}
-
-div.f4logo
-{
-	position: relative;
-	left: 0px;
-	max-width: 100px;
-	margin: 2px;
-}
-
-div.f4extramenu
-{
-	padding-top: 5px;
-}
-
-div.f4section
-{
-	background: white;
-	border: 1px solid black;
-	margin: 0px;
-	padding: 10px;
-}
-
-/*
 ofp the same :)
 */
 div.ofpheader
@@ -386,18 +302,4 @@ div.ofpsection
 	border: 1px solid black;
 	margin: 0px;
 	padding: 10px;
-}
-
-/*
-specific black background for Falcon pages
-*/
-body.r6
-{
-	background: black;
-	color: white;
-
-	max-width: 1200px;
-	margin: 0 auto;
-
-	font-size: 16px;
 }

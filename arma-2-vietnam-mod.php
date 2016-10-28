@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>ArmA 2 Vietnam Mod - Vietnam: The Experience</title>
-<LINK href="../pmc.css" rel=stylesheet type="text/css">
+<LINK href="vte.css" rel=stylesheet type="text/css">
 <META name="description" content="ArmA 2 Vietnam Mod: Vietnam The Experience">
 <META name="keywords" content="ArmA 2, Vietnam The Experience, Mod">
 <meta charset="UTF-8">

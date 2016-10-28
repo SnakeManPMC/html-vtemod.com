@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Vietnam: The Experience, ArmA</title>
-<LINK href="../pmc.css" rel=stylesheet type="text/css">
+<LINK href="vte.css" rel=stylesheet type="text/css">
 <META name="description" content="Vietnam: The Experience ArmA - PMC Tactical ArmA Vietnam War Mod">
 <META name="keywords" content="PMC, Armed Assault, ArmA, Vietnam The Experience, VTE, Vietnam Mod, Vietnam Addon, Vietnam war">
 <meta charset="UTF-8">
@@ -22,7 +22,7 @@
 <section>
 
 <h2>ArmA Vietnam war Modification</h2>
-<b>VTE News Feed <a href="http://tactical.nekromantix.com/vte/rss_feed_vte.xml"><img src="../images/RSS.gif" width="36" height="14" alt="VTE ArmA News RSS Feed"></a></b>
+<b>VTE News Feed <a href="http://tactical.nekromantix.com/vte/rss_feed_vte.xml"><img src="images/RSS.gif" width="36" height="14" alt="VTE ArmA News RSS Feed"></a></b>
 <p>Welcome to Vietnam: The Experience (VTE) ArmA mod page. In here you can find the leading, most detailed and comprehensive modification made for the Vietnam War. We are dedicated to bring ArmA the best NAM feeling to this date.
 </p>
 
@@ -67,13 +67,12 @@ M101, M107, M108, M109, M110, M114, M30 (107mm mortar), M30 M1938, M55, M56, BM8
 For more information read our <a href="http://tactical.nekromantix.com/forum/viewforum.php?f=40">VTE ArmA forums</a>.<br>
 </p>
 
-<p>
-Back to <a href="../index.php">PMC Tactical</a> index,
-<a href="index.php">VTE</a> root,
-<a href="../ofp/">OFP</a>,
-<a href="../arma/">ArmA</a>,
-<a href="../arma2/">ArmA 2</a> or
-<a href="../arma3/">ArmA 3</a>.
+<p>Back to <a href="http://tactical.nekromantix.com/">PMC Tactical</a> index,
+<a href="index.php">VTE root</a>,
+<a href="http://tactical.nekromantix.com/ofp/">OFP</a>,
+<a href="http://tactical.nekromantix.com/arma/">ArmA</a>,
+<a href="http://tactical.nekromantix.com/arma2/">ArmA 2</a> or
+<a href="http://tactical.nekromantix.com/arma3/">ArmA 3</a>.
 </p>
 
 </section>

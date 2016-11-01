@@ -26,7 +26,7 @@ Welcome to Vietnam: The Experience (VTE) ArmA 2 mod page. In here you can find t
 <br><br>
 Latest version of VTE is <b>v1.5</b> released at Nov 28th, 2012. Check <a href="http://tactical.nekromantix.com/manual/doku.php?id=arma2:howto_install">VTE ArmA 2 How to Install Help</a> page for install instructions.
 <br><br>
-Read the <a href="http://tactical.nekromantix.com/manual/doku.php?id=arma2:vte">VTE ArmA 2 Online Manual</a> for details and discuss in our <a href="http://tactical.nekromantix.com/forum/viewforum.php?f=56">VTE ArmA 2 Forum</a>. Browse our <a href="missions.php">VTE ArmA 2 Mission Repository</a> for VTE Mission Pack. View some <a href="vte-arma2-screenshots.php">VTE ArmA 2 screenshots</a> and <a href="https://www.youtube.com/watch?v=L4hUfyQ-ELM&list=PLKt0kt4BAefmUjd4_0MTnz8raBjs-4sGh">PMC Youtube VTE ArmA 2 Playlist</a> of videos.
+Read the <a href="http://tactical.nekromantix.com/manual/doku.php?id=arma2:vte">VTE ArmA 2 Online Manual</a> for details and discuss in our <a href="http://tactical.nekromantix.com/forum/viewforum.php?f=56">VTE ArmA 2 Forum</a>. Browse our <a href="vte-arma2-missions.php">VTE ArmA 2 Mission Repository</a> for VTE Mission Pack. View some <a href="vte-arma2-screenshots.php">VTE ArmA 2 screenshots</a> and <a href="https://www.youtube.com/watch?v=L4hUfyQ-ELM&list=PLKt0kt4BAefmUjd4_0MTnz8raBjs-4sGh">PMC Youtube VTE ArmA 2 Playlist</a> of videos.
 </p>
 
 <p>Downloads (2.41gb):<br>

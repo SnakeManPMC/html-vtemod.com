@@ -34,7 +34,7 @@ Read the <a href="http://tactical.nekromantix.com/manual/doku.php?id=ofp:vte">VT
 </p>
 
 <p>OFP Downloads:<br>
-Torrent: <a href="http://gameupdates.org/details.php?id=6118">gameupdates.org</a><br>
+<a href="downloads/x_vte_v0.4.rar.torrent">x_vte_v0.4.rar.torrent</a> and <a href="magnet:?xt=urn:btih:F2B752A90EF1E60C5FD2660F924EF59E38AD015B">Magnet URI</a>.<br>
 Mirror 1: <a href="http://www.funkymonkeys.org/download/other/x_vte_v0.4.rar">funkymonkeys.org</a><br>
 Mirror 2: <a href="http://ofp.gamepark.cz/index.php?showthis=10633">ofp.info</a><br>
 Download size is 428mb.

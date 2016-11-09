@@ -33,13 +33,10 @@ View some <a href="vte-arma3-screenshots.php">VTE ArmA 3 screenshots</a> and <a 
 </p>
 
 <p>Downloads (151mb):<br>
-Torrent <a href="http://www.gameupdates.org/details.php?id=5964">Gameupdates.org</a><br>
+<a href="downloads/vietnam_the_experience_arma3_preview_09-04-14.7z.torrent">vietnam_the_experience_arma3_preview_09-04-14.7z.torrent</a> and <a href="magnet:?xt=urn:btih:06CC038C156A2B964D3D51E497DDD5D3AD8DC420">Magnet URI</a>.<br>
 <a href="https://www.dropbox.com/s/vixv5olrb9vmya8/vietnam_the_experience_arma3_preview_09-04-14.7z?dl=0">Dropbox</a><br>
 <a href="https://drive.google.com/open?id=0B7PNeN3bGwsjcWtDWWk3OE4wZm8&amp;authuser=0">Google Drive</a><br>
-<a href="http://ovh.to/puYTnx">HubiC</a><br>
-<a href="https://mega.co.nz/#!eJ402DwL!aHGfEkXlET-e04W6uwJPmB2UPecV40lTw3S80eGuLJM">Mega.co.nz</a><br>
-<a href="http://l.bitcasa.com/Rjf2YYY">Bitcasa</a><br>
-All mirrors are much appreciated!
+<a href="https://mega.co.nz/#!eJ402DwL!aHGfEkXlET-e04W6uwJPmB2UPecV40lTw3S80eGuLJM">Mega.co.nz</a>
 </p>
 
 <p><b>Weapons</b><br>

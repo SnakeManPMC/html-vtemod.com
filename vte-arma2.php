@@ -24,25 +24,16 @@
 <p>
 Welcome to Vietnam: The Experience (VTE) ArmA 2 mod page. In here you can find the leading, most detailed and comprehensive modification made for the Vietnam War. We are dedicated to bring ArmA 2 the best NAM feeling to this date.
 <br><br>
-Latest version of VTE is <b>v1.5</b> released at Nov 28th, 2012. Check <a href="http://tactical.nekromantix.com/manual/doku.php?id=arma2:howto_install">VTE ArmA 2 How to Install Help</a> page for install instructions.
+Latest version of VTE is <b>v1.5.27</b> released as REPACK at Nov 9th, 2016. Check <a href="http://tactical.nekromantix.com/manual/doku.php?id=arma2:howto_install">VTE ArmA 2 How to Install Help</a> page for install instructions.
 <br><br>
 Read the <a href="http://tactical.nekromantix.com/manual/doku.php?id=arma2:vte">VTE ArmA 2 Online Manual</a> for details and discuss in our <a href="http://tactical.nekromantix.com/forum/viewforum.php?f=56">VTE ArmA 2 Forum</a>. Browse our <a href="vte-arma2-missions.php">VTE ArmA 2 Mission Repository</a> for VTE Mission Pack. View some <a href="vte-arma2-screenshots.php">VTE ArmA 2 screenshots</a> and <a href="https://www.youtube.com/watch?v=L4hUfyQ-ELM&list=PLKt0kt4BAefmUjd4_0MTnz8raBjs-4sGh">PMC Youtube VTE ArmA 2 Playlist</a> of videos.
 </p>
 
 <p>Downloads (2.41gb):<br>
-Torrent: <a href="http://www.gameupdates.org/details.php?id=5230">gameupdates.org</a><br>
-Mirror 1: <a href="downloads/vietnam_the_experience_v1.5.7z">PMC Tactical</a><br>
-Mirror 2: <a href="http://www.armaholic.com/page.php?id=8302">Armaholic.com</a><br>
-<a href="downloads/pmc_vte5.rar">pmc_vte5.rar</a> PMC VTE v1.5 public key for multiplayer server use.<br>
-All mirrors are much appreciated!<br><br>
 
-VTE <b>v1.5.25</b> UPGRADE! <a href="downloads/VTE_v1.5.25_upgrade.7z">VTE_v1.5.25_upgrade.7z</a> - 219kb<br><br>
-
-Frequent upgrades using delta patching:<br>
-VTE <b>v1.5.26</b> <a href="http://www.funkymonkeys.org/download/other/vte_v1.5.26_upgrade.7z">vte_v1.5.26_upgrade.7z</a> - 85.1mb<br>
-VTE <b>v1.5.27</b> <a href="http://www.funkymonkeys.org/download/other/vte_v1.5.27_upgrade.7z">vte_v1.5.27_upgrade.7z</a> - 10.9mb<br>
-<br>
-
+<a href="downloads/vietnam_the_experience_v1.5.27.7z.torrent">vietnam_the_experience_v1.5.27.7z.torrent</a> and <a href="magnet:?xt=urn:btih:B6093484367555E3475435F13EB1E47721D3EA6D">Magnet URI</a>.<br>
+<a href="downloads/pmc_vte5.rar">pmc_vte5.rar</a> PMC VTE v1.5 public key for multiplayer server use.
+<br><br>
 Required Addons: <a href="http://dev-heaven.net/projects/show/cca">Extended eventhandlers</a>
 <br>
 </p>

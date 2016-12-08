@@ -24,22 +24,18 @@
 <p>
 Welcome to Vietnam: The Experience (VTE) ArmA 2 mod page. In here you can find the leading, most detailed and comprehensive modification made for the Vietnam War. We are dedicated to bring ArmA 2 the best NAM feeling to this date.
 <br><br>
-Latest version of VTE is <b>v1.5.27</b> released as REPACK at Nov 9th, 2016. Check <a href="http://tactical.nekromantix.com/manual/doku.php?id=arma2:howto_install">VTE ArmA 2 How to Install Help</a> page for install instructions.
+Latest version of VTE is <b>v1.6</b> released at Dec 8th, 2016. Check <a href="http://www.pmctactical.org/manual/doku.php?id=arma2:howto_install">VTE ArmA 2 How to Install Help</a> page for install instructions.
 <br><br>
-Read the <a href="http://tactical.nekromantix.com/manual/doku.php?id=arma2:vte">VTE ArmA 2 Online Manual</a> for details and discuss in our <a href="http://tactical.nekromantix.com/forum/viewforum.php?f=56">VTE ArmA 2 Forum</a>. Browse our <a href="vte-arma2-missions.php">VTE ArmA 2 Mission Repository</a> for VTE Mission Pack. View some <a href="vte-arma2-screenshots.php">VTE ArmA 2 screenshots</a> and <a href="https://www.youtube.com/watch?v=L4hUfyQ-ELM&list=PLKt0kt4BAefmUjd4_0MTnz8raBjs-4sGh">PMC Youtube VTE ArmA 2 Playlist</a> of videos.
+Read the <a href="http://www.pmctactical.org/manual/doku.php?id=arma2:vte">VTE ArmA 2 Online Manual</a> for details and discuss in our <a href="http://www.pmctactical.org/forum/viewforum.php?f=56">VTE ArmA 2 Forum</a>. Browse our <a href="vte-arma2-missions.php">VTE ArmA 2 Mission Repository</a> for VTE Mission Pack. View some <a href="vte-arma2-screenshots.php">VTE ArmA 2 screenshots</a> and <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAefmUjd4_0MTnz8raBjs-4sGh">PMC Youtube VTE ArmA 2 Playlist</a> of videos.
 </p>
 
-<p>Downloads (2.41gb):<br>
+<p>Downloads (2.65gb):<br>
 
-<a href="downloads/vietnam_the_experience_v1.5.27.7z.torrent">vietnam_the_experience_v1.5.27.7z.torrent</a> and <a href="magnet:?xt=urn:btih:B6093484367555E3475435F13EB1E47721D3EA6D">Magnet URI</a>.<br>
+Torrent <a href="magnet:?xt=urn:btih:AA8CD225D4538DFCA55ADA461799F19EC00544ED&dn=vietnam_the_experience_v1.6.7z&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.zer0day.to:1337/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=udp://explodie.org:6969/announce&tr=http://explodie.org:6969/announce&tr=http://tracker.internetwarriors.net:1337/announce&tr=udp://tracker.mg64.net:6969/announce&tr=udp://mgtracker.org:2710/announce&tr=http://tracker.mg64.net:6881/announce&tr=http://mgtracker.org:6969/announce&tr=http://tracker.baravik.org:6970/announce&tr=http://torrentsmd.com:8080/announce&tr=http://tracker2.wasabii.com.tw:6969/announce&tr=http://tracker1.wasabii.com.tw:6969/announce&tr=http://tracker.skyts.net:6969/announce">Magnet URI</a>.<br>
 <a href="downloads/pmc_vte5.rar">pmc_vte5.rar</a> PMC VTE v1.5 public key for multiplayer server use.
 <br><br>
 Required Addons: <a href="http://dev-heaven.net/projects/show/cca">Extended eventhandlers</a>
 <br>
-</p>
-
-<p>
-<b>Play Vietnam: The Experience with SIX</b> the easy way to install, launch and server browse for Vietnam multiplayer without getting any unwanted content. Download <a href="downloads/Play_Vietnam-The_Experience_withSIX.7z">Play_Vietnam-The_Experience_withSIX.7z</a>.
 </p>
 
 <p><b>Weapons</b><br>
@@ -83,15 +79,15 @@ Apple, Bouncing Betty, Claymore, M49 trip flare, M14 mine, MON-200, POMZ, whip t
 </p>
 
 <p>
-For more information read our <a href="http://tactical.nekromantix.com/forum/viewforum.php?f=56">VTE ArmA 2 forums</a>.
+For more information read our <a href="http://www.pmctactical.org/forum/viewforum.php?f=56">VTE ArmA 2 forums</a>.
 </p>
 
-<p>Back to <a href="http://tactical.nekromantix.com/">PMC Tactical</a> index,
+<p>Back to <a href="http://www.pmctactical.org/">PMC Tactical</a> index,
 <a href="index.php">VTE root</a>,
-<a href="http://tactical.nekromantix.com/ofp/">OFP</a>,
-<a href="http://tactical.nekromantix.com/arma/">ArmA</a>,
-<a href="http://tactical.nekromantix.com/arma2/">ArmA 2</a> or
-<a href="http://tactical.nekromantix.com/arma3/">ArmA 3</a>.
+<a href="http://www.pmctactical.org/ofp/">OFP</a>,
+<a href="http://www.pmctactical.org/arma/">ArmA</a>,
+<a href="http://www.pmctactical.org/arma2/">ArmA 2</a> or
+<a href="http://www.pmctactical.org/arma3/">ArmA 3</a>.
 </p>
 
 </section>

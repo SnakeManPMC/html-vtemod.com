@@ -154,10 +154,10 @@ NAME, TYPE, PLAYERS, RESPAWN, DESCRIPTION
 <br>
 <p>Back to <a href="../index.php">PMC Tactical</a> index,
 <a href="index.php">VTE</a> root,
-<a href="http://tactical.nekromantix.com/ofp/">OFP</a>,
-<a href="http://tactical.nekromantix.com/arma/">ArmA</a>,
-<a href="http://tactical.nekromantix.com/arma2/">ArmA 2</a> or
-<a href="http://tactical.nekromantix.com/arma3/">ArmA 3</a>.
+<a href="http://www.pmctactical.org/ofp/">OFP</a>,
+<a href="http://www.pmctactical.org/arma/">ArmA</a>,
+<a href="http://www.pmctactical.org/arma2/">ArmA 2</a> or
+<a href="http://www.pmctactical.org/arma3/">ArmA 3</a>.
 </p>
 
 </section>

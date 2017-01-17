@@ -21,7 +21,7 @@
 <section>
 <h2>Updated for v0.3 - Nov 12th, 2006.</h2>
 
-<p>Please check <a href="http://tactical.nekromantix.com/manual/doku.php?id=ofp:howto_install">PMC addons/mods online manual: How to install OFP mod</a> for further and more updated installation instructions.
+<p>Please check <a href="http://www.pmctactical.org/manual/doku.php?id=ofp:howto_install">PMC addons/mods online manual: How to install OFP mod</a> for further and more updated installation instructions.
 </p>
 <p>There has been some questions about how to install VTE, first we must emphasize that it is not any way related to VTE that its difficult to install, this is generic OFP installation question. VTE is mod like everything else and all MOD installation questions would work here. But anyways, lets begin.
 </p>

@@ -26,11 +26,11 @@
 </p>
 
 <p>
-Final ArmA version of VTE is 06-14-10 released at June 14th, 2010. Check <a href="http://tactical.nekromantix.com/manual/doku.php?id=arma:howto_install">VTE ArmA How to Install Help</a> page for install instructions.
+Final ArmA version of VTE is 06-14-10 released at June 14th, 2010. Check <a href="http://www.pmctactical.org/manual/doku.php?id=arma:howto_install">VTE ArmA How to Install Help</a> page for install instructions.
 </p>
 
 <p>
-Read the <a href="http://tactical.nekromantix.com/manual/doku.php?id=arma:vte">VTE ArmA Online Manual</a> for details. Check out some <a href="http://tactical.nekromantix.com/forum/viewtopic.php?t=21169">VTE ArmA Screenshots</a> from our forum.
+Read the <a href="http://www.pmctactical.org/manual/doku.php?id=arma:vte">VTE ArmA Online Manual</a> for details. Check out some <a href="http://www.pmctactical.org/forum/viewtopic.php?t=21169">VTE ArmA Screenshots</a> from our forum.
 </p>
 
 <p>Downloads:
@@ -63,15 +63,15 @@ Intro, Vietnam 12km, Vietnam 25km, SEB Ia Drang, 7 Mountains, A Shau Valley, Aus
 M101, M107, M108, M109, M110, M114, M30 (107mm mortar), M30 M1938, M55, M56, BM8 Katysha, M19 mortar, M29 mortar.
 </p>
 <p>
-For more information read our <a href="http://tactical.nekromantix.com/forum/viewforum.php?f=40">VTE ArmA forums</a>.<br>
+For more information read our <a href="http://www.pmctactical.org/forum/viewforum.php?f=40">VTE ArmA forums</a>.<br>
 </p>
 
-<p>Back to <a href="http://tactical.nekromantix.com/">PMC Tactical</a> index,
+<p>Back to <a href="http://www.pmctactical.org/">PMC Tactical</a> index,
 <a href="index.php">VTE root</a>,
-<a href="http://tactical.nekromantix.com/ofp/">OFP</a>,
-<a href="http://tactical.nekromantix.com/arma/">ArmA</a>,
-<a href="http://tactical.nekromantix.com/arma2/">ArmA 2</a> or
-<a href="http://tactical.nekromantix.com/arma3/">ArmA 3</a>.
+<a href="http://www.pmctactical.org/ofp/">OFP</a>,
+<a href="http://www.pmctactical.org/arma/">ArmA</a>,
+<a href="http://www.pmctactical.org/arma2/">ArmA 2</a> or
+<a href="http://www.pmctactical.org/arma3/">ArmA 3</a>.
 </p>
 
 </section>

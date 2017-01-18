@@ -34,7 +34,7 @@ Read the <a href="http://www.pmctactical.org/manual/doku.php?id=ofp:vte">VTE OFP
 </p>
 
 <p>OFP Downloads:<br>
-<a href="downloads/x_vte_v0.4.rar.torrent">x_vte_v0.4.rar.torrent</a> and <a href="magnet:?xt=urn:btih:F2B752A90EF1E60C5FD2660F924EF59E38AD015B">Magnet URI</a>.<br>
+<a href="downloads/x_vte_v0.4.rar.torrent">x_vte_v0.4.rar.torrent</a> and <a href="magnet:?xt=urn:btih:F2B752A90EF1E60C5FD2660F924EF59E38AD015B&dn=x_vte_v0.4.rar&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.zer0day.to:1337/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=udp://explodie.org:6969/announce&tr=http://explodie.org:6969/announce&tr=http://tracker.internetwarriors.net:1337/announce&tr=udp://tracker.mg64.net:6969/announce&tr=udp://mgtracker.org:2710/announce&tr=http://tracker.mg64.net:6881/announce&tr=http://mgtracker.org:6969/announce&tr=http://tracker.baravik.org:6970/announce&tr=http://torrentsmd.com:8080/announce&tr=http://tracker2.wasabii.com.tw:6969/announce&tr=http://tracker1.wasabii.com.tw:6969/announce&tr=http://tracker.skyts.net:6969/announce">Magnet URI</a>.<br>
 Mirror 1: <a href="http://www.funkymonkeys.org/download/other/x_vte_v0.4.rar">funkymonkeys.org</a><br>
 Mirror 2: <a href="http://ofp.gamepark.cz/index.php?showthis=10633">ofp.info</a><br>
 Download size is 428mb.

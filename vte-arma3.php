@@ -33,7 +33,7 @@ View some <a href="vte-arma3-screenshots.php">VTE ArmA 3 screenshots</a> and <a 
 </p>
 
 <p>Downloads (151mb):<br>
-<a href="downloads/vietnam_the_experience_arma3_preview_09-04-14.7z.torrent">vietnam_the_experience_arma3_preview_09-04-14.7z.torrent</a> and <a href="magnet:?xt=urn:btih:06CC038C156A2B964D3D51E497DDD5D3AD8DC420">Magnet URI</a>.<br>
+<a href="downloads/vietnam_the_experience_arma3_preview_09-04-14.7z.torrent">vietnam_the_experience_arma3_preview_09-04-14.7z.torrent</a> and <a href="magnet:?xt=urn:btih:06CC038C156A2B964D3D51E497DDD5D3AD8DC420&dn=vietnam_the_experience_arma3_preview_09-04-14.7z&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.zer0day.to:1337/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=udp://explodie.org:6969/announce&tr=http://explodie.org:6969/announce&tr=http://tracker.internetwarriors.net:1337/announce&tr=udp://tracker.mg64.net:6969/announce&tr=udp://mgtracker.org:2710/announce&tr=http://tracker.mg64.net:6881/announce&tr=http://mgtracker.org:6969/announce&tr=http://tracker.baravik.org:6970/announce&tr=http://torrentsmd.com:8080/announce&tr=http://tracker2.wasabii.com.tw:6969/announce&tr=http://tracker1.wasabii.com.tw:6969/announce&tr=http://tracker.skyts.net:6969/announce">Magnet URI</a>.<br>
 <a href="https://www.dropbox.com/s/vixv5olrb9vmya8/vietnam_the_experience_arma3_preview_09-04-14.7z?dl=0">Dropbox</a><br>
 <a href="https://drive.google.com/open?id=0B7PNeN3bGwsjcWtDWWk3OE4wZm8&amp;authuser=0">Google Drive</a><br>
 <a href="https://mega.co.nz/#!eJ402DwL!aHGfEkXlET-e04W6uwJPmB2UPecV40lTw3S80eGuLJM">Mega.co.nz</a>

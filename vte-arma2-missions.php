@@ -163,7 +163,7 @@ NAME, TYPE, PLAYERS, RESPAWN, DESCRIPTION
 </section>
 
 <footer>
-@2000 - <?print(date("Y"));?> PMC. All rights reserved.
+@2000 - <?php print(date("Y")); ?> PMC. All rights reserved.
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

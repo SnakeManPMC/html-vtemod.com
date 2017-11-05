@@ -77,9 +77,9 @@ For more information read our <a href="http://www.pmctactical.org/forum/viewforu
 </section>
 
 <footer>
-@2000 - <?print(date("Y"));?> PMC. All rights reserved.
+@2000 - <?php print(date("Y")); ?> PMC. All rights reserved.
 <?php include("include/w3-validator-logo.php"); ?>
-<a href="http://validator.w3.org/feed/check.cgi?url=http%3A//www.vtemod.com/rss_feed_vte.xml"><img src="https://validator.w3.org/feed/images/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
+<a href="https://validator.w3.org/feed/check.cgi?url=https%3A//www.vtemod.com/rss_feed_vte.xml"><img src="https://validator.w3.org/feed/images/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
 </footer>
 
 </body>

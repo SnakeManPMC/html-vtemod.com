@@ -15,7 +15,7 @@
 <p>Vietnam: The Experience - REDIRECT ArmA 2 Missions</p>
 
 <footer>
-@2000 - <?print(date("Y"));?> PMC. All rights reserved.
+@2000 - <?php print(date("Y")); ?> PMC. All rights reserved.
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

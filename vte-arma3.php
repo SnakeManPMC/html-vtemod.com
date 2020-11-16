@@ -25,8 +25,8 @@
 <p>
 Welcome to Vietnam: The Experience (VTE) ArmA 3 mod page. In here you can find the leading, most detailed and comprehensive modification made for the Vietnam War. We are dedicated to bring ArmA 3 the best NAM feeling to this date.
 <br><br>
-We have only released very small <b>VTE ArmA 3 Preview</b> which is only a initial limited port of our ArmA 2 content. Check <a href="http://www.pmctactical.org/manual/doku.php?id=arma2:howto_install">VTE ArmA 2 How to Install Help</a> page for install instructions.
-View some <a href="vte-arma3-screenshots.php">VTE ArmA 3 screenshots</a> and <a href="http://www.youtube.com/user/pmcsince1984">PMC Youtube Channel</a> for videos.
+We have only released very small <b>VTE ArmA 3 Preview</b> which is only a initial limited port of our ArmA 2 content. Check <a href="https://www.pmctactical.org/manual/doku.php?id=arma2:howto_install">VTE ArmA 2 How to Install Help</a> page for install instructions.
+View some <a href="vte-arma3-screenshots.php">VTE ArmA 3 screenshots</a> and <a href="https://www.youtube.com/user/pmcsince1984">PMC Youtube Channel</a> for videos.
 </p>
 
 <p>Please note that VTE ArmA 3 Preview is low poly / resolution and we want to improve our content, it is essential that we get some experienced modders to join our team. We are aware of the low res nature of our objects/textures especially the vegetation, no need to report it, thank you.
@@ -55,12 +55,12 @@ PBR.
 Rung Sat Special Zone (12.8 x 12.8km)
 </p>
 
-<p>Back to <a href="http://www.pmctactical.org/">PMC Tactical</a> index,
+<p>Back to <a href="https://www.pmctactical.org/">PMC Tactical</a> index,
 <a href="index.php">VTE root</a>,
-<a href="http://www.pmctactical.org/ofp/">OFP</a>,
-<a href="http://www.pmctactical.org/arma/">ArmA</a>,
-<a href="http://www.pmctactical.org/arma2/">ArmA 2</a> or
-<a href="http://www.pmctactical.org/arma3/">ArmA 3</a>.
+<a href="https://www.pmctactical.org/ofp/">OFP</a>,
+<a href="https://www.pmctactical.org/arma/">ArmA</a>,
+<a href="https://www.pmctactical.org/arma2/">ArmA 2</a> or
+<a href="https://www.pmctactical.org/arma3/">ArmA 3</a>.
 </p>
 
 </section>

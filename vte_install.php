@@ -21,14 +21,14 @@
 <section>
 <h2>Updated for v0.3 - Nov 12th, 2006.</h2>
 
-<p>Please check <a href="http://www.pmctactical.org/manual/doku.php?id=ofp:howto_install">PMC addons/mods online manual: How to install OFP mod</a> for further and more updated installation instructions.
+<p>Please check <a href="https://www.pmctactical.org/manual/doku.php?id=ofp:howto_install">PMC addons/mods online manual: How to install OFP mod</a> for further and more updated installation instructions.
 </p>
 <p>There has been some questions about how to install VTE, first we must emphasize that it is not any way related to VTE that its difficult to install, this is generic OFP installation question. VTE is mod like everything else and all MOD installation questions would work here. But anyways, lets begin.
 </p>
 <p>When you first start your OFP dir COULD look like this. What we mean by could, is that your OFP can be installed on various directories, the most common would be the lame C:\Program Files\ which is windows default directory.<br>
 <img src="screenshots/VTE_i_OFP_dirs-01.jpg" width="333" height="218" alt="Pic">
 </p>
-<p>When you double click the downloaded vte file (check latest from <a href="http://www.vtemod.com/">here</a>), winrar pops up and shows you screen something like this:<br>
+<p>When you double click the downloaded vte file (check latest from <a href="https://www.vtemod.com/">here</a>), winrar pops up and shows you screen something like this:<br>
 <img src="screenshots/VTE_i_Winrar-01.jpg" width="407" height="196" alt="Pic"><br>
 </p>
 <p>Click the button Extract To and browse to your OFP directory and make sure its selected/highlighted, now click OK and Winrar unpacks VTE into the OFP dir.<br>
@@ -45,8 +45,8 @@
 <p>Now grab those required addons that VTE needs to run. These are the following; Bn880 tracers, CoC Unified Artillery, CoC Mines, CoC Diver, JAM3 and USMC markers.
 </p>
 <p>Download these addons from:<br>
-<a href="http://www.thechainofcommand.com/">CoC homepage</a> link<br> <a href="ftp://www.ofpr.info/ofpd/unofaddons2/JAM3_FIXED6.rar">JAM3 download</a> link<br>
-<a href="http://www.flashpoint1985.com/cgi-bin/ikonboard311/ikonboard.cgi?;act=ST;f=4;t=44627">BIS topic</a> for Bn880 tracers
+<a href="https://www.thechainofcommand.com/">CoC homepage</a> link<br> <a href="ftp://www.ofpr.info/ofpd/unofaddons2/JAM3_FIXED6.rar">JAM3 download</a> link<br>
+<a href="https://www.flashpoint1985.com/cgi-bin/ikonboard311/ikonboard.cgi?;act=ST;f=4;t=44627">BIS topic</a> for Bn880 tracers
 </p>
 <p>Make additional MOD directory for these addons. First, browse into the OFP directory again, click right mouse button and choose the menu; new -&gt; folder. Now write a name for it and call it &quot;x_vte_common&quot;. Now your OFP directory should look like this:<br>
 <img src="screenshots/VTE_i_OFP_dirs-04.jpg" width="342" height="251" alt="Pic">

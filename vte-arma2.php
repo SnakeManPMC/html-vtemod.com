@@ -24,9 +24,9 @@
 <p>
 Welcome to Vietnam: The Experience (VTE) ArmA 2 mod page. In here you can find the leading, most detailed and comprehensive modification made for the Vietnam War. We are dedicated to bring ArmA 2 the best NAM feeling to this date.
 <br><br>
-Latest version of VTE is <b>v1.6</b> released at Dec 8th, 2016. Check <a href="http://www.pmctactical.org/manual/doku.php?id=arma2:howto_install">VTE ArmA 2 How to Install Help</a> page for install instructions.
+Latest version of VTE is <b>v1.6</b> released at Dec 8th, 2016. Check <a href="https://www.pmctactical.org/manual/doku.php?id=arma2:howto_install">VTE ArmA 2 How to Install Help</a> page for install instructions.
 <br><br>
-Read the <a href="http://www.pmctactical.org/manual/doku.php?id=arma2:vte">VTE ArmA 2 Online Manual</a> for details and discuss in our <a href="http://www.pmctactical.org/forum/viewforum.php?f=56">VTE ArmA 2 Forum</a>. Browse our <a href="vte-arma2-missions.php">VTE ArmA 2 Mission Repository</a> for VTE Mission Pack. View some <a href="vte-arma2-screenshots.php">VTE ArmA 2 screenshots</a> and <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAefmUjd4_0MTnz8raBjs-4sGh">PMC Youtube VTE ArmA 2 Playlist</a> of videos.
+Read the <a href="https://www.pmctactical.org/manual/doku.php?id=arma2:vte">VTE ArmA 2 Online Manual</a> for details and discuss in our <a href="https://www.pmctactical.org/forum/viewforum.php?f=56">VTE ArmA 2 Forum</a>. Browse our <a href="vte-arma2-missions.php">VTE ArmA 2 Mission Repository</a> for VTE Mission Pack. View some <a href="vte-arma2-screenshots.php">VTE ArmA 2 screenshots</a> and <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAefmUjd4_0MTnz8raBjs-4sGh">PMC Youtube VTE ArmA 2 Playlist</a> of videos.
 </p>
 
 <p>Downloads (2.65gb):<br>
@@ -79,15 +79,15 @@ Apple, Bouncing Betty, Claymore, M49 trip flare, M14 mine, MON-200, POMZ, whip t
 </p>
 
 <p>
-For more information read our <a href="http://www.pmctactical.org/forum/viewforum.php?f=56">VTE ArmA 2 forums</a>.
+For more information read our <a href="https://www.pmctactical.org/forum/viewforum.php?f=56">VTE ArmA 2 forums</a>.
 </p>
 
-<p>Back to <a href="http://www.pmctactical.org/">PMC Tactical</a> index,
+<p>Back to <a href="https://www.pmctactical.org/">PMC Tactical</a> index,
 <a href="index.php">VTE root</a>,
-<a href="http://www.pmctactical.org/ofp/">OFP</a>,
-<a href="http://www.pmctactical.org/arma/">ArmA</a>,
-<a href="http://www.pmctactical.org/arma2/">ArmA 2</a> or
-<a href="http://www.pmctactical.org/arma3/">ArmA 3</a>.
+<a href="https://www.pmctactical.org/ofp/">OFP</a>,
+<a href="https://www.pmctactical.org/arma/">ArmA</a>,
+<a href="https://www.pmctactical.org/arma2/">ArmA 2</a> or
+<a href="https://www.pmctactical.org/arma3/">ArmA 3</a>.
 </p>
 
 </section>

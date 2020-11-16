@@ -26,17 +26,17 @@
 </p>
 
 <p>
-Final ArmA version of VTE is 06-14-10 released at June 14th, 2010. Check <a href="http://www.pmctactical.org/manual/doku.php?id=arma:howto_install">VTE ArmA How to Install Help</a> page for install instructions.
+Final ArmA version of VTE is 06-14-10 released at June 14th, 2010. Check <a href="https://www.pmctactical.org/manual/doku.php?id=arma:howto_install">VTE ArmA How to Install Help</a> page for install instructions.
 </p>
 
 <p>
-Read the <a href="http://www.pmctactical.org/manual/doku.php?id=arma:vte">VTE ArmA Online Manual</a> for details. Check out some <a href="http://www.pmctactical.org/forum/viewtopic.php?t=21169">VTE ArmA Screenshots</a> from our forum.
+Read the <a href="https://www.pmctactical.org/manual/doku.php?id=arma:vte">VTE ArmA Online Manual</a> for details. Check out some <a href="https://www.pmctactical.org/forum/viewtopic.php?t=21169">VTE ArmA Screenshots</a> from our forum.
 </p>
 
 <p>Downloads:
-<a href="http://www.funkymonkeys.org/download/other/VTE_06-14-10_final.rar">funkymonkeys.org</a><br>
-Mirror 1: <a href="http://www.armaholic.com/page.php?id=3562">Armaholic.com</a><br>
-Mirror 2: <a href="http://www.armedassault.info/index.php?cat=news&amp;id=4370&amp;game=0">Armedassault.info</a><br>
+<a href="https://www.funkymonkeys.org/download/other/VTE_06-14-10_final.rar">funkymonkeys.org</a><br>
+Mirror 1: <a href="https://www.armaholic.com/page.php?id=3562">Armaholic.com</a><br>
+Mirror 2: <a href="https://www.armedassault.info/index.php?cat=news&amp;id=4370&amp;game=0">Armedassault.info</a><br>
 Download size is 1.2gb. more mirrors are very welcome!<br>
 </p>
 <p><b>Weapons</b><br>
@@ -63,15 +63,15 @@ Intro, Vietnam 12km, Vietnam 25km, SEB Ia Drang, 7 Mountains, A Shau Valley, Aus
 M101, M107, M108, M109, M110, M114, M30 (107mm mortar), M30 M1938, M55, M56, BM8 Katysha, M19 mortar, M29 mortar.
 </p>
 <p>
-For more information read our <a href="http://www.pmctactical.org/forum/viewforum.php?f=40">VTE ArmA forums</a>.<br>
+For more information read our <a href="https://www.pmctactical.org/forum/viewforum.php?f=40">VTE ArmA forums</a>.<br>
 </p>
 
-<p>Back to <a href="http://www.pmctactical.org/">PMC Tactical</a> index,
+<p>Back to <a href="https://www.pmctactical.org/">PMC Tactical</a> index,
 <a href="index.php">VTE root</a>,
-<a href="http://www.pmctactical.org/ofp/">OFP</a>,
-<a href="http://www.pmctactical.org/arma/">ArmA</a>,
-<a href="http://www.pmctactical.org/arma2/">ArmA 2</a> or
-<a href="http://www.pmctactical.org/arma3/">ArmA 3</a>.
+<a href="https://www.pmctactical.org/ofp/">OFP</a>,
+<a href="https://www.pmctactical.org/arma/">ArmA</a>,
+<a href="https://www.pmctactical.org/arma2/">ArmA 2</a> or
+<a href="https://www.pmctactical.org/arma3/">ArmA 3</a>.
 </p>
 
 </section>

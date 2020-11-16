@@ -30,7 +30,7 @@ page.<br>
 Latest version of VTE is 0.4 released at June 25th, 2007. Check <a href="vte_install.php">VTE OFP
 Install Help</a> page for install instructions.
 <br><br>
-Read the <a href="http://www.pmctactical.org/manual/doku.php?id=ofp:vte">VTE OFP Online Manual</a> for details.
+Read the <a href="https://www.pmctactical.org/manual/doku.php?id=ofp:vte">VTE OFP Online Manual</a> for details.
 </p>
 
 <p>OFP Downloads:<br>
@@ -62,14 +62,14 @@ Intro, Vietnam 12km, Vietnam 25km, SEB Ia Drang, 7 Mountains, A Shau Valley, Aus
 </p>
 
 <p>
-For more information read our <a href="http://www.pmctactical.org/forum/viewforum.php?f=1">VTE OFP forums</a>.
+For more information read our <a href="https://www.pmctactical.org/forum/viewforum.php?f=1">VTE OFP forums</a>.
 </p>
-<p>Back to <a href="http://www.pmctactical.org/">PMC Tactical</a> index,
+<p>Back to <a href="https://www.pmctactical.org/">PMC Tactical</a> index,
 <a href="index.php">VTE root</a>,
-<a href="http://www.pmctactical.org/ofp/">OFP</a>,
-<a href="http://www.pmctactical.org/arma/">ArmA</a>,
-<a href="http://www.pmctactical.org/arma2/">ArmA 2</a> or
-<a href="http://www.pmctactical.org/arma3/">ArmA 3</a>.
+<a href="https://www.pmctactical.org/ofp/">OFP</a>,
+<a href="https://www.pmctactical.org/arma/">ArmA</a>,
+<a href="https://www.pmctactical.org/arma2/">ArmA 2</a> or
+<a href="https://www.pmctactical.org/arma3/">ArmA 3</a>.
 </p>
 
 </section>

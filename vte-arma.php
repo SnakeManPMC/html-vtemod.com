@@ -66,18 +66,10 @@ M101, M107, M108, M109, M110, M114, M30 (107mm mortar), M30 M1938, M55, M56, BM8
 For more information read our <a href="https://www.pmctactical.org/forum/viewforum.php?f=40">VTE ArmA forums</a>.<br>
 </p>
 
-<p>Back to <a href="https://www.pmctactical.org/">PMC Tactical</a> index,
-<a href="index.php">VTE root</a>,
-<a href="https://www.pmctactical.org/ofp/">OFP</a>,
-<a href="https://www.pmctactical.org/arma/">ArmA</a>,
-<a href="https://www.pmctactical.org/arma2/">ArmA 2</a> or
-<a href="https://www.pmctactical.org/arma3/">ArmA 3</a>.
-</p>
-
 </section>
 
 <footer>
-@2000 - <?php print(date("Y")); ?> PMC. All rights reserved.
+<?php include("include/footer.php"); ?>
 <?php include("include/w3-validator-logo.php"); ?>
 <a href="https://validator.w3.org/feed/check.cgi?url=https%3A//www.vtemod.com/rss_feed_vte.xml"><img src="https://validator.w3.org/feed/images/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
 </footer>

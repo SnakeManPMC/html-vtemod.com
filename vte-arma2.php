@@ -82,18 +82,10 @@ Apple, Bouncing Betty, Claymore, M49 trip flare, M14 mine, MON-200, POMZ, whip t
 For more information read our <a href="https://www.pmctactical.org/forum/viewforum.php?f=56">VTE ArmA 2 forums</a>.
 </p>
 
-<p>Back to <a href="https://www.pmctactical.org/">PMC Tactical</a> index,
-<a href="index.php">VTE root</a>,
-<a href="https://www.pmctactical.org/ofp/">OFP</a>,
-<a href="https://www.pmctactical.org/arma/">ArmA</a>,
-<a href="https://www.pmctactical.org/arma2/">ArmA 2</a> or
-<a href="https://www.pmctactical.org/arma3/">ArmA 3</a>.
-</p>
-
 </section>
 
 <footer>
-@2000 - <?php print(date("Y")); ?> PMC. All rights reserved.
+<?php include("include/footer.php"); ?>
 <?php include("include/w3-validator-logo.php"); ?>
 <a href="https://validator.w3.org/feed/check.cgi?url=https%3A//www.vtemod.com/rss_feed_vte.xml"><img src="https://validator.w3.org/feed/images/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
 </footer>

@@ -107,19 +107,10 @@ Pre-release screenshots<br>
 <p><a href="screenshots/VTE_Promo52.jpg"><img src="screenshots/VTE_Promo52s.jpg" width="600" height="225" alt="VTE OFP Screenshot"></a>
 </p>
 
-<p>
-Back to <a href="https://www.pmctactical.org">PMC Tactical</a> index,
-<a href="index.php">VTE</a> root,
-<a href="https://www.pmctactical.org/ofp/">OFP</a>,
-<a href="https://www.pmctactical.org/arma/">ArmA</a>,
-<a href="https://www.pmctactical.org/arma2/">ArmA 2</a> or
-<a href="https://www.pmctactical.org/arma3/">ArmA 3</a>.
-</p>
-
 </section>
 
 <footer>
-@2000 - <?php print(date("Y")); ?> PMC. All rights reserved.
+<?php include("include/footer.php"); ?>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

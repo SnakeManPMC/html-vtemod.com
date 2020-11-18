@@ -32,18 +32,10 @@
 <a href="vte-arma2.php">VTE for ArmA 2</a><br><br>
 <a href="vte-arma3.php">VTE for ArmA 3</a>
 
-</p>
-<p>Back to <a href="https://www.pmctactical.org/">PMC Tactical</a> index,
-<a href="https://www.pmctactical.org/ofp/">OFP</a>,
-<a href="https://www.pmctactical.org/arma/">ArmA</a>,
-<a href="https://www.pmctactical.org/arma2/">ArmA 2</a> or
-<a href="https://www.pmctactical.org/arma3/">ArmA 3</a>.
-</p>
-
 </section>
 
 <footer>
-@2000 - <?php print(date("Y")); ?> PMC. All rights reserved.
+<?php include("include/footer.php"); ?>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

@@ -35,19 +35,10 @@
 <a href="screenshots/VTE-Rung-Sat-Special_Zone-Terrain-01.jpg"><img src="screenshots/VTE-Rung-Sat-Special_Zone-Terrain-01t.jpg" width="91" height="92" alt="VTE Preview ArmA 3 Screenshot: Rung Sat Special Zone Terrain"></a>
 </p>
 
-<p>
-Back to <a href="https://www.pmctactical.org">PMC Tactical</a> index,
-<a href="index.php">VTE</a> root,
-<a href="https://www.pmctactical.org/ofp/">OFP</a>,
-<a href="https://www.pmctactical.org/arma/">ArmA</a>,
-<a href="https://www.pmctactical.org/arma2/">ArmA 2</a> or
-<a href="https://www.pmctactical.org/arma3/">ArmA 3</a>.
-</p>
-
 </section>
 
 <footer>
-@2000 - <?php print(date("Y")); ?> PMC. All rights reserved.
+<?php include("include/footer.php"); ?>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

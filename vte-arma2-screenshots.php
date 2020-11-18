@@ -73,19 +73,10 @@
 <a href="screenshots/VTE-Multiplayer-Event_10-19-12_2.jpg"><img src="screenshots/VTE-Multiplayer-Event_10-19-12_2t.jpg" width="192" height="108" alt="VTE ArmA 2 Screenshot: Multiplayer Event 10-19-12 2"></a>
 </p>
 
-<p>
-Back to <a href="https://www.pmctactical.org">PMC Tactical</a> index,
-<a href="index.php">VTE</a> root,
-<a href="https://www.pmctactical.org/ofp/">OFP</a>,
-<a href="https://www.pmctactical.org/arma/">ArmA</a>,
-<a href="https://www.pmctactical.org/arma2/">ArmA 2</a> or
-<a href="https://www.pmctactical.org/arma3/">ArmA 3</a>.
-</p>
-
 </section>
 
 <footer>
-@2000 - <?php print(date("Y")); ?> PMC. All rights reserved.
+<?php include("include/footer.php"); ?>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 

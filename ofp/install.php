@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Vietnam: The Experience - Operation Flashpoint Install Tutorial</title>
 <LINK href="../vte.css" rel=stylesheet type="text/css">
 <META name="description" content="Vietnam: The Experience - Operation Flashpoint Install Help - PMC Tactical">
-<META name="keywords" content="PMC, OFP, Vietnam The Experience, VTE, Install, Tutorial">
+<META name="keywords" content="PMC, OFP, Operation, Flashpoint, Vietnam The Experience, VTE, Install, Tutorial">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,22 +15,22 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<h1>Vietnam: The Experience Installation Tutorial</h1>
+<h1>Vietnam: The Experience Operation Flashpoint Installation Tutorial</h1>
 </header>
 
 <section>
 	<h2>Updated for v0.3 - Nov 12th, 2006.</h2>
 
 <p>
-Please check <a href="https://www.pmctactical.org/manual/doku.php?id=ofp:howto_install" target="_blank">PMC addons/mods online manual: How to install OFP mod</a> for further and more updated installation instructions.
+Please check <a href="https://www.pmctactical.org/manual/doku.php?id=ofp:howto_install" target="_blank">PMC addons/mods online manual: How to install Operation Flashpoint addons/mods</a> for further and more updated installation instructions.
 </p>
 
 <p>
-There has been some questions about how to install VTE, first we must emphasize that it is not any way related to VTE that its difficult to install, this is generic OFP installation question. VTE is mod like everything else and all MOD installation questions would work here. But anyways, lets begin.
+There has been some questions about how to install Vietnam: The Experience (VTE), first we must emphasize that it is not any way related to VTE that its difficult to install, this is generic Operation Flashpoint (OFP) installation question. VTE is a mod like everything else and all addons/mods installation questions would work here. But anyways, lets begin.
 </p>
 
 <p>
-When you first start your OFP dir COULD look like this. What we mean by could, is that your OFP can be installed on various directories, the most common would be the lame C:\Program Files\ which is windows default directory.<br>
+When you first start your OFP directory COULD look like this. What we mean by could, is that your OFP can be installed on various directories, the most common would be the lame C:\Program Files\ which is windows default directory.<br>
 <img src="screenshots/VTE_i_OFP_dirs-01.jpg" width="333" height="218" alt="Pic">
 </p>
 
@@ -107,11 +107,11 @@ At this point all you need to do is browse to the x_vte/ directory and right mou
 </p>
 
 <p>
-Its all done now, just click the new shortcut that its on your desktop that you created and OFP with the mod dir/folder of VTE will be launched!
+Its all done now, just click the new shortcut that its on your desktop that you created and OFP with the mod directory of VTE will be launched!
 </p>
 
 <p>
-Back to <a href="../index.php">VTE homepage</a>
+Back to <a href="index.php">VTE OFP homepage</a>
 </p>
 
 </section>

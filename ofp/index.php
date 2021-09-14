@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Vietnam: The Experience, OFP</title>
 <LINK href="../vte.css" rel=stylesheet type="text/css">
@@ -34,7 +34,7 @@ page.
 </p>
 
 <p>
-Latest version of VTE is 0.4 released at June 25th, 2007. Check <a href="../vte_install.php">VTE OFP
+Latest version of VTE is 0.4 released at June 25th, 2007. Check <a href="install.php">VTE OFP
 Install Help</a> page for install instructions.
 </p>
 
@@ -94,7 +94,6 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <footer>
 <?php include("../include/footer.php"); ?>
 <?php include("../include/w3-validator-logo.php"); ?>
-<a href="https://validator.w3.org/feed/check.cgi?url=https%3A//www.vtemod.com/rss_feed_vte.xml"><img src="https://validator.w3.org/feed/images/valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
 </footer>
 
 </body>

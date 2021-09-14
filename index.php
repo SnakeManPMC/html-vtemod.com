@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Vietnam: The Experience</title>
 <LINK href="vte.css" rel=stylesheet type="text/css">
@@ -22,15 +22,25 @@
 
 	<h2>OFP, ArmA, ArmA 2 and ArmA 3 Vietnam war Modification</h2>
 
-<img src="screenshots/VTE_logo.gif" alt="VTE Logo">
+<div class="grid-container">
+<div class="grid-item">
+<img src="images/VTE_logo.gif" alt="VTE Logo">
+</div>
 
+<div class="grid-item">
+Welcome to Vietnam: The Experience (VTE) OFP, ArmA, ArmA 2 and ArmA 3 mod page. In here you can find <b>the leading, most detailed and comprehensive modification made for the Vietnam War</b>. This is the best Vietnam war mod for computer games.
+<br><br>
 <b><a href="rss_feed_vte.xml"><img src="images/RSS.gif" width="36" height="14" alt="VTE News RSS Feed"></a></b>
 
-<p>
-Welcome to Vietnam: The Experience (VTE) OFP, ArmA, ArmA 2 and ArmA 3 mod page. In here you can find the leading, most detailed and comprehensive modification made for the Vietnam War. This is the best Vietnam war mod for computer games.
-</p>
+<ul>
+<li><a href="ofp/index.php">VTE for OFP</a></li>
+<li><a href="arma/index.php">VTE for ArmA</a></li>
+<li><a href="arma2/index.php">VTE for ArmA 2</a></li>
+<li><a href="arma3/index.php">VTE for ArmA 3</a></li>
+</ul>
 
-<a href="ofp/index.php">VTE for OFP</a>, <a href="arma/index.php">VTE for ArmA</a>, <a href="arma2/index.php">VTE for ArmA 2</a>, <a href="arma3/index.php">VTE for ArmA 3</a>
+</div>
+</div>
 
 </section>
 

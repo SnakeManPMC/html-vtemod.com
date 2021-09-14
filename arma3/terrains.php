@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Vietnam: The Experience ArmA 3 Terrains</title>
 <LINK href="../vte.css" rel=stylesheet type="text/css">
@@ -23,84 +23,100 @@
 	<h2>ArmA 3 Vietnam War MOD Terrains</h2>
 
 <p>
-2021-08-30T11:40:00z This page is work in progress.
+2021-08-30T21:06:00Z This page is work in progress.
 </p>
 
-	<h2>PMC Vietnam, Da Nang</h2>
+<div class="grid-container">
+<div class="grid-item">
+
+	<h2>Fictional</h2>
 
 <p>
-<a href="https://www.google.com/maps/@16.0360754,108.2185178,11.5z" target="_blank">google/maps</a>
+<a href="vte-7-mountains.php">7 Mountains</a><br>
+<a href="vte-ashau-valley.php">A Shau Valley</a><br>
+<a href="vte-australian-ao.php">Australian AO</a><br>
+<a href="vte-bo-beo.php">Bo Beo</a><br>
+<a href="vte-bra.php">Bra</a><br>
+<a href="vte-dak-seang.php">Dak Seang</a><br>
+<a href="vte-fsb-gloria.php">FSB Gloria</a><br>
+<a href="vte-gao-rung.php">Gao Rung</a><br>
+<a href="vte-ia-drang-valley.php">Ia Drang Valley</a><br>
+<a href="vte-iiictza-parrots-beak.php">IIICTZA Parrot's Beak</a><br>
+<a href="vte-ilo.php">Ilo Ilo</a><br>
+<a href="vte-intro.php">Intro (world empty)</a><br>
+<a href="vte-iron-triangle.php">Iron Triangle</a><br>
+<a href="vte-khe-sanh.php">Khe Sanh</a><br>
+<a href="vte-khu-san-ban.php">Khu San Ban</a><br>
+<a href="vte-ku-bao-tien.php">Ku Bao Tien Massiv</a><br>
+<a href="vte-long-son.php">Long Son</a><br>
+<a href="vte-mdsz.php">MDSZ</a><br>
+<a href="vte-meekong.php">Meekong</a><br>
+<a href="vte-mien-ran.php">Mien Ran</a><br>
+<a href="vte-nam-12.php">Vietnam 12km</a><br>
+<a href="vte-nam-25.php">Vietnam 25km</a><br>
+<a href="vte-noc-doc.php">Noc Doc</a><br>
+<a href="vte-nui-chet.php">Nui Chet</a><br>
+<a href="vte-polei-kleng.php">Polei Kleng</a><br>
+<a href="vte-pu-mat.php">Pu Mat</a><br>
+<a href="vte-quan-binh-son.php">Quan Binh Son</a><br>
+<a href="vte-rij.php">Rumble In The Jungle (RIJ)</a><br>
+<a href="vte-rssz.php">Rung Sat Special Zone (RSSZ)</a><br>
+<a href="vte-si-thau.php">Si Thau Plateau</a><br>
+<a href="vte-tet68.php">TET 68</a><br>
+<a href="vte-vinh-thanh.php">Vinh Thanh</a><br>
 </p>
 
-<a href="screenshots/VTE-Vietnam-Da-Nang-Satellite.jpg" target="_blank"><img src="screenshots/VTE-Vietnam-Da-Nang-Satellite.jpg" width="256" height="256" alt="PMC Vietnam, Da Nang Terrains Satellite Texture"></a>
+</div>
+<div class="grid-item">
 
-
-	<h2>PMC Vietnam, Dong Hoi</h2>
+	<h2>Cambodia</h2>
 
 <p>
-<a href="https://www.google.com/maps/@17.4031529,106.6551057,11.5z" target="_blank">google/maps</a>
+<a href="vte-cambodia-bar-kaev.php">Bar Kaev</a><br>
+<a href="vte-cambodia-krabei-chrum.php">Krabei Chrum</a><br>
+<a href="vte-cambodia-krong-svay-rieng.php">Krong Svay Rieng</a><br>
+<a href="vte-cambodia-pech-chreada.php">Pech Chreada</a><br>
+<a href="vte-cambodia-ponhea-kraek.php">Ponhea Kraek</a><br>
+<a href="vte-cambodia-siem-pang.php">Siem Pang</a><br>
 </p>
 
-<a href="screenshots/VTE-Vietnam-Dong-Hoi-Satellite.jpg" target="_blank"><img src="screenshots/VTE-Vietnam-Dong-Hoi-Satellite.jpg" width="256" height="256" alt="PMC Vietnam, Dong Hoi Terrains Satellite Texture"></a>
+</div>
+<div class="grid-item">
 
-	<h2>PMC Vietnam, Hanoi</h2>
-
-<p>
-<a href="https://www.google.com/maps/@20.9538171,105.9225305,11.25z" target="_blank">google/maps</a></p>
-
-<a href="screenshots/VTE-Vietnam-Hanoi-Satellite.jpg" target="_blank"><img src="screenshots/VTE-Vietnam-Hanoi-Satellite.jpg" width="256" height="256" alt="PMC Vietnam, Hanoi Terrains Satellite Texture"></a>
-
-
-	<h2>PMC Vietnam, Pleiku</h2>
+	<h2>Laos</h2>
 
 <p>
-<a href="https://www.google.com/maps/@13.9775354,108.0447343,11.75z" target="_blank">google/maps</a>
+<a href="vte-laos-ban-loboy.php">Ban Loboy</a><br>
+<a href="vte-laos-ban-pakha.php">Ban Pakha</a><br>
+<a href="vte-laos-ban-senphan.php">Ban Senphan</a><br>
+<a href="vte-laos-long-tieng.php">Long Tieng</a><br>
+<a href="vte-laos-sempo.php">Sempo</a><br>
+<a href="vte-laos-xepon.php">Xepon</a><br>
 </p>
 
-<a href="screenshots/VTE-Vietnam-Pleiku-Satellite.jpg" target="_blank"><img src="screenshots/VTE-Vietnam-Pleiku-Satellite.jpg" width="256" height="256" alt="PMC Vietnam, Pleiku Terrains Satellite Texture"></a>
+</div>
+<div class="grid-item">
 
-
-	<h2>PMC Vietnam, Saigon</h2>
-
-<p>
-<a href="https://www.google.com/maps/@10.8184236,106.6651817,10.75z" target="_blank">google/maps</a>
-</p>
-
-<a href="screenshots/VTE-Vietnam-Saigon-Satellite.jpg" target="_blank"><img src="screenshots/VTE-Vietnam-Saigon-Satellite.jpg" width="256" height="256" alt="PMC Vietnam, Saigon Terrains Satellite Texture"></a>
-
-	<h2>PMC Vietnam, Vinh</h2>
+	<h2>Vietnam</h2>
 
 <p>
-<a href="https://www.google.com/maps/@18.5317869,105.8066413,11.5z" target="_blank">google/maps</a>
+<a href="vte-vietnam-binh-long.php">Binh Long</a><br>
+<a href="vte-vietnam-dak-mon.php">Dak Mon</a><br>
+<a href="vte-vietnam-da-nang.php">Da Nang</a><br>
+<a href="vte-vietnam-dong-hoi.php">Dong Hoi</a><br>
+<a href="vte-vietnam-hanoi.php">Hanoi</a><br>
+<a href="vte-vietnam-hong-bac.php">Hong Bac</a><br>
+<a href="vte-vietnam-hue-city.php">Hue City</a><br>
+<a href="vte-vietnam-ia-drang-40km.php">Ia Drang Valley 40km</a><br>
+<a href="vte-vietnam-pleiku.php">Pleiku</a><br>
+<a href="vte-vietnam-saigon.php">Saigon</a><br>
+<a href="vte-vietnam-than-loa.php">Than Loa</a><br>
+<a href="vte-vietnam-vinh.php">Vinh</a><br>
+<a href="vte-vietnam-xuan-trach.php">Xuan Trach</a><br>
 </p>
 
-<a href="screenshots/VTE-Vietnam-Vinh-Satellite.jpg" target="_blank"><img src="screenshots/VTE-Vietnam-Vinh-Satellite.jpg" width="256" height="256" alt="PMC Vietnam, Vinh Terrains Satellite Texture"></a>
-
-	<h2>Terrain Torrent Downloads</h2>
-
-<p>
-These terrain torrent downloads are from the PMC_ tagged releases before they were included in VTE mod terrain pack 3. These torrents are still alive and being seeded even though terrains are actually kind of "obsolete" now.
-</p>
-
-<ul>
-<li><b>Da Nang v0.2</b> 2.75gb <a href="magnet:?xt=urn:btih:FE0480F4C402858058C5F5B976DE4E6419489734&dn=pmc_vietnam_da_nang_v0.2.7z&tr=udp://tracker.skyts.net:6969/announce&tr=udp://tracker.safe.moe:6969/announce&tr=udp://tracker.piratepublic.com:1337/announce&tr=udp://tracker.pirateparty.gr:6969/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://allesanddro.de:1337/announce&tr=udp://9.rarbg.com:2710/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://public.popcorn-tracker.org:6969/announce&tr=udp://wambo.club:1337/announce&tr=udp://trackerxyz.tk:1337/announce&tr=udp://tracker4.itzmx.com:2710/announce&tr=udp://tracker2.christianbro.pw:6969/announce&tr=udp://tracker1.xku.tv:6969/announce&tr=udp://tracker1.wasabii.com.tw:6969/announce&tr=udp://tracker.zer0day.to:1337/announce">Torrent Magnet</a>
-</li>
-
-<li><b>Dong Hoi v0.2</b> 2.01gb <a href="magnet:?xt=urn:btih:617ACCC08173ADD960354CB17EB489B22BD10B21&dn=pmc_vietnam_dong_hoi_v0.2.7z&tr=udp://tracker.skyts.net:6969/announce&tr=udp://tracker.safe.moe:6969/announce&tr=udp://tracker.piratepublic.com:1337/announce&tr=udp://tracker.pirateparty.gr:6969/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://allesanddro.de:1337/announce&tr=udp://9.rarbg.com:2710/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://public.popcorn-tracker.org:6969/announce&tr=udp://wambo.club:1337/announce&tr=udp://trackerxyz.tk:1337/announce&tr=udp://tracker4.itzmx.com:2710/announce&tr=udp://tracker2.christianbro.pw:6969/announce&tr=udp://tracker1.xku.tv:6969/announce&tr=udp://tracker1.wasabii.com.tw:6969/announce&tr=udp://tracker.zer0day.to:1337/announce">Torrent Magnet</a>
-</li>
-
-<li><b>Hanoi v0.2</b> 2.92gb <a href="magnet:?xt=urn:btih:98A8349624AA469A4668FC3815DFE7C6DDF4D0D4&dn=pmc_vietnam_hanoi_v0.2.7z&tr=udp://tracker.skyts.net:6969/announce&tr=udp://tracker.safe.moe:6969/announce&tr=udp://tracker.piratepublic.com:1337/announce&tr=udp://tracker.pirateparty.gr:6969/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://allesanddro.de:1337/announce&tr=udp://9.rarbg.com:2710/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://public.popcorn-tracker.org:6969/announce&tr=udp://wambo.club:1337/announce&tr=udp://trackerxyz.tk:1337/announce&tr=udp://tracker4.itzmx.com:2710/announce&tr=udp://tracker2.christianbro.pw:6969/announce&tr=udp://tracker1.xku.tv:6969/announce&tr=udp://tracker1.wasabii.com.tw:6969/announce&tr=udp://tracker.zer0day.to:1337/announce">Torrent Magnet</a>
-</li>
-
-<li><b>Pleiku v0.2</b> 3.39gb <a href="magnet:?xt=urn:btih:C35AC3DACCD6B84DD59EE641D78D9730C3E80128&dn=pmc_vietnam_pleiku_v0.2.7z&tr=udp://tracker.skyts.net:6969/announce&tr=udp://tracker.safe.moe:6969/announce&tr=udp://tracker.piratepublic.com:1337/announce&tr=udp://tracker.pirateparty.gr:6969/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://allesanddro.de:1337/announce&tr=udp://9.rarbg.com:2710/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://public.popcorn-tracker.org:6969/announce&tr=udp://wambo.club:1337/announce&tr=udp://trackerxyz.tk:1337/announce&tr=udp://tracker4.itzmx.com:2710/announce&tr=udp://tracker2.christianbro.pw:6969/announce&tr=udp://tracker1.xku.tv:6969/announce&tr=udp://tracker1.wasabii.com.tw:6969/announce&tr=udp://tracker.zer0day.to:1337/announce">Torrent Magnet</a>
-</li>
-
-<li><b>Saigon v0.2</b> 3gb <a href="magnet:?xt=urn:btih:F87BF3E53667D9A556F9EF043965CF20F169CE10&dn=pmc_vietnam_saigon_v0.2.7z&tr=udp://tracker.skyts.net:6969/announce&tr=udp://tracker.safe.moe:6969/announce&tr=udp://tracker.piratepublic.com:1337/announce&tr=udp://tracker.pirateparty.gr:6969/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://allesanddro.de:1337/announce&tr=udp://9.rarbg.com:2710/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://public.popcorn-tracker.org:6969/announce&tr=udp://wambo.club:1337/announce&tr=udp://trackerxyz.tk:1337/announce&tr=udp://tracker4.itzmx.com:2710/announce&tr=udp://tracker2.christianbro.pw:6969/announce&tr=udp://tracker1.xku.tv:6969/announce&tr=udp://tracker1.wasabii.com.tw:6969/announce&tr=udp://tracker.zer0day.to:1337/announce">Torrent Magnet</a>
-</li>
-
-<li><b>Vinh v0.2</b> 2.02gb <a href="magnet:?xt=urn:btih:F9D5165BD005AB861F2D8715A4C46AD96C06AC17&dn=pmc_vietnam_vinh_v0.2.7z&tr=udp://tracker.skyts.net:6969/announce&tr=udp://tracker.safe.moe:6969/announce&tr=udp://tracker.piratepublic.com:1337/announce&tr=udp://tracker.pirateparty.gr:6969/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://allesanddro.de:1337/announce&tr=udp://9.rarbg.com:2710/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://public.popcorn-tracker.org:6969/announce&tr=udp://wambo.club:1337/announce&tr=udp://trackerxyz.tk:1337/announce&tr=udp://tracker4.itzmx.com:2710/announce&tr=udp://tracker2.christianbro.pw:6969/announce&tr=udp://tracker1.xku.tv:6969/announce&tr=udp://tracker1.wasabii.com.tw:6969/announce&tr=udp://tracker.zer0day.to:1337/announce">Torrent Magnet</a>
-</li>
-</ul>
+</div>
+</div> <!-- grid-container -->
 
 </section>
 

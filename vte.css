@@ -1,31 +1,56 @@
 
 body
 {
-	background: url(images/background.gif) white;
-	color: black;
+	background: #262626;
+	color: #cccccc;
 
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 16px;
+	font-size: 24px;
 
-	max-width: 1200px;
-	margin: 0 auto;
+	text-align: left;
+	max-width: 100%;
+	margin: 0px 10px;
 }
 
-.small
+@media only screen and (min-width: 768px)
 {
-	/* 75% of the baseline */
-	font-size: 12px;
+	body
+	{
+		max-width: 100%;
+		font-size: 16px;
+	}
 }
 
-.large
+a
 {
-	/* 125% of the baseline */
-	font-size: 20px;
+	color: darkorange;
+}
+
+b
+{
+	color: white;
+}
+
+pre
+{
+	white-space: pre-wrap;
 }
 
 h1
 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 32px;
+	color: white;
+}
+
+h2
+{
+	color: white;
+}
+
+h3
+{
+	color: white;
 }
 
 header
@@ -47,9 +72,8 @@ footer
 
 .vte_arma2_missions
 {
-	background: white;
-
-	font-size: 16px;
+	background: #262626;
+	color: #cccccc;
 }
 
 table
@@ -57,4 +81,46 @@ table
 	width: 100%;
 	background-color: white;
 	border: 1px solid black;
+}
+
+.ofpscreenshot
+{
+	max-width: 128px;
+	width: auto;
+	height: auto;
+	padding: 5px;
+}
+
+.armascreenshot
+{
+	max-width: 128px;
+	width: auto;
+	height: auto;
+	padding: 5px;
+}
+
+.arma2screenshot
+{
+	max-width: 128px;
+	width: auto;
+	height: auto;
+	padding: 5px;
+}
+
+.a3satimg
+{
+	max-width: 256px;
+	width: auto;
+	height: auto;
+}
+
+.grid-container
+{
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+}
+
+.grid-item
+{
+	padding: 5px;
 }

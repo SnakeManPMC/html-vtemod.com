@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Vietnam: The Experience, ArmA 3</title>
 <LINK href="../vte.css" rel=stylesheet type="text/css">
@@ -31,8 +31,17 @@ Welcome to Vietnam: The Experience (VTE) ArmA 3 mod page. In here you can find t
 </p>
 
 <p>
-See <a href="preview.php">VTE ArmA 3 Preview 2013</a> and <a href="terrains.php">Terrains</a>, View some <a href="screenshots.php">VTE ArmA 3 screenshots</a> and <a href="https://www.youtube.com/user/pmcsince1984" target="_blank">PMC Youtube Channel</a> for videos.
+<a href="campaigns.php">Campaigns</a><br>
+<a href="characters.php">Characters</a><br>
+<a href="https://www.youtube.com/playlist?list=PLKt0kt4BAefnDSaTVjQ3hBoIcPYbmToNg" target="_blank">Youtube VTE ArmA 3 Playlist</a><br>
+<a href="preview.php">Preview 2013</a><br>
+<a href="screenshots.php">Screenshots</a><br>
+<a href="terrains.php">Terrains</a><br>
+<a href="vehicles.php">Vehicles</a><br>
+<a href="weapons.php">Weapons</a><br>
 </p>
+
+Music / Sounds: 34 tracks of authentic 1960's era music. Hundreds of sound bits to be used in missions. 
 
 </section>
 

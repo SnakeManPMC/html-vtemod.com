@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Vietnam: The Experience, ArmA</title>
 <LINK href="../vte.css" rel=stylesheet type="text/css">
@@ -33,7 +33,7 @@ Final ArmA version of VTE is 06-14-10 released at June 14th, 2010. Check <a href
 </p>
 
 <p>
-Read the <a href="https://www.pmctactical.org/manual/doku.php?id=arma:vte" target="_blank">VTE ArmA Online Manual</a> for details. Check out some <a href="https://www.pmctactical.org/forum/viewtopic.php?t=21169" target="_blank">VTE ArmA Screenshots</a> from our forum.
+Read the <a href="https://www.pmctactical.org/manual/doku.php?id=arma:vte" target="_blank">VTE ArmA Online Manual</a> for details. Check out some <a href="https://www.pmctactical.org/forum/viewtopic.php?t=21169" target="_blank">PMC Tactical Forums ArmA VTE Screenshots</a> and <a href="screenshots.php">ArmA VTE screenshots</a> page.
 </p>
 
 <p>

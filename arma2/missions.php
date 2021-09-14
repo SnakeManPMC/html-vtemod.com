@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Vietnam: The Experience - ArmA 2 Missions</title>
 <LINK href="../vte.css" rel=stylesheet type="text/css">

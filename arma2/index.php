@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Vietnam: The Experience, ArmA 2</title>
 <LINK href="../vte.css" rel=stylesheet type="text/css">
@@ -43,7 +43,7 @@ Torrent <a href="magnet:?xt=urn:btih:AA8CD225D4538DFCA55ADA461799F19EC00544ED&dn
 </p>
 
 <p>
-Required Addons: <a href="http://dev-heaven.net/projects/show/cca" target="_blank">Extended eventhandlers</a>
+Required Addons: Extended eventhandlers.
 </p>
 
 <p>

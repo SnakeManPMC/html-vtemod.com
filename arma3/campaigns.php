@@ -37,7 +37,7 @@ Campaign by Snake Man, PMC. Aircraft campaign, F4E Phantom fighter bomber.
 	<h2>SEAL Team</h2>
 
 <p>
-Campaign by Snake Man, PMC. Originally creted in ... hmm very late Operation Flashpoint era, then ported to arma1/2 and now to arma3. Uses 7 mission ending options to choose next mission, this will be upgraded to literally unlimited next mission choosing option with arma3 description.ext features.
+Campaign by Snake Man, PMC. Originally created in ... hmm very late Operation Flashpoint era, then ported to arma1/2 and now to arma3. Uses 7 mission ending options to choose next mission, this will be upgraded to literally unlimited next mission choosing option with arma3 description.ext features.
 </p>
 
 	<h2>SOG Real War</h2>

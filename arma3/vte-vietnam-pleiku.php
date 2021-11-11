@@ -42,17 +42,6 @@ Satellite surface mask size: 1024 x 1024 pixels<br>
 Texture layer size: 140m x 140m
 </p>
 
-	<h2>Terrain Torrent Downloads</h2>
-
-<p>
-These terrain torrent downloads are from the PMC_ tagged releases before they were included in VTE mod terrain pack 3. These torrents are still alive and being seeded even though terrains are actually kind of "obsolete" now.
-</p>
-
-<ul>
-<li><b>Pleiku v0.2</b> 3.39gb <a href="magnet:?xt=urn:btih:C35AC3DACCD6B84DD59EE641D78D9730C3E80128&dn=pmc_vietnam_pleiku_v0.2.7z&tr=udp://tracker.skyts.net:6969/announce&tr=udp://tracker.safe.moe:6969/announce&tr=udp://tracker.piratepublic.com:1337/announce&tr=udp://tracker.pirateparty.gr:6969/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://allesanddro.de:1337/announce&tr=udp://9.rarbg.com:2710/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://public.popcorn-tracker.org:6969/announce&tr=udp://wambo.club:1337/announce&tr=udp://trackerxyz.tk:1337/announce&tr=udp://tracker4.itzmx.com:2710/announce&tr=udp://tracker2.christianbro.pw:6969/announce&tr=udp://tracker1.xku.tv:6969/announce&tr=udp://tracker1.wasabii.com.tw:6969/announce&tr=udp://tracker.zer0day.to:1337/announce">Torrent Magnet</a>
-</li>
-</ul>
-
 <p>
 Back to <a href="terrains.php">VTE terrains</a> page.
 </p>

@@ -4,7 +4,6 @@
 <title>Vietnam: The Experience, ArmA</title>
 <LINK href="../vte.css" rel=stylesheet type="text/css">
 <META name="description" content="Vietnam: The Experience ArmA - PMC Tactical ArmA Vietnam War Mod">
-<META name="keywords" content="PMC, Armed Assault, ArmA, Vietnam The Experience, VTE, Vietnam Mod, Vietnam Addon, Vietnam war">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,7 +13,6 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
 <h1>Vietnam: The Experience</h1>
 </header>
 
@@ -37,10 +35,7 @@ Read the <a href="https://www.pmctactical.org/manual/doku.php?id=arma:vte" targe
 </p>
 
 <p>
-Downloads: <a href="https://www.funkymonkeys.org/download/other/VTE_06-14-10_final.rar" target="_blank">funkymonkeys.org</a><br>
-Mirror 1: <a href="https://www.armaholic.com/page.php?id=3562" target="_blank">Armaholic.com</a><br>
-Mirror 2: <a href="https://www.armedassault.info/index.php?cat=news&amp;id=4370&amp;game=0" target="_blank">Armedassault.info</a><br>
-Download size is 1.2gb. more mirrors are very welcome!<br>
+Download: vietnam_the_experience_arma_1_final_2006-10-14.7z - 935mb. <a href="magnet:?xt=urn:btih:c4f9c1a38d1c77d22cfbf10914a0c1dbfb30d093&xt=urn:btmh:1220edd39fb0aa4180835008c123400fd72630e0ebaf0681cff22f8cfe0805258c2d&dn=vietnam_the_experience_arma_1_final_2006-10-14.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce" target="_blank">torrent magnet</a>.
 </p>
 
 <p>

@@ -37,9 +37,9 @@ Read the <a href="https://www.pmctactical.org/manual/doku.php?id=arma2:vte" targ
 </p>
 
 <p>
-Downloads (2.65gb):<br>
+Downloads vietnam_the_experience_v1.6.7z - 2.65gb<br>
 Torrent <a href="magnet:?xt=urn:btih:AA8CD225D4538DFCA55ADA461799F19EC00544ED&dn=vietnam_the_experience_v1.6.7z&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.zer0day.to:1337/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://p4p.arenabg.com:1337/announce&tr=udp://explodie.org:6969/announce&tr=http://explodie.org:6969/announce&tr=http://tracker.internetwarriors.net:1337/announce&tr=udp://tracker.mg64.net:6969/announce&tr=udp://mgtracker.org:2710/announce&tr=http://tracker.mg64.net:6881/announce&tr=http://mgtracker.org:6969/announce&tr=http://tracker.baravik.org:6970/announce&tr=http://torrentsmd.com:8080/announce&tr=http://tracker2.wasabii.com.tw:6969/announce&tr=http://tracker1.wasabii.com.tw:6969/announce&tr=http://tracker.skyts.net:6969/announce">Magnet URI</a>.<br>
-<a href="downloads/pmc_vte5.rar">pmc_vte5.rar</a> PMC VTE v1.5 public key for multiplayer server use.
+pmc_vte5.rar <a href="magnet:?xt=urn:btih:a1d288c5a7b2fcf1f6eed4bf58a2c907b5e44ae1&xt=urn:btmh:12208c275487dc4adebe41ad01cafb2c132c625fa9728900c98e8d2e4ab06faee1ca&dn=pmc_vte5.rar&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a> PMC VTE v1.5 public key for multiplayer server use.
 </p>
 
 <p>

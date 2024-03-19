@@ -24,7 +24,7 @@
 
 <p>
 Note that mission pack includes a <b>Campaign</b>, <b>Single player</b> and <b>Multi player</b> missions.<br>
-Download missions in one pack: <a href="downloads/VTE_ArmA_2_Mission_Pack_01-18-17.7z" target="_blank">VTE_ArmA_2_Mission_Pack_01-18-17.7z</a> - 6.15mb.
+Download missions in one pack: VTE_ArmA_2_Mission_Pack_01-18-17.7z <a href="magnet:?xt=urn:btih:b022ad45ea8d7207f1b6156331fcc9fe2f6cc608&xt=urn:btmh:12206b662c8cb2876a53f54f242c4dcae97665dba9ec92cddf4839e996f458cf3e44&dn=VTE_ArmA_2_Mission_Pack_01-18-17.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>.
 </p>
 
 <table class="vte_arma2_missions">

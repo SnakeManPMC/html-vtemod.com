@@ -35,6 +35,10 @@ Read the <a href="https://www.pmctactical.org/manual/doku.php?id=arma:vte" targe
 </p>
 
 <p>
+If you want to send in <a href="bug-reports.php">VTE ArmA 1 Bug Reports</a> please feel free to do so.
+</p>
+
+<p>
 Download: vietnam_the_experience_arma_1_final_2006-10-14.7z - 935mb. <a href="magnet:?xt=urn:btih:c4f9c1a38d1c77d22cfbf10914a0c1dbfb30d093&xt=urn:btmh:1220edd39fb0aa4180835008c123400fd72630e0ebaf0681cff22f8cfe0805258c2d&dn=vietnam_the_experience_arma_1_final_2006-10-14.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce" target="_blank">torrent magnet</a>.
 </p>
 

@@ -97,6 +97,15 @@ Apple, Bouncing Betty, Claymore, M49 trip flare, M14 mine, MON-200, POMZ, whip t
 </p>
 
 <p>
+<a href="manual-home.php">Manual Home VTE ArmA 2</a>
+</p>
+
+<!--
+<p>
+<a href=".php">Manual TITLE VTE ArmA 2</a>
+</p>
+-->
+<p>
 For more information read our <a href="https://www.pmctactical.org/forum/viewforum.php?f=56" target="_blank">VTE ArmA 2 forums</a>.
 </p>
 

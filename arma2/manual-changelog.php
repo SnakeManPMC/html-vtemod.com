@@ -1,0 +1,2674 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Manual Changelog Vietnam: The Experience ArmA 2</title>
+<LINK href="../vte.css" rel=stylesheet type="text/css">
+<META name="description" content="Manual Changelog Vietnam: The Experience ArmA 2">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<?php include("../include/google-analytics.php"); ?>
+
+</head>
+<body>
+
+<header>
+<h1>Manual Changelog Vietnam: The Experience ArmA 2</h1>
+</header>
+
+<section>
+	<h2>Manual Changelog Vietnam: The Experience ArmA 2</h2>
+
+<p>
+Back to <a href="manual-home.php">Manual home</a> or <a href="index.php">VTE ArmA 2 root</a> page.
+</p>
+
+	<h2>v1.6</h2>
+
+<p>
+This is final VTE ArmA 2 release
+</p>
+<pre>
+--- fixes v1.6
+- pmc\vte_mines\vte_apple.p3d: No geometry and no visual shape, fixed.
+- pmc\vte_mines\vte_bbetty.p3d: No geometry and no visual shape, fixed.
+- pmc\vte_mines\vte_claymore.p3d: No geometry and no visual shape, fixed.
+- pmc\vte_mines\vte_m49tripflare.p3d: No geometry and no visual shape, fixed.
+- pmc\vte_mines\vte_minem14.p3d: No geometry and no visual shape, fixed.
+- pmc\vte_mines\vte_mon200.p3d: No geometry and no visual shape, fixed.
+- pmc\vte_mines\vte_pomz.p3d: No geometry and no visual shape, fixed.
+- pmc\vte_mines\vte_pomzlong.p3d: No geometry and no visual shape, fixed.
+- pmc\vte_mines\vte_whiptrap.p3d: No geometry and no visual shape, fixed.
+- gao rung terrain grid increased to 4096 and cell size lowered to 12.5m.
+- vte aircombat terrain name changed to gao rung.
+- vte 25km demo terrain name changed to nui chet.
+- c_autumn_fern.rvmat wrong path, fixed.
+- c_grassbunchdry.rvmat wrong path, fixed.
+- class land_vte_afbwall1 exists, but there is no property class in pmc\vte_objects\vte_afbwall1.p3d, fixed.
+- class land_vte_bis_pristresek_mensi exists, but there is no property class in pmc\vte_bis_obj\vte_bis_pristresek_mensi.p3d, fixed.
+- class land_vte_bis_pytle exists, but there is no property class in pmc\vte_bis_obj\vte_bis_pytle.p3d, fixed.
+- class land_vte_bis_pytle_bsl exists, but there is no property class in pmc\vte_bis_obj\vte_bis_pytle_bsl.p3d, fixed.
+- class land_vte_bunker1 exists, but there is no property class in pmc\vte_objects\vte_bunker1.p3d, fixed.
+- class land_vte_ustent_med exists, but there is no property class in pmc\vte_objects\vte_ustent_med.p3d, fixed.
+- class land_vte_ustent_noside exists, but there is no property class in pmc\vte_objects\vte_ustent_noside.p3d, fixed.
+- class land_vte_ustent_small exists, but there is no property class in pmc\vte_objects\vte_ustent_small.p3d, fixed.
+- vte_grass02 missing from objects config, fixed.
+- vte_grass03 missing from objects config, fixed.
+- vte_grass04 missing from objects config, fixed.
+- vte_grass05 missing from objects config, fixed.
+- vinh thanh wrp and class name doesnt match (savegames dont work), fixed.
+- quan binh son wrp and class name doesnt match (savegames dont work), fixed.
+- polei kleng wrp and class name doesnt match (savegames dont work), fixed.
+- long son wrp and class name doesnt match (savegames dont work), fixed.
+- iron triangle wrp and class name doesnt match (savegames dont work), fixed.
+- ia drang wrp and class name doesnt match (savegames dont work), fixed.
+- khe sanh wrp and class name doesnt match (savegames dont work), fixed.
+- bm8 cargo get-in point moved to right hand side.
+- bm8 map icon is missing, fixed.
+- btr50 driver view blocked, fixed.
+- btr50 headlight planes visible after being destroyed, fixed.
+- btr50 damage textures doesn't work, fixed.
+- btr50: hatchgunner - unknown animation source hatchgunner, fixed.
+- btr50: maingun - unknown animation source maingun, fixed.
+- btr50: mainturret - unknown animation source mainturret, fixed.
+- btr50: obsgun - unknown animation source obsgun, fixed.
+- btr50: obsturret - unknown animation source obsturret, fixed.
+- 7mountains trees cleaned out from bunker complex in south central.
+- 7mountains bushes cleaned out from bunker complex in south central.
+- 7mountains bridge objects floating, fixed.
+- 7mountains pier objects floating, fixed.
+- 7mountains hooch objects floating, fixed.
+- 7mountains dockhouse object floating, fixed.
+- vte aircombat low and high canopy jungles added.
+- vte aircombat layers texture/mask split into vte_terrain_wrp_aircombat_data_layers\Layers_00, _01 and _02 dirs.
+- vte aircombat layers rvmat's split into vte_terrain_wrp_aircombat_data_layers\Layers dir.
+- vte aircombat texture base layer size increased from 50m to 200m.
+- vte aircombat new 20480 res satellite texture created from ground up.
+- music song VTE_countryjoe added.
+- long son layers texture/mask split into vte_terrain_wrp_long_son_data_layers\Layers_00 dir.
+- long son layers rvmat's split into vte_terrain_wrp_long_son_data_layers\Layers dir.
+- long son texture base layer size increased from 50m to 100m.
+- long son satellite texture resolution increased to 6400.
+- long son satellite mask resolution increased to 6400.
+- ku bao tien layers texture/mask split into vte_terrain_wrp_ku_bao_tien_data_layers\Layers_00, _01 and _02 dirs.
+- ku bao tien layers rvmat's split into vte_terrain_wrp_ku_bao_tien_data_layers\Layers dir.
+- vte 25km demo layers texture/mask split into vte_terrain_wrp_25km_demo_data_layers\Layers_00, _01 and _02 dirs.
+- vte 25km demo layers rvmat's split into vte_terrain_wrp_25km_demo_data_layers\Layers dir.
+- vte 25km demo new 20480 res satellite texture created from ground up.
+- vte 25km demo new 20480 res satellite mask created from ground up.
+- vte 25km demo new roads added to two locations.
+- vte 25km demo city 01 building placement adjusted so ai might be able to walk there now.
+- rij layers texture/mask split into vte_terrain_wrp_rij_data_layers\Layers_00 and _01 dirs.
+- rij layers rvmat's split into vte_terrain_wrp_rij_data_layers\Layers dir.
+- rij texture base layer size increased from 50m to 100m.
+- rij satellite texture resolution increased to 12800.
+- rij satellite mask resolution increased to 12800.
+- rssz full name included.
+- vinh thanh layers texture/mask split into vte_terrain_wrp_vinh_thanh_data_layers\Layers_00 and _01 dirs.
+- vinh thanh layers rvmat's split into vte_terrain_wrp_vinh_thanh_data_layers\Layers dir.
+- vinh thanh texture base layer size increased from 50m to 100m.
+- si thau layers texture/mask split into vte_terrain_wrp_si_thau_data_layers\Layers_00, _01 and _02 dirs.
+- si thau layers rvmat's split into vte_terrain_wrp_si_thau_data_layers\Layers dir.
+- rssz layers texture/mask split into vte_terrain_wrp_rssz_data_layers\Layers_00 and _01 dirs.
+- rssz layers rvmat's split into vte_terrain_wrp_rssz_data_layers\Layers dir.
+- rssz texture base layer size increased from 50m to 100m.
+- quan binh son layers texture/mask split into vte_terrain_wrp_quan_binh_son_data_layers\Layers_00 and _01 dirs.
+- quan binh son layers rvmat's split into vte_terrain_wrp_quan_binh_son_data_layers\Layers dir.
+- quan binh son texture base layer size increased from 50m to 100m.
+- pu mat layers texture/mask split into vte_terrain_wrp_pu mat_data_layers\Layers_00, _01 and _02 dirs.
+- pu mat layers rvmat's split into vte_terrain_wrp_pu mat_data_layers\Layers dir.
+- polei kleng layers texture/mask split into vte_terrain_wrp_polei_kleng_data_layers\Layers_00 and _01 dirs.
+- polei kleng layers rvmat's split into vte_terrain_wrp_polei_kleng_data_layers\Layers dir.
+- polei kleng texture base layer size increased from 50m to 100m.
+- nam_25 layers texture/mask split into vte_terrain_wrp_nam_25_data_layers\Layers_00, _01 and _02 dirs.
+- nam_25 layers rvmat's split into vte_terrain_wrp_nam_25_data_layers\Layers dir.
+- nam_25 texture base layer size increased from 50m to 100m.
+- nam_25 satellite texture resolution increased to 20480.
+- nam_25 satellite mask resolution increased to 20480.
+- nam_12 layers texture/mask split into vte_terrain_wrp_nam_12_data_layers\Layers_00 and _01 dirs.
+- nam_12 layers rvmat's split into vte_terrain_wrp_nam_12_data_layers\Layers dir.
+- nam_12 texture base layer size increased from 50m to 100m.
+- meekong layers texture/mask split into vte_terrain_wrp_meekong_data_layers\Layers_00 and _01 dirs.
+- meekong layers rvmat's split into vte_terrain_wrp_meekong_data_layers\Layers dir.
+- meekong texture base layer size increased from 50m to 100m.
+- mdsz layers texture/mask split into vte_terrain_wrp_mdsz_data_layers\Layers_00 and _01 dirs.
+- mdsz layers rvmat's split into vte_terrain_wrp_mdsz_data_layers\Layers dir.
+- mdsz texture base layer size increased from 50m to 100m.
+- khe sanh layers texture/mask split into vte_terrain_wrp_khe_sanh_data_layers\Layers_00 and _01 dirs.
+- khe sanh layers rvmat's split into vte_terrain_wrp_khe_sanh_data_layers\Layers dir.
+- khe sanh texture base layer size increased from 50m to 100m.
+- ilo layers texture/mask split into vte_terrain_wrp_ilo_data_layers\Layers_00 and _01 dirs.
+- ilo layers rvmat's split into vte_terrain_wrp_ilo_data_layers\Layers dir.
+- ilo texture base layer size increased from 50m to 100m.
+- iiictza layers texture/mask split into vte_terrain_wrp_iiictza_data_layers\Layers_00 and _01 dirs.
+- iiictza layers rvmat's split into vte_terrain_wrp_iiictza_data_layers\Layers dir.
+- iiictza texture base layer size increased from 50m to 100m.
+- ia drang layers texture/mask split into vte_terrain_wrp_ia_drang_data_layers\Layers_00 and _01 dirs.
+- ia drang layers rvmat's split into vte_terrain_wrp_ia_drang_data_layers\Layers dir.
+- dak seang layers texture/mask split into vte_terrain_wrp_dak_seang_data_layers\Layers_00 and _01 dirs.
+- dak seang layers rvmat's split into vte_terrain_wrp_dak_seang_data_layers\Layers dir.
+- dak seang texture base layer size increased from 50m to 100m.
+- bra layers texture/mask split into vte_terrain_wrp_bra_data_layers\Layers_00 and _01 dirs.
+- bra layers rvmat's split into vte_terrain_wrp_bra_data_layers\Layers dir.
+- bra texture base layer size increased from 50m to 100m.
+- pacv map icon is rotated wrong, fixed.
+- a7 cant get in pilot, fixed.
+- pacv cant get in cargo, fixed.
+- pacv cant get in driver, fixed.
+- australianao layers texture/mask split into vte_terrain_wrp_australianao_data_layers\Layers_00, _01 and _02 dirs.
+- australianao layers rvmat's split into vte_terrain_wrp_australianao_data_layers\Layers dir.
+- australianao texture base layer size increased from 50m to 100m.
+- australianao satellite texture resolution increased to 20480.
+- australianao satellite mask resolution increased to 20480.
+- ashau valley layers texture/mask split into vte_terrain_wrp_ashau_data_layers\Layers_00 and _01 dirs.
+- ashau valley layers rvmat's split into vte_terrain_wrp_ashau_data_layers\Layers dir.
+- ashau valley texture base layer size increased from 50m to 100m.
+- ashau valley satellite texture resolution increased to 20480.
+- ashau valley satellite mask resolution increased to 20480.
+- 7mountains layers texture/mask split into vte_terrain_wrp_7m_data_layers\Layers_00 and _01 dirs.
+- 7mountains layers rvmat's split into vte_terrain_wrp_7m_data_layers\Layers dir.
+- 7mountains texture base layer size increased from 50m to 100m.
+- 7mountains satellite texture resolution increased to 20480.
+- 7mountains satellite mask resolution increased to 20480.
+- gao rung mission editor centerposition is not center, fixed.
+- nui chet mission editor centerposition is not center, fixed.
+- vte_sea\data\pbr.rvmat says lssc_smdi instead of pbr_smdi, fixed.
+- vte_m79 missing aiDispersionCoefX, fixed.
+- ai infantry m72 law wont fire on vehicles, fixed.
+- us army machine gunner has a backpack, even if he has no available slot for it, fixed.
+- arvn (bar) machine gunner has a backpack, even if he has no available slot for it, fixed.
+- arvn (m60) machine gunner has a backpack, even if he has no available slot for it, fixed.
+- arvn (m60) 2 machine gunner has a backpack, even if he has no available slot for it, fixed.
+- lrrp (m60) machine gunner has a backpack, even if he has no available slot for it, fixed.
+- lrrp tiger (m60) machine gunner has a backpack, even if he has no available slot for it, fixed.
+- mfr (m60) machine gunner has a backpack, even if he has no available slot for it, fixed.
+- mike (bar) machine gunner has a backpack, even if he has no available slot for it, fixed.
+- mike (m60) machine gunner has a backpack, even if he has no available slot for it, fixed.
+- nva (rpd) machine gunner has a backpack, even if he has no available slot for it, fixed.
+- sf (m60s) machine gunner has a backpack, even if he has no available slot for it, fixed.
+- sog (rpd) machine gunner has a backpack, even if he has no available slot for it, fixed.
+- sog (m60) machine gunner has a backpack, even if he has no available slot for it, fixed.
+- sog recon (rpd) machine gunner has a backpack, even if he has no available slot for it, fixed.
+- mdsz freeze due too many objects on top of each other on small area, fixed.
+- ashau freeze due too many objects on top of each other on small area, fixed.
+- m551 horrible engine sounds, fixed.
+- m48 horrible engine sounds, fixed.
+- pt76 horrible engine sounds, fixed.
+- t54 horrible engine sounds, fixed.
+- su76 horrible engine sounds, fixed.
+- zsu37 horrible engine sounds, fixed.
+- infantry weapon sound volume/distance tweaks.
+</pre>
+
+
+	<h2>v1.5.27 Delta Upgrade</h2>
+
+<pre>
+--- fixes v1.5.27
+- pacv hovercraft from banana added.
+- a7 corsair from aplion added.
+</pre>
+
+
+	<h2>v1.5.26 Delta Upgrade</h2>
+
+<pre>
+--- fixes v1.5.26 (v1.5 delta patching upgrade)
+- terrains centerposition values changed to real dead center of the map position
+- vte 25km demo seabed satellite texture added (whole sat is work in progress)
+- btr50 new model added from banana
+- remington 11-48 added from banana.
+- tango atc boat added from banana.
+- thompson new model added from banana.
+- vte intro new cutscene added from banana.
+- vte intro terrain's cutscene had annoying firefight, fixed.
+- ia drang satellite texture edited to remove the ugly jagged edges from sand terrain type.
+- ia drang base texture layer size increased from 50m to 100m.
+</pre>
+
+
+	<h2>v1.5.25 Upgrade</h2>
+
+<pre>
+--- fixes v1.5.25 (v1.5 upgrade release)
+- voices disabled for nva as they spoke russian.
+- voices disabled for vc as they spoke russian.
+- trucks (us) have no starting sounds at all, fixed.
+- trucks (us) have no shutoff sounds at all, fixed.
+- vte_ac130 inherits vte_mc130 and its daisycutter.sqf fired eh, this causes huge performance loss, fixed.
+- birddog cockpit view (viewpilot) improved.
+- occludesounds are too strong for aircrafts, tweaked.
+- occludesounds are too strong for helicopters, tweaked.
+- obstructsounds are too strong for aircrafts, tweaked.
+- obstructsounds are too strong for helicopters, tweaked.
+- zsu57 needs vte weapons/magazines, added.
+- m163 vulcan cannon has very little ammo, fixed.
+- caliber info to weapon descriptions (when choosing weapon from ammo box), added.
+- m2 carbine is missing description short, fixed.
+- m40 description short typo in the variable name, fixed.
+- remington 700 description short typo in the variable name, fixed.
+- m39 is missing description short, fixed.
+- lssc gunner view has some default zoom in it, fixed.
+- pbr gunner view has some default zoom in it, fixed.
+- ch47 added capacity to carry backpacks (10).
+- ach47a added capacity to carry backpacks (10).
+- ch47 no zoom in left gunner view, fixed.
+- ch47 no zoom in right gunner view, fixed.
+- m21sd when picked up from ammo box loads non subsonic ammo, fixed.
+- m21sd ammo has subsonic crack, but its silenced, fixed.
+- music track names need vte tag on the name so they arent confused as arma2 songs, fixed.
+</pre>
+
+
+	<h2>v1.5</h2>
+
+<pre>
+--- fixes v1.5.24 (final v1.5 release)
+- b57 closing bracket missing from its name, fixed.
+- savegame no entry in config.bin/vte_nam_25, fixed.
+- savegame no entry in config.bin/vte_nam_12, fixed.
+- bra ilo palm tree floats, fixed.
+- bra pointy shaped dark leafs tree floats, fixed.
+- bra runway object floats, fixed.
+- bra two trunk tree floats, fixed.
+- iiictza bridge objects floating, fixed.
+- iiictza hooch objects floating, fixed.
+- iiictza pier objects floating, fixed.
+- terrain default starting weather changed to clear skies.
+- terrain default starting date changed to june 15th.
+- vte_trench1 has no geometry, fixed.
+- vte_trench1tri has no geometry, fixed.
+- polei kleng trees float little bit in slopes, fixed.
+- meekong big concrete gate object floats, fixed.
+- meekong palm tree floats, fixed.
+- meekong hooches floating, fixed.
+- mdsz banana tree floating, fixed.
+- mdsz bush floating, fixed.
+- mdsz heavy trunk tree floats, fixed.
+- iiictza banana tree floating, fixed.
+- iiictza bush floating, fixed.
+- australianao ils is wrong, in sw corner and no runway anywhere near, removed.
+- ashau heavy trunk tree floats, fixed.
+- ashau hooches floating, fixed.
+- bra leghorn base, floating ladder objects, fixed.
+- bra leghorn base, floating harbor concrete objects, fixed.
+- bra floating harbor objects, fixed.
+- bra floating hooch objects, fixed.
+- 7m floating bridges in sw corner, fixed.
+- 7m floating hooches, fixed.
+- 7m floating harbor objects, fixed.
+
+--- fixes v1.5.23 RELEASE CANDIDATE 2
+- kittyhawk bridge is transparent, fixed.
+- vte_trench1 can be destroyed by single bullet, fixed.
+
+--- fixes v1.5.22 RELEASE CANDIDATE 1
+- m21 optics reverted back to bis default.
+- m21 sd optics reverted back to bis default.
+- m40 optics reverted back to bis default.
+- remington 700 optics reverted back to bis default.
+- us sf sniper got the wrong backpack, fixed.
+- ku bao tien cleaned out vegetation near objects some more.
+- ku bao tien renamed villages to real names.
+- ku bao tien renamed fob's to real names.
+- ku bao tien removed vc cache names from map.
+- pu mat cleaned out vegetation near objects some more.
+- pu mat renamed villages to real names.
+- pu mat renamed fob's to real names.
+- pu mat removed vc cache names from map.
+- si thau cleaned out vegetation near objects some more.
+- si thau renamed villages to real names.
+- si thau renamed fob's to real names.
+
+--- fixes v1.5.21
+- runway object draw distance increased.
+- marsden mat object draw distance increased.
+- vte_bush05 canocclude is missing, fixed.
+- vte_bush06 canocclude is missing, fixed.
+- vte_bush07 canocclude is missing, fixed.
+- vte_bush08 canocclude is missing, fixed.
+- vte_bush09 canocclude is missing, fixed.
+- vte_bush10 canocclude is missing, fixed.
+- vte_bush11 canocclude is missing, fixed.
+- vte_bush12 canocclude is missing, fixed.
+- vte_bush13 canocclude is missing, fixed.
+- vte_bush14 canocclude is missing, fixed.
+- vte_bush15 canocclude is missing, fixed.
+- vte_bush16 canocclude is missing, fixed.
+- vte_bush17 canocclude is missing, fixed.
+- vte_bush18 canocclude is missing, fixed.
+- vte_bush19 canocclude is missing, fixed.
+- vte_bush20 canocclude is missing, fixed.
+- vte_bush21 canocclude is missing, fixed.
+- vte_bush22 canocclude is missing, fixed.
+- vte_bush23 canocclude is missing, fixed.
+- vte_bush24 canocclude is missing, fixed.
+- vte_bush25 canocclude is missing, fixed.
+- vte_bush26 canocclude is missing, fixed.
+- vte_bush27 canocclude is missing, fixed.
+- vte_bush28 canocclude is missing, fixed.
+- vte_bush29 canocclude is missing, fixed.
+- vte_bush30 canocclude is missing, fixed.
+- vte_bush31 canocclude is missing, fixed.
+- vte_bush32 canocclude is missing, fixed.
+- vte_bush33 canocclude is missing, fixed.
+- vte_bush34 canocclude is missing, fixed.
+- vte_bush35 canocclude is missing, fixed.
+- vte_bush36 canocclude is missing, fixed.
+- vte_bush37 canocclude is missing, fixed.
+- vte_bush38 canocclude is missing, fixed.
+- vte_grass_tall_01 canocclude is missing, fixed.
+- vte_grass02 canocclude is missing, fixed.
+- vte_grass03 canocclude is missing, fixed.
+- vte_grass04 canocclude is missing, fixed.
+- vte_grass05 canocclude is missing, fixed.
+- vte_tree_rubber01 canocclude is missing, fixed.
+- vte_tree_rubber02 canocclude is missing, fixed.
+- vte_tree_rubber03 canocclude is missing, fixed.
+- vte_tree_rubber04 canocclude is missing, fixed.
+- vte_tree09 canocclude is missing, fixed.
+- vte_tree11 canocclude is missing, fixed.
+- vte_tree12 canocclude is missing, fixed.
+- vte_tree13 canocclude is missing, fixed.
+- vte_tree14 canocclude is missing, fixed.
+- vte_tree15 canocclude is missing, fixed.
+- vte_tree16 canocclude is missing, fixed.
+- vte_tree17 canocclude is missing, fixed.
+- vte_tree18 canocclude is missing, fixed.
+- vte_tree19 canocclude is missing, fixed.
+- vte_tree20 canocclude is missing, fixed.
+- vte_tree21 canocclude is missing, fixed.
+- vte_tree22 canocclude is missing, fixed.
+- vte_tree23 canocclude is missing, fixed.
+- vte_tree24 canocclude is missing, fixed.
+- runway_main is not in config, fixed.
+- runway_main_tcross is not in config, fixed.
+- ku bao tien massiv map locations added.
+- pu mat wetlands map locations added.
+- si thau map locations added.
+- si thau village objects added.
+- si thau us fob objects added.
+
+--- fixes v1.5.20
+- vte_bis_obj_cfg building name with proper case.
+- vte_objects_cfg harbors moved to its own category.
+- vte_objects_cfg misc moved to its own category.
+- vte_objects_cfg villages moved to its own category.
+- vte_objects_cfg vegetation moved to its own category.
+- vte_objects_cfg fences moved to its own category.
+- vte_objects_cfg military moved to its own category.
+- vte_objects_cfg roads moved to its own category.
+- vte_objects_cfg bridges moved to its own category.
+- vte_objects_cfg buildings moved to its own category.
+- vte_flathousel door animation is not working, fixed.
+- vte_lumbershed door animation is not working, fixed.
+- vte_trench2ob door animation is not working, fixed.
+- vte_townhouse2 door animation is not working, fixed.
+- vte_factory1 door animation is not working, fixed.
+- vte_chickencoop1 was totally transparent, fixed.
+- vte_chickencoop1 door animation is not working, fixed.
+- vte_chickencoop2 door animation is not working, fixed.
+- vte_tigercage door animation is not working, fixed.
+- vte_barracks1 door animation is not working, fixed.
+- vte_barracks3 door animation is not working, fixed.
+- vte_barracks5 door animation is not working, fixed.
+- vte_cmdpost door animation is not working, fixed.
+- vte_concfence3c door animation is not working, fixed.
+- vte_hoianhouse3 door animation is not working, fixed.
+- vte_latrine door animation is not working, fixed.
+- vte_sfbunker1 door animation is not working, fixed.
+- vte_sfbunker2 door animation is not working, fixed.
+- vte_townhouse5 door animation is not working, fixed.
+- vte_ustent_sb2 door animation is not working, fixed.
+- vte_vccache1 door animation is not working, fixed.
+- sampan big cannot get in cargo, fixed.
+- sampan big cargo proxy is character just standing animation, fixed.
+- a4 needs agm-45 shrike loadout, fixed.
+- a4 display names changed to be more easier to read.
+- f105 display names changed to be more easier to read.
+- b52 display names changed to be more easier to read.
+- a6 needs agm-45 shrike loadout, fixed.
+- a6 display names changed to be more easier to read.
+- f105 needs agm-45 shrike loadout, fixed.
+- mohawk display names changed to be more easier to read.
+- bronco display names changed to be more easier to read.
+- f4 tan 4x mk84, 4x cbu52 added.
+- ac130 highres model added.
+
+--- fixes v1.5.19
+- vietnam 12km / 25km place in mission editor menu changed to alphabetical order.
+- winchester 11-48 model from skelig added.
+- vte_l1a1 key frame animation, no 'keyframe' property, fixed.
+- vte_mas36 key frame animation, no 'keyframe' property, fixed.
+- vte_mosina key frame animation, no 'keyframe' property, fixed.
+- vte_ppd40 key frame animation, no 'keyframe' property, fixed.
+- vte_sks key frame animation, no 'keyframe' property, fixed.
+- vte_stoner_ar key frame animation, no 'keyframe' property, fixed.
+- vte_stoner_mg key frame animation, no 'keyframe' property, fixed.
+- vte_type68 key frame animation, no 'keyframe' property, fixed.
+- vte_zsu57: hlaven2 - unknown animation source fire_anim, fixed.
+- vte_m551: hatchcommander - unknown animation source hatchcommander, fixed.
+- vte_zsu572 warning: unsupported uvset 2, fixed.
+- vte_zsu572 warning: special lod contains 2nd uv set, fixed.
+- vte_t54 warning: unsupported uvset 2, fixed.
+- vte_t54 warning: special lod contains 2nd uv set, fixed.
+- vte_m35_us_empty warning: special lod contains 2nd uv set, fixed.
+- vte_m35_us_a_fuel warning: special lod contains 2nd uv set, fixed.
+- vte_m35_us_a_cargo warning: special lod contains 2nd uv set, fixed.
+- vte_m35_us_a_ammo warning: special lod contains 2nd uv set, fixed.
+- vte_m35_us_a_3 warning: special lod contains 2nd uv set, fixed.
+- vte_m35_us_a_2 warning: special lod contains 2nd uv set, fixed.
+- vte_m35_us_a warning: special lod contains 2nd uv set, fixed.
+- vte_m35_mafia warning: special lod contains 2nd uv set, fixed.
+- vte_m35_arvn warning: special lod contains 2nd uv set, fixed.
+- vte_bulldozer warning: unsupported uvset 2, fixed.
+- vte_bulldozer warning: special lod contains 2nd uv set, fixed.
+- vte_btr50 warning: unsupported uvset 2, fixed.
+- vte_btr50 warning: special lod contains 2nd uv set, fixed.
+- vte_boforsl60: recoil_begin - unknown animation source recoil_source, fixed.
+- vte_nva.p3d:10000: bad proxy object definition proxy:\ca\weapons\rpg7_proxy.01, fixed.
+- vte_nva.p3d:10000: bad proxy object definition proxy:\ca\weapons\ak_47_v58_proxy.01, fixed.
+- vte_nva.p3d:10000: bad proxy object definition proxy:\ca\weapons\nvg_proxy.01, fixed.
+- vte_nva.p3d:10000: bad proxy object definition proxy:\ca\weapons\beretta.01, fixed.
+- vte_nva.p3d:10000: bad proxy object definition proxy:\ca\weapons\dalekohled_proxy.01, fixed.
+- vte_nva.p3d:10000: bad proxy object definition proxy:\ca\characters\flag_vojak.001, fixed.
+- vte_nva_sniper.p3d:10000: bad proxy object definition proxy:\ca\characters\flag_vojak.001, fixed.
+- vte_nva_sniper.p3d:10000: bad proxy object definition proxy:\ca\weapons\rpg7_proxy.001, fixed.
+- vte_nva_sniper.p3d:10000: bad proxy object definition proxy:\ca\weapons\ak_47_v58_proxy.001, fixed.
+- vte_nva_sniper.p3d:10000: bad proxy object definition proxy:\ca\weapons\nvg_proxy.001, fixed.
+- vte_nva_sniper.p3d:10000: bad proxy object definition proxy:\ca\weapons\beretta.001, fixed.
+- vte_nva_sniper.p3d:10000: bad proxy object definition proxy:\ca\weapons\dalekohled_proxy.001, fixed.
+- vte_nva_sniper warning: unsupported uvset 2, fixed.
+- vte_nva_sniper warning: special lod contains 2nd uv set, fixed.
+- vte_seal_gren warning: special lod contains 2nd uv set, fixed.
+- vte_seal_mg warning: special lod contains 2nd uv set, fixed.
+- vte_seal_pm warning: special lod contains 2nd uv set, fixed.
+- vte_seal_rfl warning: special lod contains 2nd uv set, fixed.
+- vte_seal_tl warning: special lod contains 2nd uv set, fixed.
+- vte_sog_gren warning: special lod contains 2nd uv set, fixed.
+- vte_sog_mg warning: special lod contains 2nd uv set, fixed.
+- vte_sog_rfl2 warning: special lod contains 2nd uv set, fixed.
+- vte_sog_tl warning: special lod contains 2nd uv set, fixed.
+- vte_usmc1 warning: special lod contains 2nd uv set, fixed.
+- vte_usmc2 warning: special lod contains 2nd uv set, fixed.
+- vte_usmc3 warning: special lod contains 2nd uv set, fixed.
+- vte_vc_rifleman warning: unsupported uvset 2, fixed.
+- vte_vc_rifleman warning: special lod contains 2nd uv set, fixed.
+- vte_vc_rifleman2 warning: unsupported uvset 2, fixed.
+- vte_vc_rifleman2 warning: special lod contains 2nd uv set, fixed.
+- vte_vc_rifleman_at warning: unsupported uvset 2, fixed.
+- vte_vc_rifleman_at warning: special lod contains 2nd uv set, fixed.
+- vte_vc_rifleman_mg warning: unsupported uvset 2, fixed.
+- vte_vc_rifleman_mg warning: special lod contains 2nd uv set, fixed.
+- vte_vc_rifleman_rto warning: unsupported uvset 2, fixed.
+- vte_vc_rifleman_rto warning: special lod contains 2nd uv set, fixed.
+- vte_vc_rifleman_tl warning: unsupported uvset 2, fixed.
+- vte_vc_rifleman_tl warning: special lod contains 2nd uv set, fixed.
+- vte_aircav_pilot warning: special lod contains 2nd uv set, fixed.
+- vte_arvn1_rfl warning: special lod contains 2nd uv set, fixed.
+- vte_arvn1_rto warning: special lod contains 2nd uv set, fixed.
+- vte_arvn2_rfl warning: special lod contains 2nd uv set, fixed.
+- vte_ausas_tl warning: special lod contains 2nd uv set, fixed.
+- vte_aus_rfl warning: special lod contains 2nd uv set, fixed.
+- vte_backpack_alice2 warning: special lod contains 2nd uv set, fixed.
+- vte_civilian_01 warning: special lod contains 2nd uv set, fixed.
+- vte_civilian_01 warning: unsupported uvset 2, fixed.
+- vte_civilian_02 warning: special lod contains 2nd uv set, fixed.
+- vte_civilian_02 warning: unsupported uvset 2, fixed.
+- vte_nva warning: unsupported uvset 2, fixed.
+- vte_nva warning: special lod contains 2nd uv set, fixed.
+- vte_aircav_medic warning: unsupported uvset 2, fixed.
+- vte_aircav_medic warning: special lod contains 2nd uv set, fixed.
+- vte_backpack_vcrpg1 warning: unsupported uvset 2, fixed.
+- material pmc\vte_chara\heads\data\hhl_white.rvmat load failed, fixed.
+- warning message: cannot load texture pmc\vte_chara\data\hhl_22_co.paa, fixed.
+- string str_vte_displayname_mag_30rnd_bofors_40mm_ap not found, fixed.
+- string str_vte_displayname_mag_30rnd_bofors_40mm_he not found, fixed.
+- protocol bin\config.bin/radioprotocol_ep1_en/: missing word missilelauncher, fixed.
+- m101 gunner is not rotated with maingun, fixed.
+- m101 no fire geometry, fixed.
+- m101 no geometry, fixed.
+
+--- fixes v1.5.18
+- vte_usmfr_mg warning: special lod contains 2nd uv set, fixed.
+- vte_sog_rto warning: special lod contains 2nd uv set, fixed.
+- vte_sog_rfl warning: special lod contains 2nd uv set, fixed.
+- vte_sf_rfl warning: special lod contains 2nd uv set, fixed.
+- vte_mike_rfl warning: special lod contains 2nd uv set, fixed.
+- vte_lrrpt_rfl warning: special lod contains 2nd uv set, fixed.
+- vte_lrrpe_rto warning: special lod contains 2nd uv set, fixed.
+- vte_lrrpe_rfl warning: special lod contains 2nd uv set, fixed.
+- vte_army_rto warning: special lod contains 2nd uv set, fixed.
+- vte_aircav_rto warning: special lod contains 2nd uv set, fixed.
+- vte_aircav_rto warning: unsupported uvset 2, fixed.
+- vte_aircav_rfl2 warning: special lod contains 2nd uv set, fixed.
+- vte_aircav_rfl2 warning: unsupported uvset 2, fixed.
+- vte_aircav_rfl warning: special lod contains 2nd uv set, fixed.
+- vte_aircav_rfl warning: unsupported uvset 2, fixed.
+- strange convex component p:\pmc\vte_chara\vte_backpack_alice2.p3d in component01:geometry, fixed.
+- vte_sf_rfl had leftover alice rig lower part model, fixed.
+- vte_usmfr_mg had leftover alice rig lower part model, fixed.
+- vte_sog_rto removed one section on lod 2-6.
+- vte_sog_rfl removed one section on lod 5 and 6.
+- vte_mike_rfl had leftover alice rig lower part model, fixed.
+- vte_lrrpt_rfl had leftover alice rig lower part model, fixed.
+- vte_lrrpe_rto removed one section on lod 5 and 6.
+- vte_lrrpe_rfl removed one section on lod 5 and 6.
+- vte_army_rto had leftover alice rig lower part model, fixed.
+- vte_army_rfl had leftover alice rig lower part model, fixed.
+- vte_army_mg had leftover alice rig lower part model, fixed.
+- vte_army_gren had leftover alice rig lower part model, fixed.
+- vte_aircav_rto removed one section on lod 5 and 6.
+- vte_aircav_rfl2 removed one section on lod 5 and 6.
+- vte_aircav_rfl removed one section on lod 5, 6 and view pilot.
+- m45 new texture from skelig added.
+- pu mat wetlands warning message: cannot open object pmc\vte_objects\vte_ilohut1.p3d, fixed.
+- pu mat wetlands small object tweak (cleaned out some trees near buildings).
+
+--- fixes v1.5.17
+- vte_b52.p3d - not all levels have on surface set, fixed.
+- warning: 'p:\pmc\vte_air\vte_b52.p3d': lods not ordered by face count, fixed.
+- b52 new lowest resolution lod created.
+- vte_a4 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_a4_r old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_ach47a old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_ah1g old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_ah1j old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_ch34_mg old style material flags used - 50 (with texture &lt;null&gt;), fixed.
+- vte_ch46 old style material flags used - 202 (with texture &lt;null&gt;), fixed.
+- vte_ch47c old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_ch53 old style material flags used - 202 (with texture &lt;null&gt;), fixed.
+- vte_ch53_mg old style material flags used - 202 (with texture &lt;null&gt;), fixed.
+- vte_f4_grey_aa old style material flags used - 50 (with texture &lt;null&gt;), fixed.
+- vte_f4_grey_ag old style material flags used - 50 (with texture &lt;null&gt;), fixed.
+- vte_f4_tan old style material flags used - 50 (with texture &lt;null&gt;), fixed.
+- vte_f4_tan_aa old style material flags used - 50 (with texture &lt;null&gt;), fixed.
+- vte_f4_tan_ag old style material flags used - 50 (with texture &lt;null&gt;), fixed.
+- vte_oh6a old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_oh6arg old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_oh6a_unarmed old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_ov1a old style material flags used - 32 (with texture &lt;null&gt;), fixed.
+- vte_ov1b old style material flags used - 32 (with texture &lt;null&gt;), fixed.
+- vte_ov1c old style material flags used - 32 (with texture &lt;null&gt;), fixed.
+- vte_ov1d old style material flags used - 32 (with texture &lt;null&gt;), fixed.
+- vte_s56 old style material flags used - 32 (with texture &lt;null&gt;), fixed.
+- vte_s56_mg old style material flags used - 32 (with texture &lt;null&gt;), fixed.
+- vte_ch34 key frame animation, no 'keyframe' property, fixed.
+- vte_ch34_mg key frame animation, no 'keyframe' property, fixed.
+- vte_ch34_sog key frame animation, no 'keyframe' property, fixed.
+- vte_a6_napalm warning: special lod contains 2nd uv set, fixed.
+- vte_ch46 warning: special lod contains 2nd uv set, fixed.
+- vte_ch53 warning: special lod contains 2nd uv set, fixed.
+- vte_ch53_mg warning: special lod contains 2nd uv set, fixed.
+- vte_a6_bomb warning: special lod contains 2nd uv set, fixed.
+- ah1g missing wings/pylons on gunner view, fixed.
+- ah1g missing wings/pylons on pilot view, fixed.
+- ah1j 4 tow missing wings/pylons on gunner view, fixed.
+- ah1j 8 tow missing wings/pylons on gunner view, fixed.
+- ah1j 4 tow missing wings/pylons on pilot view, fixed.
+- ah1j 8 tow missing wings/pylons on pilot view, fixed.
+- ah1j 4 tow added tow missiles as proxys.
+- ah1j 8 tow added tow missiles as proxys.
+- vte_bis_stoh.p3d warning: special lod contains 2nd uv set, fixed.
+- vte_bis_orlhot.p3d warning: special lod contains 2nd uv set, fixed.
+- vte_bis_hangar_2.p3d warning: special lod contains 2nd uv set, fixed.
+- vte_bis_runway_papi.p3d: unknown map type none, fixed.
+- vte_bis_runway_papi_2.p3d: unknown map type none, fixed.
+- vte_bis_runway_papi_3.p3d: unknown map type none, fixed.
+- vte_bis_runway_papi_4.p3d: unknown map type none, fixed.
+- cannot load material file pmc\vte_bis_obj\data\ker basic_polyplane.rvmat, fixed.
+- old style material flags used - 201 (with texture pmc\vte_bis_obj\data\default.pac), fixed.
+- old style material flags used - 201 (with texture pmc\vte_bis_obj\data\dum_mesto_koberec.pac), fixed.
+- old style material flags used - 201 (with texture pmc\vte_bis_obj\data\hlinasterk.pac), fixed.
+- old style material flags used - 201 (with texture pmc\vte_bis_obj\data\kameny.pac), fixed.
+- old style material flags used - 201 (with texture pmc\vte_bis_obj\data\matrace_army_modre_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_bis_obj\data\oldwood.pac), fixed.
+- old style material flags used - 201 (with texture pmc\vte_bis_obj\data\podlaha_prkna_h.pac), fixed.
+- old style material flags used - 201 (with texture pmc\vte_bis_obj\data\prkna_dalsi.pac), fixed.
+- old style material flags used - 201 (with texture pmc\vte_bis_obj\data\prkno_m.pac), fixed.
+- old style material flags used - 201 (with texture pmc\vte_bis_obj\data\prkynka.pac), fixed.
+- old style material flags used - 201 (with texture pmc\vte_bis_obj\data\tramy_pd.pac), fixed.
+- old style material flags used - 201 (with texture pmc\vte_bis_obj\data\wharf_co.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_bis_obj\data\trava2_pmp.pac), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\bed_husbands_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\deska_stolu_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\hng_skrin_front_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\hng_skrin_side_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\kamna_acess_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\kamna_acess2_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\kamna_bila_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\kamna_bila_trans_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\kamna_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\knihovna_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\postel_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\postel2_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\stul_skrinka_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\stul_suplik_co.paa), fixed.
+- old style material flags used - 204 (with texture pmc\vte_bis_obj\data\ubrus_2_co.paa), fixed.
+- old style material flags used - 205 (with texture pmc\vte_bis_obj\data\hlidbud_podlaha_co.paa), fixed.
+- old style material flags used - 205 (with texture pmc\vte_bis_obj\data\hlidbud_prvni_co.paa), fixed.
+- old style material flags used - 205 (with texture pmc\vte_bis_obj\data\obrazy_co.paa), fixed.
+- old style material flags used - 205 (with texture pmc\vte_bis_obj\data\podlaha_prkna_h.pac), fixed.
+- old style material flags used - 205 (with texture pmc\vte_bis_obj\data\tovarna1_vrata.pac), fixed.
+- old style material flags used - 206 (with texture pmc\vte_bis_obj\data\bouda copy.pac), fixed.
+- old style material flags used - 207 (with texture pmc\vte_bis_obj\data\bouda copy.pac), fixed.
+- old style material flags used - 207 (with texture pmc\vte_bis_obj\data\lampanew.pac), fixed.
+- strange convex components p:\pmc\vte_land\vte_m35_arvn.p3d in geometryviewcargo, fixed.
+- strange convex components p:\pmc\vte_land\vte_m35_us_a_3.p3d in geometryviewcargo, fixed.
+- strange convex components p:\pmc\vte_land\vte_m35_us_a_3.p3d in geometryfire, fixed.
+- strange convex components p:\pmc\vte_land\vte_m35_us_empty.p3d in geometryviewcargo, fixed.
+- strange convex components p:\pmc\vte_land\vte_m35_us_empty.p3d in geometryfire, fixed.
+- vte_m35_us_empty.p3d: proxy object should be single face proxy:\ca\temp\proxies\truck\cargo01.001, fixed.
+- vte_m35_us_empty.p3d: proxy object should be single face proxy:\ca\temp\proxies\truck\driver.001, fixed.
+- cannot load material file ca\tracked\data\armormetal-3.5x5.rvmat, fixed.
+- cannot load material file ca\wheeled\data\hmmwv_regular_1.rvmat, fixed.
+- missing axis in model p:\pmc\vte_land\vte_jeep_mg.p3d:1, sel ammo_belt, axis ammo_belt_axis, fixed.
+- missing axis in model p:\pmc\vte_land\vte_jeep_mg.p3d:view_cargo, sel ammo_belt, axis ammo_belt_axis, fixed.
+- missing axis in model p:\pmc\vte_land\vte_jeep_mg.p3d:view_gunner, sel ammo_belt, axis ammo_belt_axis, fixed.
+- missing axis in model p:\pmc\vte_land\vte_m35_mafia.p3d:1, axis osa_rpm, fixed.
+- missing axis in model p:\pmc\vte_land\vte_m35_mafia.p3d:1, axis osa_rychlo, fixed.
+- missing axis in model p:\pmc\vte_land\vte_m35_us_a_ammo.p3d:1, axis osa_rpm, fixed.
+- missing axis in model p:\pmc\vte_land\vte_m35_us_a_ammo.p3d:1, axis osa_rychlo, fixed.
+- missing axis in model p:\pmc\vte_land\vte_m35_us_a_fuel.p3d:1, axis osa_rpm, fixed.
+- missing axis in model p:\pmc\vte_land\vte_m35_us_a_fuel.p3d:1, axis osa_rychlo, fixed.
+- missing axis in model p:\pmc\vte_land\vte_m35_us_empty.p3d:1, axis osa_rpm, fixed.
+- missing axis in model p:\pmc\vte_land\vte_m35_us_empty.p3d:1, axis osa_rychlo, fixed.
+- error: bad entry count in model.cfg/cfgskeletons/vte_t54_bones/ skeleton, fixed.
+- old style material flags used - 20 (with texture &lt;pmc\vte_land\t55\data\t55_tower.rvmat), fixed.
+- old style material flags used - 1 (with texture pmc\vte_land\data\zu23m1_co.paa), fixed.
+- old style material flags used - 1 (with texture pmc\vte_land\data\zu23m2_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_land\data\jeepmg_alpha_ca.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_land\data\jeepmg_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_land\data\pt76_alpha_ca.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_land\data\pt76_interior_co.paa), fixed.
+- old style material flags used - 201 (with texture #(argb,8,8,3)color(0,0,0,1.0,co)), fixed.
+- old style material flags used - 201 (with texture pmc\vte_land\data\jeepmg_alpha_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_land\data\jeepmg_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_land\data\pt76_1_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_land\data\pt76_interior_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_land\data\puskohled_lh.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_land\data\pt76_alpha_ca.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_land\data\pt76_interior_co.paa), fixed.
+- old style material flags used - 21 (with texture pmc\vte_land\data\mff1.01.paa), fixed.
+- old style material flags used - 21 (with texture pmc\vte_land\data\mfs1.01.paa), fixed.
+- old style material flags used - 21 (with texture pmc\vte_land\t_zu23\zuoptic.paa), fixed.
+- old style material flags used - 41 (with texture pmc\vte_land\t_zu23\dark.paa), fixed.
+- old style material flags used - 41 (with texture pmc\vte_land\t_zu23\puskohled_lh.paa), fixed.
+- old style material flags used - 50 (with texture ca\tracked\data\m1abrams_mg_mount_co.paa), fixed.
+- old style material flags used - 50 (with texture ca\weapons\data\m2_co.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\alpha_ca.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\bis_klan.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\car_light_flare2.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\cargo_co.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\cessna_redlight.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\hmmwv_regular_1_co.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\m113a3_track_co.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\m163_vulcan_01_co.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\m163_vulcan_02_co.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\m163_vulcan_sight_ca.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\m2_ammotray_co.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\m2_co.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\m551sheridan_co.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\m551transparent_ca.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\vm113_01_co.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\vm113_02_co.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\vm113_track_co.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_land\data\walls_co.paa), fixed.
+- old style material flags used - 51 (with texture pmc\vte_land\data\m551m2_co.paa), fixed.
+- old style material flags used - 51 (with texture pmc\vte_land\data\m551transparent_ca.paa), fixed.
+- old style material flags used - 53 (with texture pmc\vte_land\data\m113a3_track_co.paa), fixed.
+- old style material flags used - 53 (with texture pmc\vte_land\data\m551sheridan_co.paa), fixed.
+- old style material flags used - 53 (with texture pmc\vte_land\data\m551transparent_ca.paa), fixed.
+- old style material flags used - 53 (with texture pmc\vte_land\data\vm113_track_co.paa), fixed.
+- old style material flags used - 54 (with texture pmc\vte_land\data\m113a3_track_co.paa), fixed.
+- old style material flags used - 54 (with texture pmc\vte_land\data\m551sheridan_co.paa), fixed.
+- old style material flags used - 54 (with texture pmc\vte_land\data\m551transparent_ca.paa), fixed.
+- old style material flags used - 54 (with texture pmc\vte_land\data\vm113_track_co.paa), fixed.
+- old style material flags used - 55 (with texture pmc\vte_land\data\zu23m1_co.paa), fixed.
+- old style material flags used - 55 (with texture pmc\vte_land\data\zu23m2_co.paa), fixed.
+- strange convex component p:\pmc\vte_mines\vte_bbetty.p3d in component17:geometryfire, fixed.
+- strange convex component p:\pmc\vte_mines\vte_minem14.p3d in component17:geometryfire, fixed.
+- strange convex component p:\pmc\vte_mines\vte_whiptrap.p3d in component06:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building02.p3d in component10:geometry, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building02.p3d in component10:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building02.p3d in component10:geometryview, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building04.p3d in component02:geometry, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building04.p3d in component02:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building04.p3d in component02:geometryview, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building05.p3d in component02:geometry, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building05.p3d in component02:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building05.p3d in component02:geometryview, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building06.p3d in component85:geometry, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building06.p3d in component85:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building06.p3d in component85:geometryview, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building07.p3d in component85:geometry, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building07.p3d in component85:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building07.p3d in component85:geometryview, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building22.p3d in component03:geometry, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building22.p3d in component03:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building22.p3d in component03:geometryview, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building23.p3d in component03:geometry, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building23.p3d in component03:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_city_building23.p3d in component03:geometryview, fixed.
+- strange convex component p:\pmc\vte_objects\vte_imperial_palace.p3d in component19:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_pagoda.p3d in component68:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_temple_ruin05.p3d in component01:geometry, fixed.
+- strange convex component p:\pmc\vte_objects\vte_temple_ruin05.p3d in component01:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_temple_ruin05.p3d in component01:geometryview, fixed.
+- strange convex component p:\pmc\vte_objects\vte_temple_ruin05b.p3d in component03:geometry, fixed.
+- strange convex component p:\pmc\vte_objects\vte_temple_ruin05b.p3d in component03:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_temple_ruin05b.p3d in component03:geometryview, fixed.
+- strange convex component p:\pmc\vte_objects\vte_temple_ruin09.p3d in component25:geometry, fixed.
+- strange convex component p:\pmc\vte_objects\vte_temple_ruin11.p3d in component02:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_temple_ruin11.p3d in component02:geometryview, fixed.
+- strange convex component p:\pmc\vte_objects\vte_temple_ruin11.p3d in component03:geometry, fixed.
+- strange convex component p:\pmc\vte_objects\vte_temple01.p3d in component01:geometryfire, fixed.
+- strange convex component p:\pmc\vte_objects\vte_temple01.p3d in component108:geometry, fixed.
+- strange convex component p:\pmc\vte_objects\vte_temple01.p3d in component21:geometryview, fixed.
+- pu mat wetlans few base / village objects added.
+- ku bao tien massiv few base / village objects added.
+
+--- fixes v1.5.16
+- vte_vilbench1 key frame animation, no 'keyframe' property, fixed.
+- vte_viltire1 key frame animation, no 'keyframe' property, fixed.
+- vte_viltable1 key frame animation, no 'keyframe' property, fixed.
+- vte_vilricebasket2 key frame animation, no 'keyframe' property, fixed.
+- vte_vilpot1 key frame animation, no 'keyframe' property, fixed.
+- vte_villantern1 key frame animation, no 'keyframe' property, fixed.
+- vte_vilhut05 key frame animation, no 'keyframe' property, fixed.
+- vte_vilhut03 key frame animation, no 'keyframe' property, fixed.
+- vte_vilhut02 key frame animation, no 'keyframe' property, fixed.
+- vte_vilcrate1 key frame animation, no 'keyframe' property, fixed.
+- vte_vilbasket3 key frame animation, no 'keyframe' property, fixed.
+- vte_fbbunker3 old style material flags used - 201 (with texture &lt;null&gt;), fixed.
+- vte_fbbunker4 old style material flags used - 201 (with texture pmc\vte_objects\tex\fbbunker1_co.paa), fixed.
+- vte_gravel10_100 old style material flags used - 1 (with texture &lt;null&gt;), fixed.
+- vte_gravel10_25 old style material flags used - 1 (with texture &lt;null&gt;), fixed.
+- vte_gravel10_50 old style material flags used - 1 (with texture &lt;null&gt;), fixed.
+- vte_gravel10_75 old style material flags used - 1 (with texture &lt;null&gt;), fixed.
+- vte_gravel12 old style material flags used - 1 (with texture &lt;null&gt;), fixed.
+- vte_gravel25 old style material flags used - 1 (with texture &lt;null&gt;), fixed.
+- vte_gravel6 old style material flags used - 1 (with texture &lt;null&gt;), fixed.
+- vte_gravel6konec old style material flags used - 1 (with texture &lt;null&gt;), fixed.
+- vte_imperial_palace old style material flags used - 21 (with texture &lt;null&gt;), fixed.
+- vte_les_nw_ctver_pruhozi old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_pagoda old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_plant01 old style material flags used - 202 (with texture pmc\vte_objects\tex\iplant1_ca.paa), fixed.
+- vte_plant02 old style material flags used - 202 (with texture pmc\vte_objects\tex\iban1_ca.paa), fixed.
+- vte_plant03 old style material flags used - 202 (with texture pmc\vte_objects\tex\iban1_ca.paa), fixed.
+- vte_city_building05 old style material flags used - 201 (with texture pmc\vte_objects\tex\city_building04_co.paa), fixed.
+- vte_fbbunker2 old style material flags used - 201 (with texture pmc\vte_objects\tex\fbbunker1_co.paa), fixed.
+- vte_fbbunker3 old style material flags used - 201 (with texture pmc\vte_objects\tex\fbbunker1_co.paa), fixed.
+- vte_hooch5 old style material flags used - 201 (with texture pmc\vte_objects\tex\hooch5_co.paa), fixed.
+- vte_igrassfield4 old style material flags used - 202 (with texture pmc\vte_objects\tex\low_grass_ca.paa), fixed.
+- vte_igrassfield5 old style material flags used - 202 (with texture pmc\vte_objects\tex\low_grass_ca.paa), fixed.
+- vte_ihut4 old style material flags used - 202 (with texture pmc\vte_objects\tex\ehut1_co.paa), fixed.
+- vte_ipalms2 old style material flags used - 202 (with texture pmc\vte_objects\tex\ipalms_ca.paa), fixed.
+- vte_les_nw_ctver_pruhozi old style material flags used - 202 (with texture pmc\vte_objects\tex\jungle1_ca.paa), fixed.
+- vte_roadbridgedestrleft old style material flags used - 203 (with texture pmc\vte_objects\tex\roadbridgedestrcenter_co.paa), fixed.
+- vte_roadbridgedestrright old style material flags used - 201 (with texture pmc\vte_objects\tex\roadbridgedestrcenter_co.paa), fixed.
+- vte_sfbunker1 old style material flags used - 202 (with texture pmc\vte_objects\tex\pinups.paa), fixed.
+- vte_temple01 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple02 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple04 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin01 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin02 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin03 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin05 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin05b old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin06 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin07 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin08 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin09 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin10 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin11 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin12 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin13 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_temple_ruin14 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_tree03 old style material flags used - 203 (with texture pmc\vte_objects\tex\bush02_ca.paa), fixed.
+- vte_tree04 old style material flags used - 203 (with texture &lt;null&gt;), fixed.
+- vte_tree10 old style material flags used - 202 (with texture pmc\vte_objects\tex\tree01_ca.paa), fixed.
+- vte_wfence old style material flags used - 202 (with texture &lt;null&gt;), fixed.
+- vte_wfence2 old style material flags used - 202 (with texture &lt;null&gt;), fixed.
+- vte_woodwalk_se old style material flags used - 202 (with texture pmc\vte_objects\tex\woodwalk_co.paa), fixed.
+- vte_vilbasket2 key frame animation, no 'keyframe' property, fixed.
+- vte_estatek_kulna old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_estatek_hl_bud old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_drygrass2 old style material flags used - 202 (with texture &lt;null&gt;), fixed.
+- vte_city_building23 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building22 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building21 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building20 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building19 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building17 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building16 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building15 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building14 old style material flags used - 21 (with texture &lt;null&gt;), fixed.
+- vte_city_building13 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building12 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building11 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building10 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building09 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building08 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building07 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building06 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building05 old style material flags used - 21 (with texture &lt;null&gt;), fixed.
+- vte_city_building03 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_city_building01 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_bzedcl old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_buddha_statue old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_bstanice old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_bruiny_obvod_3 old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_bridge6 old style material flags used - 1 (with texture &lt;null&gt;), fixed.
+- vte_bdomek_hospoda old style material flags used - 20 (with texture &lt;null&gt;), fixed.
+- vte_kettlefire key frame animation, no 'keyframe' property, fixed.
+- vte_vilmat1 key frame animation, no 'keyframe' property, fixed.
+- vte_vilhut01 key frame animation, no 'keyframe' property, fixed.
+- strange convex component p:\pmc\vte_objects\vte_bridge2.p3d in component13:geometryview, fixed.
+- fbbunker1 keep height fence is used, fixed.
+- file pmc\vte_objects\tex\crate6.rvmat, line 3: config: ';' used as a separator in the array, fixed.
+- old style material flags used - 1 (with texture pmc\vte_objects\t\sleaf1.paa), fixed.
+- old style material flags used - 1 (with texture pmc\vte_objects\t\sleaf2.paa), fixed.
+- old style material flags used - 1 (with texture pmc\vte_objects\t\sleaf3.paa), fixed.
+- old style material flags used - 1 (with texture pmc\vte_objects\t\sleaf4.paa), fixed.
+- old style material flags used - 1 (with texture pmc\vte_objects\t\sleaf5.paa), fixed.
+- old style material flags used - 1 (with texture pmc\vte_objects\t\sleaf6.paa), fixed.
+- old style material flags used - 1 (with texture pmc\vte_objects\tex\itrailpath_ca.paa), fixed.
+- old style material flags used - 1 (with texture pmc\vte_objects\tex\itrailpath_end_ca.paa), fixed.
+- old style material flags used - 1 (with texture pmc\vte_objects\tex\trailpath_ca.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_objects\tex\kettlefire_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_objects\tex\vilfire1_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\barracks5_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\bdum_rasovna_in_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\bdum_zboreny_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_objects\tex\bstodola_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\bstodola_co.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\bstodola_co.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\bstodola_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\bstodola_open_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\bzedpr_ca.paa), fixes.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\city_building02_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\city_building04_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_objects\tex\city_building18_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\factory1_alpha_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\fbbunker1_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\fbhooch_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\frenchhouse2_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\hoianhouse1_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\hoianhouse2_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\hoianhouse3_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\hoianhouse4_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\hooch5_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\temple03_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\townshanty1_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\townshanty2_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\townshanty3_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\townshop08_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\ustent_hooch_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\ustent_med_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\ustent_sb1_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\ustent_sb2_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\ustent_small_co.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\afbshelter2_co.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\afbtw50_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\afbtw50konec_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\ammobox_co.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\bdomek_ruina_co.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\bpanelak_co.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\bpanelak_co.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\bpanelak_win_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\bpanelak_win_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\drygrass1_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\ehut1_co.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\gbunker_co.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\grass_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\iban1_ca.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\iban1_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\imangrove_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\imangrove2_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\imangrove3_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\imangrove4_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\imangrove5_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\ipalms_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\ipalmt1_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\irssz_brush_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\irssz_trees_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\itrailpaddy_co.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\low_canopy_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\low_canopy2_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\motorpool_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\motorpool2_co.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\rubber_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\rubber_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\swamproadx2_co.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\tree08_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\vcartybunker_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\vccross_co.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\vcshelter3_co.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\vcshelter4_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\vilhaycone1_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\vilhut01_co.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\vilmat1_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\woodwalk_co.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\bush02_ca.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\bush04_ca.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\bzed_ker_ca.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\iles_su_ctver_pruhozi_ca.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\latrine_co.paa), fixed.
+- old style material flags used - 207 (with texture pmc\vte_objects\tex\powerline25_co.paa), fixed.
+- old style material flags used - 207 (with texture pmc\vte_objects\tex\powerlinekonec_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\roadbridgedestrcenter_co.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\roadbridgedestrcenter_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_objects\tex\roadbridgedestrcenter_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_objects\tex\roadbridgecenter_co.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\roadbridgecenter_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_objects\tex\roadbridgecenter_co.paa), fixed.
+- sw animation used for p:\pmc\vte_objects\vte_roadbridgecenter.p3d - not all levels have keep height set, fixed.
+- warning: 'p:\pmc\vte_objects\vte_afbgplate.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_bdum_rasovna_in.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_bush08.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_canopy4.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_ipalmt2.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_ipalmt3.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_ipalmt4.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_ivcbunker.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_rubber.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_rwall1.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_rwallu.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_tire1.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_vilfence1.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_woodplank.p3d': lods not ordered by face count, fixed.
+- warning: bone commanderturret already listed in model.cfg/cfgskeletons/vte_m551_bones/ skeleton, fixed.
+- warning: bone otochlaven already listed in model.cfg/cfgskeletons/vte_zpu4_bones/ skeleton, fixed.
+- cannot load material file vte_air\tex\f4_grey_ag.rvmat, fixed.
+- cannot load material file vte_air\tex\f4_tan_ag_pit.rvmat, fixed.
+- old style material flags used - 200 (with texture pmc\vte_ordnance\data\air_wpn_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_ordnance\data\air_wpn_co.paa), fixed.
+- strange convex component p:\pmc\vte_ordnance\vte_flare.p3d in component01:geometry, fixed.
+- sampanbig key frame animation, no 'keyframe' propert, fixed.
+- sebsampan old style material flags used - 32 (with texture &lt;null&gt;), fixed.
+- sampanbig is missing view cargo, fixed.
+- old style material flags used - 200 (with texture pmc\vte_sea\data\kittyhawk_co.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_sea\data\kittyhawk_alpha_ca.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_sea\data\kittyhawk_co.paa), fixed.
+- old style material flags used - 70 (with texture pmc\vte_sea\data\kittyhawk_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_sea\data\lssc_alpha_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_sea\data\lssc_alpha_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_sea\data\lssc_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_sea\data\pbr_alpha_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_sea\data\pbr_alpha_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_sea\data\pbr_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_sea\data\sampanbig_co.paa), fixed.
+- strange convex component p:\pmc\vte_sea\vte_lssc.p3d in component81:geometryfire, fixed.
+- cannot load material file pmc\vte_weapons\revolver\data\ironplate.rvmat, fixed.
+- cannot load material file pmc\vte_weapons\data\iron.rvmat, fixed.
+- cannot load material file pmc\vte_weapons\data\metalplate.rvmat, fixed.
+- cannot load material file pmc\vte_weapons\data\wood.rvmat, fixed.
+- missing axis in model p:\pmc\vte_weapons\vte_k50m.p3d:1, axis slide_axis, fixed.
+- missing axis in model p:\pmc\vte_weapons\vte_k50m.p3d:10000, axis slide_axis, fixed.
+- missing axis in model p:\pmc\vte_weapons\vte_k50m.p3d:11000, axis slide_axis, fixed.
+- missing axis in model p:\pmc\vte_weapons\vte_k50m.p3d:2, axis slide_axis, fixed.
+- missing axis in model p:\pmc\vte_weapons\vte_k50m.p3d:3, axis slide_axis, fixed.
+- missing axis in model p:\pmc\vte_weapons\vte_k50m.p3d:view_pilot, axis slide_axis, fixed.
+- missing axis in model p:\pmc\vte_weapons\vte_m60.p3d:1, sel belt_rotation, axis belt_axis, fixed.
+- missing axis in model p:\pmc\vte_weapons\vte_m60.p3d:view_pilot, sel belt_rotation, axis belt_axis, fixed.
+- old style material flags used - 201 (with texture pmc\vte_weapons\data\m60shorty_co.paa), fixed.
+- strange convex component p:\pmc\vte_weapons\vte_k50m.p3d in component01:geometry, fixed.
+- strange convex component p:\pmc\vte_weapons\vte_mac10.p3d in component06:geometry, fixed.
+- strange convex component p:\pmc\vte_weapons\vte_mac10_sd.p3d in component06:geometry, fixed.
+- strange convex component p:\pmc\vte_weapons\vte_mas49.p3d in component08:geometry, fixed.
+- m55 missing gunner get in point, fixed.
+- missing axis in model p:\pmc\vte_arty\vte_m55.p3d:1, sel maingun, axis axis_maingun, fixed.
+- missing axis in model p:\pmc\vte_arty\vte_m55.p3d:1, sel mainturret, axis axis_mainturret, fixed.
+- strange convex component p:\pmc\vte_arty\vte_m55.p3d in component03:geometry, fixed.
+- strange convex component p:\pmc\vte_arty\vte_m55.p3d in component03:geometryfire, fixed.
+- strange convex component p:\pmc\vte_arty\vte_m55.p3d in component03:geometryview, fixed.
+- ov1d mohawk had some strange geometry and fire geometry part, fixed.
+- ov1b mohawk had some strange geometry and fire geometry part, fixed.
+- a4 removed two sectons from view pilot.
+- a4r removed two sectons from view pilot.
+- old style material flags used - 200 (with texture pmc\vte_air\data\ah1j_alpha_ca.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_air\data\a4_pit_co.paa), fixed.
+- old style material flags used - 255 (with texture pmc\vte_air\data\a4_alpha_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_air\data\ah1j_alpha_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_air\data\ah1j_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_air\data\ach47_1_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_air\data\ach47_alpha_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_air\data\ach47_1_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_air\data\ach47_alpha_ca.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_air\data\ch34_alpha_ca.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_air\data\ch34_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_air\data\ch34_sog_alpha_ca.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_air\data\ch34_sog_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_air\data\ch34_sog_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_air\data\ch47_1_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_air\data\ch47_alpha_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_air\data\ch47_1_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_air\data\ch47_alpha_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_air\data\ch47_doorgun_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_air\data\oh6rg_alpha_ca.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_air\data\oh6rg_co.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_air\data\oh6rg_alpha_ca.paa), fixed.
+- old style material flags used - 201 (with texture pmc\vte_air\data\oh6rg_co.paa), fixed.
+- old style material flags used - 200 (with texture pmc\vte_air\data\s56_mg_alpha_ca.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_air\data\f4_grey_ag_alpha_ca.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_air\data\f4_tan_ag_alpha_ca.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_air\data_mohawk\hud2_ca.paa), fixed.
+- old style material flags used - 21 (with texture pmc\vte_air\data\ch53_proxy_main_rotor_ca.paa), fixed.
+- old style material flags used - 21 (with texture pmc\vte_air\data\ch53_proxy_tail_rotor_ca.paa), fixed.
+- old style material flags used - 50 (with texture pmc\vte_air\data_bronco\ah1z_engines_co.paa), fixed.
+- old style material flags used - 117 (with texture pmc\vte_air\data\ah1j_alpha_ca.paa), fixed.
+- old style material flags used - 117 (with texture pmc\vte_air\data\ah1j_co.paa), fixed.
+
+--- fixes v1.5.15
+- revolver is missing sound files, fixed.
+- sniper optics model moved to vte_weapons.
+- sog recon units dont speak english (bis russian/chernarussian), fixed.
+- sog hatchet units dont speak english (bis russian/chernarussian), fixed.
+- special forces units dont speak english (bis russian/chernarussian), fixed.
+- seal units dont speak english (bis russian/chernarussian), fixed.
+- mfr units dont speak english (bis russian/chernarussian), fixed.
+- lrrp tiger units dont speak english (bis russian/chernarussian), fixed.
+- lrrp erdl units dont speak english (bis russian/chernarussian), fixed.
+- au sas units dont speak english (bis russian/chernarussian), fixed.
+- vte_ivcbunker old style materials used for texture, fixed.
+- 7 mountains many harbor objects floating, fixed.
+- 7 mountains many bridge objects floating, fixed.
+- 7 mountains many hooch objects floating, fixed.
+- 7 mountains tree06* floating, fixed.
+- 25km demo tree06* floating, fixed.
+- ashau tree06* floating, fixed.
+- bra tree06* floating, fixed.
+- iiictza parrots beak tree06* floating, fixed.
+- iron triangle tree06* floating, fixed.
+- mdsz tree06* floating, fixed.
+- meekong tree06* floating, fixed.
+- nam_12 tree06* floating, fixed.
+- nam_25 tree06* floating, fixed.
+- quan binh son tree06* floating, fixed.
+- vte_objects all user animations (open/close doors) disabled because they dont work.
+
+--- fixes v1.5.14
+- f4 tan cas1 6 x mk82, 4 x mk74 added.
+- f4 tan cas2 6 x mk74, 4 x agm62 added.
+- vte_fueltank2 missing texture, fixed.
+- vte_fueltank1 missing texture, fixed.
+- dak seang floating bridge, fixed.
+- pmc\vte_bis_obj\data\zalchat_pode2.pac missing, fixed.
+- agm45 shrike shadowvolume is broken, fixed.
+- agm65 walleye shadowvolume is broken, fixed.
+- agm78 standard arm shadowvolume is broken, fixed.
+- sidewinder 1rnd magazine was in fact 4, fixed.
+- vte_4rnd_agm45 magazine removed, obsolete.
+- tow missile proxy (no rocket flame) added.
+- ah1_sea has shadowvolume errors, fixed.
+- ah1 has shadowvolume errors, fixed.
+- thompson eye memory point is too far back (iron sights blocked when prone), fixed.
+- warning: 'p:\pmc\vte_objects\vte_plant04.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_plant05.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_plant06.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_ipalmt1.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_ipalmt.p3d': lods not ordered by face count, fixed.
+- warning: 'p:\pmc\vte_objects\vte_ipalm3.p3d': lods not ordered by face count, fixed.
+- strange convex components in pmc\vte_objects\vte_townshop2.p3d:geometryview, fixed.
+- strange convex components in pmc\vte_objects\vte_swamproadx.p3d:geometryfire, fixed.
+- strange convex components in pmc\vte_objects\vte_swamproadx.p3d:geometryview, fixed.
+- strange convex component in pmc\vte_objects\vte_chickencoop1.p3d:geometryfire, fixed.
+- strange convex component in pmc\vte_objects\vte_chickencoop1.p3d:geometryview, fixed.
+- strange convex components in pmc\vte_objects\vte_rhelopad.p3d:geometryfire, fixed.
+- vte_itree04 res lod 1 and 2 were visually offset large amount without reason, fixed.
+- sw animation used for pmc\vte_objects\vte_itree04.p3d - not all levels have keep height set, fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\ipalm2_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\ipalm3_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\ipalms_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\ipalms3_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\ipalmt_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\ipalmt1_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\iplant1_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\iplant2_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\iplant3_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\iplant4_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\iplant5_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\iplant6_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\iplant7_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\itree01_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\itree02_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\itree03_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\plant04_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\plant05_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\plant06_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\stump_itree_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\stump_palmt_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\stump_tree06_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\tree01_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\tree05_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\tree06_ca.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\bush01_ca.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\bush02_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\iban1_ca.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\iban1_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\fallentree1_ca.paa), fixed.
+- old style material flags used - 202 (with texture pmc\vte_objects\tex\fallenpalmt1_ca.paa), fixed.
+- old style material flags used - 203 (with texture pmc\vte_objects\tex\fallenpalmt1_ca.paa), fixed.
+- class land_vte_fallentree1 exists, but there is no property class in pmc\vte_objects\vte_fallentree1.p3d, fixed.
+- terrain si thau satellite texture shaded to more darker jungle green.
+- terrain ku bao tien satellite texture shaded to more darker jungle green.
+- terrain pu mat satellite texture shaded to more darker jungle green.
+- terrain 5 renamed to Pu Mat Wetlands.
+- terrain 6 renamed to Ku Bao Tien Massiv.
+- terrain 9 renamed to Si Thau Plateau.
+- roads in vte_bis_obj rearranged config wise.
+- roads from vte_objects dont have config, fixed.
+- vte_cidgsoldier8 displayname says m2, but its m1carbine, fixed.
+- vte_ch12 displayname says m2, but its m1carbine, fixed.
+- xm148 wrong shadow lod configurations, fixed.
+- xm148 trigger animation is broken, fixed.
+- stoner_ar trigger animation is broken, fixed.
+- stensd trigger animation is broken, fixed.
+- sten trigger animation is broken, fixed.
+- sks trigger animation is broken, fixed.
+- rpd trigger animation is broken, fixed.
+- remington870 trigger animation is broken, fixed.
+- remington700 trigger animation is broken, fixed.
+- ppsh trigger animation is broken, fixed.
+- pps43 trigger animation is broken, fixed.
+- ppd40 trigger animation is broken, fixed.
+- mpl trigger animation is broken, fixed.
+- mpk trigger animation is broken, fixed.
+- mp40 trigger animation is broken, fixed.
+- mosina trigger animation is broken, fixed.
+- mosin38 trigger animation is broken, fixed.
+- mosin trigger animation is broken, fixed.
+- mat49 trigger animation is broken, fixed.
+- mas49 trigger animation is broken, fixed.
+- mas36 trigger animation is broken, fixed.
+- mac10 stock sd shadow is broken, fixed by removing it.
+- mac10 stock casting shelf shadow, fixed by removing it.
+- mac10 sd shadow is broken, fixed by removing it.
+- mac10_stock sd bolt is not back when empty, fixed.
+- mac10_stock bolt is not back when empty, fixed.
+- mac10sd bolt is not back when empty, fixed.
+- mac10 bolt is not back when empty, fixed.
+- mac10_stock trigger animation is broken, fixed.
+- mac10 trigger animation is broken, fixed.
+- m60 no ammo belt animation, fixed.
+- m60 shorty trigger animation is broken, fixed.
+- m60 trigger animation is broken, fixed.
+- m16a1 m203 trigger animation is broken, fixed.
+- m16a1 trigger animation is broken, fixed.
+- m2carbine bolt is not back when empty, fixed.
+- m2carbine trigger animation is broken, fixed.
+- m1carbine bolt is not back when empty, fixed.
+- m1carbine trigger animation is broken, fixed.
+- k98k trigger animation is broken, fixed.
+- k98k reload time was like semi auto rifle, fixed.
+- k50m slide animation dont work, fixed.
+- k50m trigger animation dont work, fixed.
+- k50m full auto has insane fire rate, fixed.
+- k50m is missing from nva weapon box, fixed.
+- ex41 trigger animation dont work, fixed.
+- bren2 trigger animation is broken, fixed.
+- dp27 trigger animation is broken, fixed.
+- garand trigger animation is broken, fixed.
+- m551 commander sights not aligned with the gun, fixed.
+- m551 driver hatch dont open, fixed.
+- m551 commander turret dont work, fixed.
+- m551 commander cant rotate, fixed.
+
+--- fixes v1.5.13
+- m48 texturing is messy, fixed.
+- m48 some rvmat's missing, fixed.
+- 25km demo terrain uses low canopy 50m forest block objects, fixed.
+- vte_core_cfg vehicleclasses do not use stringtable, fixed.
+- pru infantry name string was breaking our standard, fixed.
+- picture image missing for m48, fixed.
+- icon image missing for m48, fixed.
+- 76mm cannon round can lock into aerial targets, fixed.
+- picture image missing for m551 sheidan, fixed.
+- icon image missing for m551 sheidan, fixed.
+- afbtw50 runway object specular map toned down so it wont shine.
+- t54 insignias removed.
+- t55 insignias removed.
+- zsu57 insignias removed.
+- vte_zsu572 Turret body ObsTurret not found pmc\vte_land\vte_zsu572.p3d, fixed.
+- vte_zsu572 Turret gun ObsGun not found pmc\vte_land\vte_zsu572.p3d, fixed.
+- a4r cockpit is misaligned bit to the left, fixed.
+- a4 cockpit is misaligned bit to the left, fixed.
+- mpk target sights are off, it shoots high, fixed.
+- m202 inventory image is wrong resolution, fixed.
+- m202 inventory image alpha channel has pure white color, fixed.
+- mpk inventory image is the same as mpl, long weapon, fixed.
+- ia drang different set of objects put in place (mostly vegetation), better frame rates.
+- ac47 gunship animations not working, fixed.
+
+--- fixes v1.5.12
+- ac47 added 3 x m134 miniguns. they have to be human manned, for now.
+- c47 grey texture for the transport version.
+- c47 alpha channel windows texture shines like a light, fixed.
+- c47 animations dont work, fixed.
+- m46 gun shot 10m in front of the vehicle, fixed.
+- m46 cargo pos/dir in memory points missing, fixed.
+- m46 gunner pos/dir in memory points missing, fixed.
+- m46 animation model.cfg had faulty values, fixed.
+- bofors l/60 weapon range adjustment added (but it doesnt show up, uhm).
+- bofors l/60 magazine reload time changed to 4.5 seconds.
+- ac130 105mm howitzer capacity increased to 200 rounds.
+- ac130 40mm bofors capacity increased to 600 rounds.
+- ac130 m61 vulcans capacity increased to 3000 rounds.
+- ac130 m102mm cannon shot 6 rounds at once, fixed.
+- ac130 renamed to proper name.
+- remington 870 wood texture color tweaked to darker.
+- pbr weapon changed from m60 to .50cal m2.
+- c130 sea camo renamed properly.
+- tet causes ctd, fixed.
+- viet cong m79 soldier magazines increased to 4 grenade bags.
+- usmc m79 soldier magazines increased to 4 grenade bags.
+- sog recon m79 soldier magazines increased to 4 grenade bags.
+- sog hatchet m79 soldier magazines increased to 4 grenade bags.
+- special forces m79 soldier magazines increased to 4 grenade bags.
+- seal m79 soldier magazines increased to 4 grenade bags.
+- pru m79 soldier magazines increased to 4 grenade bags.
+- mike m79 soldier magazines increased to 4 grenade bags.
+- marine force recon m79 soldier magazines increased to 4 grenade bags.
+- lrrp tiger m79 soldier magazines increased to 4 grenade bags.
+- lrrp erdl m79 soldier magazines increased to 4 grenade bags.
+- cambodian mercenary m79 soldier magazines increased to 4 grenade bags.
+- bushman m79 soldier magazines increased to 4 grenade bags.
+- au rifle m79 soldier magazines increased to 4 grenade bags.
+- army m79 soldier magazines increased to 4 grenade bags.
+- aircav m79 soldier magazines increased to 4 grenade bags.
+- au rifle removed backpack from machine gunner.
+- au sas removed backpack from machine gunner.
+- mpl new low resolution lods.
+- mpk new low resolution lods.
+- mpl new texture by skelig.
+- mpk new texture by skelig.
+- mpk model shortened by skelig.
+
+--- fixes v1.5.11
+- ia drang objects aligned to ground to suit new ulmus trees.
+- ulmus trees small, small ivy, large and large ivy from mikebart added (tree06* series swapped).
+- t55 new model added.
+- m113 icon image added.
+- m113 picture image added.
+
+--- fixes v1.5.10
+- penetration materials moved from various pbo's into vte_core_cfg.
+- env_land_co texture moved from various pbo's into vte_core_cfg.
+- vte terrain 9 doesn't have any objects in it, fixed.
+- vte terrain 9 resized down to 4096 grid and 10m cell size (40km instead of 102km).
+- smith and wesson m39 hush puppy used .45acp rounds, fixed. (this was actually on some previous upgrade)
+- m2 carbine with 30 round magazine model added.
+- agm-62 walleye bomb model added.
+- vte_agm45 ammo for agm-45 shrike class removed.
+- m21 sniper rifle silenced model added.
+- agm-45 shrike anti radiation missile added.
+- agm-78 standard arm anti radiation missile added.
+- m202 rocket indirect damage range reduced by 70%, should be small enough now.
+
+--- fixes v1.5.9
+- zsu-57-2 model from superrat added (bis zsu shilka placeholder is finally done).
+- zpu4 model from superrat added.
+
+--- fixes v1.5.8
+- t54 tank from superrat added.
+- bofors l/60 40mm flak gun model from superrat added.
+- cfggroups total rewrite using bis categories.
+- cfggroups few new groups added.
+- cfggroups and xml is not used completely (only few groups), fixed.
+- terrain12 satellite texture resolution increased to 20480 pixel.
+
+--- fixes v1.5.7
+- c47 pilot/cargo get-in points fixed.
+- c47 moved into vte_air.
+- c47 sea camo initial version added.
+- ac130 gunship guns were not working, fixed (but its our older model for now).
+- ch46 cockpit glass was with wrong texture, fixed.
+- ch53 cockpit glass was with wrong texture, fixed.
+- ch53 mg cockpit glass was with wrong texture, fixed.
+- c130 as sea camo added.
+- m202 indirectHitRange fixed.
+
+--- fixes v1.5.6
+- smith and wesson m39 hush puppy animations fixed.
+- smith and wesson m39 animations fixed.
+- browning animations fixed.
+- smith and wesson m39 hush puppy name said "puppu", heh, fixed.
+- m46 howitzer artillery model from superrat added.
+- iron triangle has ils but no airfield, fixed.
+- terrains reverted back to old "lowres" terrain grid due severe object alignment problems.
+- m3 greasegun silenced sound carried 700m, shortened range to 100m.
+- sten silenced sound carried 700m, shortened range to 100m.
+- mac10 silenced sound carried 300m, shortened range to 100m.
+- makarov silenced sound carried 200m, shortened range to 50m.
+
+--- fixes v1.5.5
+- browning hi power model from robert hammer added.
+- smith and wesson m39 hush puppy model from robert hammer added.
+- smith and wesson m39 model from robert hammer added.
+
+--- fixes v1.5.4
+- ch46 pilot get in point moved from back to the side door.
+- ch46 pilot get out ends up inside the helicopter hull, fixed.
+- ch46 cargo get out ends up inside the helicopter hull, fixed.
+- vinh thanh terrain grid increased from 256 to 1024.
+- vinh thanh terrain moved to its own pbo.
+- tet68 terrain grid increased from 9 to 32.
+- tet68 terrain moved to its own pbo.
+- rssz (rung sat special zone) terrain grid increased from 256 to 1024.
+- rssz (rung sat special zone) terrain moved to its own pbo.
+- rumble in the jungle (rij) terrain grid increased from 128 to 512.
+- rumble in the jungle (rij) terrain moved to its own pbo.
+- quan binh son terrain grid increased from 256 to 1024.
+- quan binh son terrain moved to its own pbo.
+- polei kleng terrain grid increased from 256 to 1024.
+- polei kleng terrain moved to its own pbo.
+- nam_25 (vietnam 25km) terrain moved to its own pbo.
+- nam_12 (vietnam 12km) terrain moved to its own pbo.
+- meekong terrain grid increased from 256 to 1024.
+- meekong terrain moved to its own pbo.
+- mdsz terrain grid increased from 256 to 1024.
+- mdsz terrain moved to its own pbo.
+- long son terrain grid increased from 64 to 256.
+- long son terrain moved to its own pbo.
+- khe sanh terrain grid increased from 256 to 1024.
+- khe sanh terrain moved to its own pbo.
+- iron triangle terrain moved to its own pbo.
+- iron triangle terrain satellite increased from 1024 to 2048 pixel resolution.
+- iron triangle terrain grid increased from 64 to 256.
+- ilo terrain satellite increased from 6400 to 12800 pixel resolution.
+- ilo terrain grid increased from 256 to 1024.
+- ilo terrain moved to its own pbo.
+- iiictza (parrots beak) terrain grid increased from 256 to 1024.
+- iiictza (parrots beak) terrain moved to its own pbo.
+- ia drang terrain moved to its own pbo.
+- fsb gloria terrain grid increased from 16 to 64.
+- fsb gloria terrain moved to its own pbo.
+- dak seang terrain grid increased from 256 to 1024.
+- dak seang terrain moved to its own pbo.
+- bra terrain grid increased from 256 to 1024.
+- bra terrain moved to its own pbo.
+
+--- fixes v1.5.3
+- australianao terrain grid increased from 512 to 2048.
+- australianao terrain moved to its own pbo.
+- ashau terrain grid increased from 256 to 1024.
+- ashau terrain moved to its own pbo.
+- aircombat terrain moved to its own pbo.
+- 25km demo terrain moved to its own pbo.
+- 7mountains terrain grid increased from 256 to 1024.
+- 7mountains terrain moved to its own pbo.
+- aircombat terrain grid increased from 1024 to 4096.
+- 25km demo terrain grid increased from 512 to 2048.
+- 5t truck us cargo, has two driver proxys, fixed.
+- 5t truck us cargo, front seat passanger sits through the seat, fixed.
+- 5t truck us cargo, driver sits through the seat, fixed.
+- 5t truck us open, cargo proxys are too low, soldiers sit through seats, fixed.
+- 5t truck us open, front seat passanger sits through the seat, fixed.
+- 5t truck us open, driver sits through the seat, fixed.
+- 5t truck us canvas, cargo proxys are too low, soldiers sit through seats, fixed.
+- 5t truck us canvas, has two driver proxys, fixed.
+- 5t truck us canvas, front seat passanger sits through the seat, fixed.
+- 5t truck us canvas, driver sits through the seat, fixed.
+- 5t truck us, cargo proxys are too low, soldiers sit through seats, fixed.
+- 5t truck us, has two driver proxys, fixed.
+- 5t truck us, front seat passanger sits through the seat, fixed.
+- 5t truck us, driver sits through the seat, fixed.
+- 5t truck arvn, cargo proxys are too low, soldiers sit through seats, fixed.
+- 5t truck arvn, has two driver proxys, fixed.
+- 5t truck arvn, front seat passanger sits through the seat, fixed.
+- 5t truck arvn, driver sits through the seat, fixed.
+- army pilot switched to use m1911 as weapon.
+- winchester 1912 shotgun new model from skelig added.
+- 90mm recoilless rifle name changed to just 90mm recoilless.
+- f100 no damage textures, fixed.
+- ah1j cobra with 8 tow missiles loadout added.
+- running speeds, slight tweak, still follows arma2 setup, gun lowered walking is faster than gun up.
+- bulldozer very quiet engine idle sounds, fixed.
+- bulldozer can be destroyed (easily), fixed.
+
+--- fixes v1.5.2
+- brown water needs to apply only for vte terrains, fixed.
+- flaregun has no reload sound, fixed.
+- flaregun picture is ... not showing up as handgun even though you have it, fixed.
+- flaregun was missing from weapon box, fixed.
+- m202 flash flame rocket launcher from skelig added.
+- smith and wesson model 12 revolver model added (semi placeholder).
+- smith and wesson model 15 revolver model added (semi placeholder).
+- smith and wesson model 67 revolver model added (semi placeholder).
+- smith and wesson m39 hushpuppy target sight icon changed to better one.
+- smith and wesson m39 hushpuppy shot high, fixed.
+- tokarev target sight icon changed to better one.
+- makarov target sight icon changed to better one.
+- flaregun target sight icon changed to better one.
+- browning high power target sight icon changed to better one.
+- colt m1911 target sight icon changed to better one.
+- remington870 shotgun model from skelig added.
+- usmc3 cigarette box and zippo shadow still present, fixed.
+- usmc3 cigarette box and zippo was not removed in 2-6 lods, fixed.
+- usmc2 cigarette box was not removed in 2-6 lods, fixed.
+- usmc2 missing cigarette box shadow still present, fixed.
+- usmc3 character model has leftover alice/etc backpack rig in his lower back, fixed.
+- usmc2 character model has leftover alice/etc backpack rig in his lower back, fixed.
+- usmc1 character model has leftover alice/etc backpack rig in his lower back, fixed.
+- mas38 has no ammo in weapon box, fixed.
+- m3sd greasegun silenced model added.
+- kittyhawk draw distance increased.
+
+--- fixes v1.5.1
+- sa2 launcher didn't animate properly, fixed.
+- sa2 config tweaks like new missile smoke trail.
+- nam_25 terrain grid size increased from 512 to 2048.
+- nam_12 terrain grid size increased from 256 to 1024.
+- ia drang new terrain grid caused heavy fps loss, fixed.
+- f4_grey_aa gunner proxy is way too high, fixed.
+- f4_grey_aa pilot proxy is bit to the left, fixed.
+- f4_grey_aa pilot proxy is too far back, fixed.
+- f4_grey_ag gunner proxy is way too high, fixed.
+- f4_grey_ag pilot proxy is bit to the left, fixed.
+- f4_grey_ag pilot proxy is too far back, fixed.
+- f4_tan_aa gunner proxy is way too high, fixed.
+- f4_tan_aa pilot proxy is bit to the left, fixed.
+- f4_tan_aa pilot proxy is too far back, fixed.
+- f4_tan_ag gunner proxy is way too high, fixed.
+- f4_tan_ag pilot proxy is bit to the left, fixed.
+- f4_tan_ag pilot proxy is too far back, fixed.
+- f4_tan_aa cockpit glass is difficult to see through, fixed.
+- f4_tan_ag cockpit glass is difficult to see through, fixed.
+- f4_grey_aa cockpit glass is difficult to see through, fixed.
+- f4_grey_ag cockpit glass is difficult to see through, fixed.
+
+--- fixes v1.5
+- vte_itree04 view geometry is too large, fixed.
+- vte_itree04 fire geometry is too large, fixed.
+- vte_itree04 geometry is too large, fixed.
+- clutter changed to lush jungle green color scheme.
+- clutter added to dedicated vte pbo
+- vte_itree03 view geometry is too large, fixed.
+- vte_itree03 fire geometry is too large, fixed.
+- vte_itree03 geometry is too large, fixed.
+- vte_itree02 view geometry is too large, fixed.
+- vte_itree02 fire geometry is too large, fixed.
+- vte_itree02 geometry is too large, fixed.
+- f5 sea counter measure chaff and flares missing, fixed.
+- f5 grey counter measure chaff and flares missing, fixed.
+- mig17 snake counter measure chaff and flares missing, fixed.
+- mig17 grey counter measure chaff and flares missing, fixed.
+- f105 r counter measure chaff and flares missing, fixed.
+- f105 counter measure chaff and flares missing, fixed.
+- a6 (mk82) counter measure chaff and flares missing, fixed.
+- a6 (mk74) counter measure chaff and flares missing, fixed.
+- a6 counter measure chaff and flares missing, fixed.
+- f4 tan ag counter measure chaff and flares missing, fixed.
+- f4 tan aa counter measure chaff and flares missing, fixed.
+- f4 grey ag counter measure chaff and flares missing, fixed.
+- f4 grey aa counter measure chaff and flares missing, fixed.
+- f100 (cap) counter measure chaff and flares missing, fixed.
+- f100 (mk82 ret) counter measure chaff and flares missing, fixed.
+- f100 (mk82) counter measure chaff and flares missing, fixed.
+- f100 (mk74) counter measure chaff and flares missing, fixed.
+- f100 (m117) counter measure chaff and flares missing, fixed.
+- f100 (mk74, lau-3a) counter measure chaff and flares missing, fixed.
+- f100 (mk82, lau-3a) counter measure chaff and flares missing, fixed.
+- f100 (mk74, mk82) counter measure chaff and flares missing, fixed.
+- mc130 counter measure chaff and flares missing, fixed.
+- c130 counter measure chaff and flares missing, fixed.
+- ac130 counter measure chaff and flares missing, fixed.
+- mig19 counter measure chaff and flares missing, fixed.
+- b57 counter measure chaff and flares missing, fixed.
+- b52 counter measure chaff and flares missing, fixed.
+- ah1j counter measure flares missing, fixed.
+- ah1g counter measure flares missing, fixed.
+- ch53 mg counter measure flares missing, fixed.
+- ch53 counter measure flares missing, fixed.
+- trailpath is marked on map as main road, fixed.
+- itrailpath is marked on map as main road, fixed.
+- itrailpath some parts were shaded differently if not completely missing, fixed.
+- mk82 rail new magazine 9rnds added (for b57 canberra internal pylon).
+- b57 bomb bay doors animation does not work, fixed.
+- b57 has only rockets and no bombs, fixed.
+- mas 38 missing from weapon box, fixed.
+- a4 (mk74) counter measure chaff and flares missing, fixed.
+- a4 b counter measure chaff and flares missing, fixed.
+- a4 r counter measure chaff and flares missing, fixed.
+- a4 counter measure chaff and flares missing, fixed.
+- l1a1 was not in the weapons us box, fixed.
+- c47 skytrain added (animations rvmats still unfinished).
+- ithaca m37 model from millenia added.
+- china lake reload time to much faster, 1 rnd / second.
+- m79 needs sight adjust to ranges 200 - 500m, added.
+- m79 reload time to much slower, 1 rnd / 6 seconds.
+- civilian nva truck shows up in mission editor, fixed.
+- backpack alice 2 with m60 ammo is missing, added.
+- backpack names unified for easier mission editor navigation.
+- sw keep height animation used for vte_powerlinel10_100.p3d, fixed.
+- sw keep height animation used for vte_powerliner10_100.p3d, fixed.
+- sw keep height animation used for vte_tallgrass.p3d, fixed.
+- sw keep height animation used for vte_vcartybunker.p3d, fixed.
+- strange convex component vte_ipalm2.p3d:geometry, fixed.
+- strange convex component vte_ipalm2.p3d:geometryfire, fixed.
+- strange convex component vte_ipalm2.p3d:geometryview, fixed.
+- strange convex component vte_ipalms.p3d:geometry, fixed.
+- strange convex component vte_ipalms.p3d:geometryview, fixed.
+- strange convex component vte_ipalms3.p3d:geometry, fixed.
+- strange convex component vte_ipalms3.p3d:geometryfire, fixed.
+- strange convex component vte_ipalms3.p3d:geometryview, fixed.
+- strange convex component vte_tree04.p3d:geometry, fixed.
+- strange convex component vte_tree04.p3d:geometryfire, fixed.
+- strange convex component vte_tree19.p3d:geometryview, fixed.
+- strange convex component vte_tree20.p3d:geometryview, fixed.
+- strange convex component vte_bush07.p3d:geometryview, fixed.
+- strange convex component vte_thompson.p3d:geometry, fixed.
+- strange convex component vte_xm148.p3d:geometry, fixed.
+- strange convex component vte_m60shorty.p3d:geometry, fixed.
+- strange convex component vte_m60.p3d:geometry, fixed.
+- ui mission editor terrain selector menu made larger for easier navigation.
+- strange convex component vte_xm177e1.p3d:geometry, fixed.
+- strange convex component vte_ch34_sog.p3d:geometryFire, fixed.
+- strange convex component vte_ch34_mg.p3d:geometryFire, fixed.
+- strange convex component vte_ch34.p3d:geometryFire, fixed.
+- strange convex component vte_bulldozer.p3d:geometry, fixed.
+- strange convex component vte_bulldozer.p3d:geometryFire, fixed.
+- strange convex component vte_bulldozer.p3d:geometryView, fixed.
+- strange convex component vte_m35_us_a_fuel.p3d:geometryFire, fixed.
+- strange convex component vte_m35_us_a_fuel.p3d:geometryViewCargo, fixed.
+- strange convex component vte_m35_us_a_cargo.p3d:geometryFire, fixed.
+- strange convex component vte_m35_us_a_cargo.p3d:geometryViewCargo, fixed.
+- strange convex component vte_m35_mafia.p3d:geometryFire, fixed.
+- strange convex component vte_m35_mafia.p3d:geometryViewCargo, fixed.
+- strange convex component vte_m35_us_a_ammo.p3d:geometryFire, fixed.
+- strange convex component vte_m35_us_a_ammo.p3d:geometryViewCargo, fixed.
+- strange convex component vte_m35_us_a_2.p3d:geometryFire, fixed.
+- strange convex component vte_m35_us_a_2.p3d:geometryViewCargo, fixed.
+- t55 armor values tweaked, 2 shots from law, one shot from 90mm recoilless.
+- strange convex component vte_m35_us_a.p3d:geometryFire, fixed.
+- strange convex component vte_m35_us_a.p3d:geometryViewCargo, fixed.
+- ah1j cobra gunner sighting system moves too much with turret, outside cockpit, fixed.
+- zsu37 gunner view doesnt work, fixed.
+- zsu37 has no muzzle flash, fixed.
+- zsu37 has no tracer rounds, fixed.
+- mk82 rail dropped bombs in autofire mode, now trigger commit only drops single bomb.
+- mk82 made laserguided, its a cheat but its not fair to bomb blind either.
+- m39 hushpuppy sound travels too far, fixed (cant hear beyond 30m now).
+- car15 has huge dispersion, fixed.
+- ar15 has huge dispersion, fixed.
+- xm177e has huge dispersion, fixed.
+- bulldozer geometry weight increased, should help its power to move other objects.
+- vinhthanh ils was in wrong position, removed.
+- poleikleng ils was in wrong position, removed.
+- khesanh ils was in wrong position, removed.
+- dshkm machine gun has insane dispersion, fixed.
+- m2 machine gun has insane dispersion, fixed.
+- vte_land/model.cfg has several errors in binarize log, fixed.
+- sa2 launcher does not have full damage textures, fixed.
+- uh1 right doorgunner is way inside the chassis, fixed.
+- uh1 right doorgunner cant get in (except through left doorgunner seat), fixed.
+- jeep mg gunner cant get in, fixed.
+- jeep unarmed had m2 gun barrel holder, fixed.
+- oh6 gunner cannot be shot, fixed.
+- ia drang terrain grid increased from 256 to 1024 (cell size 50m down to 12.5m). &lt;- but fps went 60-&gt;25 :(
+- vte_music was missing $pboprefix$, fixed (how the hell did that happen?).
+- ia drang ils not working, fixed.
+- config nightVision removed as its obsolete.
+</pre>
+
+
+	<h2>v1.4</h2>
+
+<pre>
+--- fixes v1.4
+- public release ;)
+
+--- fixes v1.4 release candidate 2 hotfix 1
+- running_speeds_cfg had faulty values for few speeds, fixed.
+
+--- fixes v1.4 release candidate 2
+- ov10 and ov1 names made more distinct for mission editor.
+- hud added to f105s.
+- hud added to f100 super sabres.
+- hud added to f5s.
+- hud added to a6 intruders.
+- hud added to a4 skyhawks.
+- hud added to f4 phantoms.
+- skybox_remove had missing area on the specific part of horizon, fixed.
+- 40mm buckshot magazine name was too long (for gear menu), fixed.
+- 40mm grenade ammobag picture is single grenade, fixed.
+- m60 recoil pulls down, fixed.
+- c130 has ramp opening struds stuck in open mode, fixed.
+- blufor camo faces bug fixed.
+- m113, m113acav and m163 vulcan vehicle mass fixed once and for all, no more vehicles flipping over.
+- kittyhawk script sort of fixed. this = [this] execVM "\pmc\vte_core_cfg\scripts\vehicle\kittyhawk\build.sqf";
+- aircav group composition is awful, fixed.
+- car15gl model changed to newer skaven's car15 model, still old xm148 underneath.
+- usmc soldiers had about 4600 unused vertices hidden in gear, removed.
+- characters changed to use proxy head model.
+- tree06c had faulty geometry (you could walk through it), fixed.
+- tree06b had faulty geometry (you could walk through it), fixed.
+- ia drang jungle density toned down (from 60 models to 40 models).
+- asf road does not appear on terrain, fixed.
+- bis_ces road does not appear on terrain, fixed.
+- gravel specularity removed.
+- itrailpath specularity removed.
+- trailpath specularity removed.
+- f4_tan_ag view-pilot aligned properly.
+- f4_tan_aa view-pilot aligned properly.
+- f4_grey_ag view-pilot aligned properly.
+- f4_grey_aa view-pilot aligned properly.
+- aircombat added more terrain types to satellite mask/texture.
+- blu82 daisycutter explosion effects tweaked (not yet there finished).
+- blu82 daisycutter does not do enough damage, fixed.
+- mc130 texture tweaked.
+- placeholder text name for all placeholder weapons.
+- mohawk all specular maps toned down on reflection.
+- bronco all specular maps toned down on reflection.
+- running speeds tweaked.
+- m60 fire rate adjusted to bit faster.
+- birddog pilot/cargo proxys aligned better.
+- birddog normal mapping improved.
+- ah1 cobra normal mapping improved.
+- ah1j view-pilot wrongly aligned, fixed.
+- ah1g view-pilot wrongly aligned, fixed.
+- ah1g had wrongly named rvmat, fixed.
+- mig19 cant get in, fixed.
+- mig17 engine sound horrible, fixed.
+
+--- fixes v1.4 release candidate 1
+- rebinarization of vte_terrain_wrp2 to remove unused files.
+
+--- fixes v1.3.11 internal (4 upgrades)
+- typ63 added shadows.
+- prc25 added shadows.
+- a1h_sea added shadows.
+- a1h added shadows.
+- a6_napalm added shadows.
+- a6_bomb added shadows.
+- a4_r added shadows.
+- a4 added shadows.
+- a4_r added rest of the plane in pilot view.
+- a4 added rest of the plane in pilot view.
+- a4_r fire geometry proxy error, fixed.
+- a4 fire geometry proxy error, fixed.
+- 762x54mm magazines has anti-tank rocket as inventory image, fixed.
+- bis_krovi4 reduced 1 section.
+- bis_krovi2 reduced 1 section.
+- bis_krovi_long reduced 2 sections.
+- bis_krovi reduced 1 section.
+- xm177e1 added shadowvolume 10.
+- uzi added shadows.
+- uzi added geometry.
+- type68 added shadows.
+- type68 added geometry.
+- type56 added shadowvolume 10.
+- type56 added geometry.
+- tokarevtt33 added shadows.
+- tokarevtt33 added geometry.
+- thompson added shadows.
+- thompson added geometry.
+- svt added shadows.
+- stoner_mg added shadows.
+- stoner_mg added geometry.
+- stoner_ar added shadows.
+- stoner_ar added geometry.
+- stensd added geometry.
+- stensd added shadowvolume 10.
+- sten added geometry.
+- sten added shadowvolume 10.
+- sks added shadows.
+- sks added geometry.
+- rpg2 added shadowvolume 10.
+- rpd added shadowvolume 10.
+- remington700 added shadows.
+- ppsh added shadows.
+- ppsh added geometry.
+- pps43 added shadows.
+- pps43 added geometry.
+- ppd40 added shadows.
+- ppd40 added geometry.
+- mpl made the barrel bit more longer as its mp(L) version.
+- mpl added shadowvolume 10.
+- mpk added shadowvolume 10.
+- mp40 added shadows.
+- mosina added shadows.
+- mosin38 added shadows.
+- mosin added shadows.
+- mat49 added shadows.
+- mas49 added shadows.
+- mas38 added shadows.
+- mas36 added shadows.
+- mac10_stock_sd added shadowvolume 10.
+- mac10_stock added shadowvolume 10.
+- mac10_sd added shadowvolume 10.
+- mac10 added shadowvolume 10.
+- m72e added shadowvolume 10.
+- m72 added shadowvolume 10.
+- m67v added shadowvolume 10.
+- m60shorty added shadows.
+- m60shorty added geometry.
+- m60 added shadowvolume 10.
+- m45 added shadows.
+- m16a1_203 added shadowvolume 10.
+- m16a1 added shadowvolume 10.
+- m1carbine added shadows.
+- l1a1 added shadows.
+- k98k added shadows.
+- k50m added shadows.
+- ithaca added shadows.
+- garand added shadows.
+- flaregun added shadows.
+- ex41 added shadows.
+- dp27 added shadows.
+- m39hp added shadows.
+- m39hp was misaligned in hands, fixed.
+- browning was misaligned in hands, fixed.
+- browning added shadows.
+- bren2 added shadows.
+- barbipod added shadows.
+- m35_us_empty damage textures missing, fixed.
+- m35_us_a_fuel damage textures missing, fixed.
+- m35_us_a_cargo damage textures missing, fixed.
+- m35_us_a_ammo damage textures missing, fixed.
+- m35_us_a_3 damage textures missing, fixed.
+- m35_us_a_2 damage textures missing, fixed.
+- m35_us_a damage textures missing, fixed.
+- m35_mafia damage textures missing, fixed.
+- m35_arvn damage textures missing, fixed.
+- m35_us_empty normal/specula maps missing, fixed.
+- m35_us_a_fuel normal/specula maps missing, fixed.
+- m35_us_a_cargo normal/specula maps missing, fixed.
+- m35_us_a_ammo normal/specula maps missing, fixed.
+- m35_us_a_3 normal/specula maps missing, fixed.
+- m35_us_a_2 normal/specula maps missing, fixed.
+- m35_us_a normal/specula maps missing, fixed.
+- m35_mafia normal/specula maps missing, fixed.
+- m35_arvn normal/specula maps missing, fixed.
+- t34/85 weapons replaced with vte native weapons.
+- t34/85 not animated, fixed.
+- glasses of too modern era, attempt of removing them.
+- vietminh guys mostly were on wrong vehicleclass, fixed.
+- mk82/83/84 damage values were too low, fixed.
+- jeep's should not have insidesoundcoeff as its open car. obstructsound too, fixed.
+- zu23 ammo has no tracers, fixed.
+- t34 class is under faction usa, fixed.
+- nva officer is called "Officer" instead of "NVA Officer", fixed.
+- map grid changed to 8 digit system.
+- zu23 sound duration is way too long, fixed.
+- texture pmc\vte_bis_obj\data\zalchat_beton.pac missing, fixed.
+- texture pmc\vte_bis_obj\data\zalchat_beton2.pac missing, fixed.
+- m21 model was replaced with m14 model.
+- m21 scope model was re-uvmapped.
+- m21 reload sound not working, fixed.
+- bulldozer no damage textures, fixed.
+- lvtp5 no damage textures, fixed.
+- zsu37 no damage textures, fixed.
+- su76 no damage textures, fixed.
+- btr50 no damage textures, fixed.
+- nva base and sniper new models from bad benson.
+- m113acav mass is wrong, it almost tips over on breaking, fixed.
+- m113 mass is wrong, it almost tips over on breaking, fixed.
+- shotgun shells/slugs are now one fully loaded tube, meaning 5 shells/slugs.
+- magazine VTE_150Rnd_556x45 (belt) for stoner mg added.
+- magazine VTE_40mm_Buckshot renamed to VTE_1Rnd_40mm_buckshot class name.
+- magazine VTE_40mm_HE renamed to VTE_1Rnd_40mm_HE class name.
+- magazine VTE_32Rnd_uzi renamed to VTE_32Rnd_9x19 class name.
+- magazine VTE_10Rnd_svt removed and replaced by VTE_10Rnd_762x54 class name.
+- magazine VTE_100Rnd_45ACP_Drum renamed to VTE_100Rnd_45ACP class name.
+- magazine VTE_32Rnd_sten renamed to VTE_32Rnd_9x18 class name.
+- magazine VTE_32Rnd_stensd renamed to VTE_32Rnd_9x18_sd class name.
+- magazine VTE_10Rnd_SKS renamed to VTE_10Rnd_762x54 class name.
+- magazine VTE_71Rnd_762x25_PPD_Drum renamed to VTE_71Rnd_762x25 class name.
+- magazine VTE_25Rnd_762x25_PPD_Box renamed to VTE_25Rnd_762x25 class name.
+- magazine VTE_100Rnd_RPD_drum renamed to VTE_100Rnd_762x54 class name.
+- magazine VTE_100Rnd_556x45_M23 renamed to VTE_100Rnd_556x45 class name.
+- magazine VTE_5Rnd_Mosin renamed to VTE_5Rnd_762x54 class name.
+- magazine VTE_20Rnd_762x63_Stanag renamed to VTE_20Rnd_762x63 class name.
+- magazine VTE_30Rnd_556x45_Stanag renamed to VTE_30Rnd_556x45 class name.
+- magazine VTE_20Rnd_556x45_Stanag renamed to VTE_20Rnd_556x45 class name.
+- magazine VTE_40mm_AmmoBag renamed to VTE_30Rnd_40mm_AmmoBag class name.
+- magazine VTE_36Rnd_M45 renamed to VTE_36Rnd_9x19 class name.
+- ammo VTE_M45Bullet replaced with vte_9x19 class name.
+- magazine VTE_20Rnd_mat49 renamed to VTE_20Rnd_9x19_mat49 class name.
+- magazine VTE_30Rnd_mat49 renamed to VTE_30Rnd_9x19_mat49 class name.
+- unused ak47 7.62x43mm magazine removed.
+- bombs were missing explosion sounds, fixed.
+- ia drang converted it again with better replace object settings from the original.
+- vc_rifleman2 added shadows.
+- vc_rifleman_tl added shadows.
+- vc_rifleman_rto added shadows.
+- vc_rifleman_mg added shadows.
+- vc_rifleman_at added shadows.
+- vc_rifleman added shadows.
+- usmc3 added shadows.
+- usmc2 added shadows.
+- usmc1 added shadows.
+- usmfr_mg added shadows.
+- sog_tl added shadows.
+- sog_rto added shadows.
+- sog_rfl2 added shadows.
+- sog_rfl added shadows.
+- sog_mg added shadows.
+- sog_gren added shadows.
+- sf_rfl added shadows.
+- seal_tl added shadows.
+- seal_rfl added shadows.
+- seal_pm added shadows.
+- seal_mg added shadows.
+- seal_gren added shadows.
+- mike_rfl added shadows.
+- lrrpt_rfl added shadows.
+- lrrpe_rfl added shadows.
+- ausas_tl added shadows.
+- aus_rfl added shadows.
+- arvn2_rfl added shadows.
+- arvn1_rto added shadows.
+- arvn1_rfl added shadows.
+- aircav_rto added shadows.
+- aircav_rfl2 added shadows.
+- aircav_rfl added shadows.
+- aircav_pilot added shadows.
+- aircav_medic added shadows.
+- army_rto added shadows.
+- army_rfl added shadows.
+- army_mg added shadows.
+- army_gren added shadows.
+- backpack added empty ones to weapon boxes.
+- m113acav driver view needs config entry for "force optics thing". model has no interior.
+- m48 tank is lighted at dark, fixed.
+- dispersion config (own pbo) created.
+- truck namesound missing, fixed.
+- m113 namesound missing, fixed.
+- 9x19mm magazines have 3 identical named entries, fixed.
+- 25km demo still with 50m jungle blocks, converted to individual trees.
+- vte_land_cfg caused game wide get-in vehicle problems (class LandVehicle), fixed.
+- sea vehicle nohq texture tone down.
+- sea vehicle smdi texture tone down.
+- m40 sniper rifle added.
+- ranging weapon (pgn-up/pgn-dn) check for all that has adjustable sights, fixed.
+- minTreesInForestSquare rised it to 10, should define forests better in jungle terrain.
+- map grid is not working goes from 0-9 and then again 0-9, fixed.
+- 82mm mortar nva works now from arty module "call bis_arty_f_executetemplatemission" method.
+- 81mm mortar us works now from arty module "call bis_arty_f_executetemplatemission" method.
+- m101 artillery us works now from arty module "call bis_arty_f_executetemplatemission" method.
+- sa2launcher normal/specular maps tweaked.
+- sa2fansong normal/specular maps tweaked.
+- sa2launcher missing damage textures, fixed.
+- sa2fansong missing damage textures, fixed.
+- sa2fansong missing view geometry, fixed.
+- sa2fansong missing fire geometry, fixed.
+- arvn texture has unwanted streaks of texture, fixed.
+- arvn2 texture has unwanted streaks of texture, fixed.
+- aus texture has unwanted streaks of texture, fixed.
+- mfr mg texture has unwanted streaks of texture, fixed.
+- mike texture has unwanted streaks of texture, fixed.
+- sf texture has unwanted streaks of texture, fixed.
+- tigerstripe(?) texture has unwanted streaks of texture, fixed.
+- usmc texture has unwanted streaks of texture, fixed.
+- us army grenadier textures has unwanted streaks of texture, fixed.
+- us army mg textures has unwanted streaks of texture, fixed.
+- us army textures has unwanted streaks of texture, fixed.
+- c130 cant get in, fixed.
+- m101 new model from badscull added.
+- m60 fire rate is too fast (should be 550 rounds per minute), fixed.
+- m113acav engine sounds are not working.
+- m113 engine sounds are not working.
+- m113 damage textures are not working.
+- ach47 had useless 4.0 lod, removed.
+- ach47 texture swaps to olive green on 3.0 lod, fixed.
+- ach47 one missing texture from ca\ moved to vte_air.
+- reload sounds for all infantry weapons fixed.
+- vte_weapons all ca\ file/image references removed with two exceptions.
+- makarov silenced used non silenced model, fixed.
+- 30rnd 5.56x45mm magazine added, not used but its availabe for mission editors.
+- aidispersioncoef values were not in effect, fixed.
+- weapon dexterity values were not in effect, fixed.
+- running speed values were not in effect, fixed.
+- aimprecision values were not in effect, fixed.
+- high dispersion values were not in effect, fixed.
+- marker round 40mm for grenade launchers added.
+- anti tank launcher dexterity adjusted, made it more heavier.
+- machine gun dexterity adjusted, made it more heavier.
+- map marker vc added.
+- map marker nva added.
+- map marker arvn added.
+- flagcarrier vc added.
+- flagcarrier nva added.
+- flagcarrier arvn added.
+- description short for all weapons added.
+- description short for all magazines added.
+- lrrpt_rfl few missing rvmats, fixed.
+- lrrpe_rto few missing rvmats, fixed.
+- lrrpe_rfl few missing rvmats, fixed.
+- ausas_tl few missing rvmats, fixed.
+- aus_rfl few missing rvmats, fixed.
+- arvn2_rfl helmet missing rvmat, fixed.
+- arvn1_rto helmet missing rvmat, fixed.
+- arvn1_rfl helmet missing rvmat, fixed.
+- aircav_rto face and hands turned into weird color in lower lods, fixed.
+- aircav_rto removed one unecessary texture.
+- aircav_rto few missing rvmats, fixed.
+- aircav_rfl2 removed one unecessary texture.
+- aircav_rfl2 few missing rvmats, fixed.
+- aircav_rfl removed one unecessary texture.
+- aircav_rfl few missing rvmats, fixed.
+- aircav_medic removed one unecessary texture.
+- aircav_medic few missing rvmats, fixed.
+- nva_rto few missing rvmats, fixed.
+- nva_mg few missing rvmats, fixed.
+- nva_rfl few missing rvmats, fixed.
+- sog_rfl few missing rvmats, fixed.
+- environmental sounds changed and upgraded for all terrains.
+- environmental sound meadow loon yell random sample added.
+- environmental sound ocean random sample added.
+- environmental sound rain town with random sample added.
+- vc_rifleman2 added backpack capability.
+- vc_rifleman_tl added backpack capability.
+- vc_rifleman_rto added backpack capability.
+- vc_rifleman_mg added backpack capability.
+- vc_rifleman added backpack capability.
+- usmc3 added backpack capability.
+- usmc2 added backpack capability.
+- usmc1 added backpack capability.
+- sog_rto added backpack capability.
+- seal_tl added backpack capability.
+- seal_rfl added backpack capability.
+- seal_pm added backpack capability.
+- seal_mg added backpack capability.
+- seal_gren added backpack capability.
+- nva_rto added backpack capability.
+- lrrpe_rto added backpack capability.
+- civilian_02 added backpack capability.
+- civilian_01 added backpack capability.
+- arvn1_rto added backpack capability.
+- army_rto added backpack capability.
+- aircav_rto added backpack capability.
+- aircav_rfl2 added backpack capability.
+- aircav_rfl added backpack capability.
+- aircav_pilot added backpack capability.
+- aircav_medic added backpack capability.
+- nva_mg added backpack capability.
+- aus_rfl added backpack capability.
+- arvn2_rfl added backpack capability.
+- vc_rifleman_at added vcrpg1 pack.
+- vte_backpack_vcrpg1 model created.
+- usmfr_mg added alice 1 pack.
+- sog_tl added alice 2 pack.
+- sog_rfl2 added alice 2 pack.
+- sog_rfl added alice 2 pack.
+- sog_mg added alice 2 pack.
+- sog_gren added alice 2 pack.
+- sf_rfl added alice 1 pack.
+- nva_rfl added nva 1 pack.
+- vte_backpack_nva1 model created.
+- mike_rfl added alice 1 pack.
+- lrrpt_rfl added alice 1 pack.
+- lrrpe_rfl added alice 2 pack.
+- vte_backpack_alice2 model created.
+- ausas_tl added alice 1 pack.
+- arvn1_rfl added alice 1 pack.
+- army_rfl added alice 1 pack.
+- army_mg added alice 1 pack.
+- army_gren added alice 1 pack.
+- vte_backpack_alice1 model created.
+- 40mm buckshot shell, added shotgun config.
+- wharf2 convex component geometry-view, fixed.
+- vcartybunker convex component geometry-view, fixed.
+- vilhut01 strange convex component geometry, fixed.
+- ihut4 strange convex component geometry-fire, fixed.
+- ihut4 strange convex component geometry-view, fixed.
+- itrailpaddy10_50 strange convex component geometry-view, fixed.
+- fallenpalmt1 strange convex component geometry-view, fixed.
+- tree21 strange convex component geometry-fire, fixed.
+- tree21 strange convex component geometry-view, fixed.
+- tree20 strange convex component geometry-view, fixed.
+- tree19 strange convex component geometry-view, fixed.
+- ipalms3 strange convex component geometry, fixed.
+- ipalms3 strange convex component geometry-fire, fixed.
+- ipalms3 strange convex component geometry-view, fixed.
+- ipalms strange convex component geometry-view, fixed.
+- chickencoop1 strange convex component geometry-fire, fixed.
+- chickencoop1 strange convex component geometry-view, fixed.
+- bush06 strange convex component geometry-view, fixed.
+- bush05 strange convex component geometry-view, fixed.
+- namesound errors repeated in rpt, fixed.
+- huey doorgun left had muzzle flash on, fixed.
+- aircraft smdi reflection/shinyness textures toned down a lot.
+- cluster bomb script causes huge fps loss in mp, adjusted, needs testing in mp.
+- m75 grenade (uh1 ara gunner) has no explosion sound, fixed.
+- artillery vehicles were under vehicles armor, fixed.
+- 81mm mortar cant get in when empty, fixed.
+- config class missing, vte_bis_obj, fixed.
+- vte_bis_obj had duplicate objects for default ca\, renamed them with vte tag.
+- a1h skyraider long lost original sea camo texture added.
+- script not found on vte_objects, several errors, fixed.
+- script pmc\vte_core_cfg\scripts\vte_door.sqf not found, fixed.
+- uh1 dustoff huey map icon missing, added.
+- uh1 huey map icon is low res, fixed.
+- 81mm mortar name says "boom", fixed.
+- m101 name says "boom", fixed.
+- ex41 did not load flares, fixed.
+- m79 did not load flares, fixed.
+- m14 added fullauto firemode.
+- flares missing from ammo boxes, added.
+- outhouse missing view / fire geometry, fixed.
+- outhouse had shading problems, fixed.
+</pre>
+
+
+	<h2>v1.3.10</h2>
+
+<pre>
+--- fixes v1.3.10
+- camo faces added to special force type soldiers.
+- face textures changed from pac to paa.
+- sog_rfl2 new model with od pants, od shirt added.
+- sog_gren new model with od pants, od shirt with grenades added.
+- sog_mg new model with od pants, od shirt with mg ammo added.
+- sog_tl new model with od pants, od shirt added.
+- seal smdi texture values tweaked.
+- xm177 texture had unclean alpha channel, fixed.
+- seal_mg new model with woodland pants, udt vest, woodland jacket + mg ammo added.
+- seal_gren new model with tigerstripe pants, udt vest + woodland jacket with grenades added.
+- seal_pm new model with woodland pants, udt vest + tigerstripe jacket added.
+- seal_rfl new model with jeans + udt vest + woodland jacket added.
+- seal_tl texture errors corrected.
+- ch53 ugly bright green color adjusted to more darker shade.
+- shotgun config added, now they fire real spreading pellets / slugs.
+- floating objects in terrains fixed on most parts, but not all.
+</pre>
+
+
+	<h2>v1.3.9</h2>
+
+<pre>
+--- fixes v1.3.9 (public full release)
+- vc_rifleman_tl replaced last resolution lod.
+- vc_rifleman_rto replaced last resolution lod.
+- vc_rifleman_mg replaced last resolution lod.
+- vc_rifleman_at replaced last resolution lod.
+- vc_rifleman replaced last resolution lod.
+- vc_rifleman2 replaced last resolution lod.
+- usmc3 replaced last resolution lod.
+- usmc2 replaced last resolution lod.
+- usmc1 replaced last resolution lod.
+- aircav_medic replaced last resolution lod.
+- aircav_rfl2 replaced last resolution lod.
+- aircav_rfl replaced last resolution lod.
+- aircav_pilot replaced last resolution lod.
+- aircav_rto replaced last resolution lod.
+- m1838 animated gun/turret.
+- m108 aligned main gun to better work with arty module.
+- m107 animated main gun on all lods.
+- m101 aligned main gun to better work with arty module.
+- m56 aligned main gun to better work with arty module.
+- m30 m1938 had no gun/turret animation, fixed.
+- mines few models had bad lod's, fixed.
+- mines not working (editor placed), fixed.
+- artillery not working (using bis arty module), fixed.
+</pre>
+
+
+	<h2>v1.3.8</h2>
+
+<pre>
+--- fixes v1.3.8
+- ch53 added ugly paint job for jungle green camo.
+- a1h skyraider added sea camo.
+- a1h weapon loadout does not match weapon proxys, fixed (mostly).
+- b52 adjusted mk82 loadout realism.
+- b52 added m117 external stores.
+- bis c130 added it to vte.
+- ac130 removed turrets as they do not work. c130 as placeholder.
+- mc130 new bis c130 got ugly paint job for SEA camo.
+- uh1h new model added, m60 door guns, 12 men cargo.
+- uh1h dustoff new model added, 3 men cargo.
+- uh1h ara gunship new model added, ffar rockets, m75 grenade launcher.
+- uh1h gunship new model added, ffar rockets, m134 miniguns.
+- uh1h unarmed new model added, 12 men cargo.
+- fueltank4 added.
+- f100 with mk82, lau-3a loadout added.
+- f100 with mk74, lau-3a loadout added.
+- f100 with m117 loadout added.
+- f100 with mk74 loadout added.
+- f100 with mk82 loadout added.
+- f100 with mk82r loadout added.
+- f100 with mk74, mk82 loadout added.
+- aircav model backpants bug fixed.
+- infantry weapons added new arma 2 rvmat's.
+- arvn2_rfl model performance tweaks.
+- arvn1_rto model performance tweaks.
+- arvn1_rfl model performance tweaks.
+- army_rto model performance tweaks.
+- army_rfl model performance tweaks.
+- army_mg model performance tweaks.
+- army_gren model performance tweaks.
+- aircav_rto model performance tweaks.
+- aircav_rfl2 model performance tweaks.
+- aircav_rfl model performance tweaks.
+- aircav_medic model performance tweaks.
+- vc_rifleman_tl model performance tweaks.
+- vc_rifleman_at model performance tweaks.
+- usmfr_mg model performance tweaks.
+- sf_rfl model performance tweaks.
+- nva_rfl model performance tweaks.
+- mike_rfl model performance tweaks.
+- lrrpt_rfl model performance tweaks.
+- aus_rfl model performance tweaks.
+- ausas_tl model performance tweaks.
+- ar15 cartidge ejecting is too low, tweaked.
+- car15gl cartidge ejecting is too low, tweaked.
+- m16a1 cartidge ejecting is too low, tweaked.
+- car15gl model has 30rnd magazine, fixed.
+- uzi animated bolt.
+- thompson animated bolt.
+- stensd animated bolt.
+- sten animated bolt.
+- remington700 animated bolt.
+- ppsh animated bolt.
+- pps43 animated bolt.
+- ppd40 animated bolt.
+- mas49 animated bolt.
+- mas36 animated bolt.
+- m60 animated bolt.
+- m3a1 texture suffix was missing, fixed.
+- m1carbine animated bolt.
+- l1a1 animnated bolt.
+- tet68 special objects aligned to ground.
+- ov1d model performance tweaks.
+- ov1c model performance tweaks.
+- ov1b model performance tweaks.
+- ov1a model performance tweaks.
+- ov10d model performance tweaks.
+- ov10c model performance tweaks.
+- ov10a model performance tweaks.
+- ov10 model performance tweaks.
+- ch53 mg model performance tweaks.
+- ch53 model performance tweaks.
+- ch46 model performance tweaks.
+- ch34 mg model performance tweaks.
+- m35 mafia truck model performance tweaks.
+- m163 vulcan model performance tweaks.
+- bis m14 added it to vte.
+- bis m79 added it to vte.
+- bis colt1911 added it to vte.
+- bis lee enfield n4 added it to vte.
+- bis sa58 added it to vte. (its an ak47 copy).
+- bis sa58s (folding stock) added it to vte. (its an ak47 copy).
+- garand animated trigger.
+- rpd animated bolt.
+- rpk animated bolt.
+- sks animated bolt.
+- svt40 animated bolt.
+- type56 animated bolt.
+- type68 animated bolt.
+- nva crew and pilot weapon changed to ak47s.
+- bis ak47s (folding stock) added it to vte.
+- bis ak47 added it to vte.
+- vc ak47 soldier had type56 instead, fixed.
+- terrain class names switched all of them to lower case (for linux ded server).
+- us jeeps allow 5 persons to enter but only 2 are visible, fixed.
+- aircav.hpp is missing old arma classes, fixed.
+- mortar crews floats in the air, fixed.
+- svt-40 tweaked recoil.
+- m14 tweaked recoil.
+- m163 vulcan gun barrel not animated, fixed.
+- suu11 pod has no firing sound, fixed.
+- suu11 pod has too long burst, fixed.
+- suu11 pod no tracers, fixed.
+- a1h skyraider restored original weapon loadouts.
+- vc soldiers had shadow (broken), fixed.
+- aircav soldiers had shadow (broken), fixed.
+- usmc soldiers had shadow (broken), fixed.
+- ah1 cobra gunner optics very low res, fixed.
+- vte_arty inv dir replaced with newer equip dir.
+- vte_weapons inv dir replaced with newer equip dir.
+- generic mag image moved to equip dir.
+- t34 missing, added. (selections missing, not animated).
+</pre>
+
+
+	<h2>v1.3.7</h2>
+
+<pre>
+--- fixes v1.3.7
+- m113 mass is not right, tilts forward when breaking, fixed.
+- m113 acav mass is not right, tilts forward when breaking, fixed.
+- m113 driver cant get in, fixed.
+- m113 acav driver cant get in, fixed.
+- m113 no cargo space for passangers, fixed.
+- truck5t mafia muzzleflash on constantly, fixed.
+- truck5t mafia switched m60 to m2.
+- truck5t fire geometrys not working, fixed.
+- truck5t geometrys not working, fixed.
+- truck5t mafia muzzleflash not animated, fixed.
+- remington 11-48 shotgun missing, added.
+- remington 870 shotgun missing, added.
+- winchester model 1897 shotgun missing, added.
+- winchester model 1912 shotgun missing, added.
+- smith & wesson model 12 revolver is missing, added.
+- smith & wesson model 15 revolver is missing, added.
+- smith & wesson model 67 revolver is missing, added.
+- mas-49 rifle is missing, added.
+- aircav pilot textures were bad, improved.
+- mpk/mpl sights were not aligned, fixed.
+- mpk/mpl textures has unecessary texts, fixed.
+- m60 needs to be a bit louder, tweaked.
+- mig17 has the same weapon twice: gsh cannon/ gsh23 cannon, fixed.
+- m3a1 fire rate is a bit too low now, tweaked.
+- xm177e no reload sound, fixed.
+- mas36 no reload sound, fixed.
+- m45 has no reload sound, fixed.
+- m3a1 reload sound volume is terribly low, fixed.
+- remington model 700 sniper rifle missing, added.
+- rpg2 units (some) have rpg7 instead, fixed.
+- law eye memory point is way way too back.
+- law res lod's were not all aligned correctly, fixed.
+- law added geometry.
+- rpg7 loaded proxy is missing. loaded shows empty model, fixed.
+- 90mm recoilless launcher iron sights not working, fixed.
+- rpg2 launcher iron sights not working, fixed.
+- rpg7 launcher iron sights not working, fixed.
+- law launcher iron sights not working, fixed.
+- sa7 launcher missiles missing from nva box, added.
+- sa7 launcher missing from nva box, added.
+- napalm fire/smoke effect is not working, fixed.
+- m113 cargo missing ca\tracked\data\cargo_co.paa, fixed.
+- m113 cargo missing ca\tracked\data\walls_co.paa, fixed.
+- m113 acav wrong texture paths, fixed.
+- new m197 sound by tpm added.
+- new m134 sound by tpm added.
+- m3a1 magazine name is "m3a1", fixed.
+- m3a1sd magazine name is "m3a1sd", fixed.
+- m45 magazine name is "m45", fixed.
+- mosin magazine name is "mosin", fixed.
+- m39hp magazine name is "m39hp", fixed.
+- mpk magazine name is "mpk", fixed.
+- ppd40 magazine name is "ppd box", fixed.
+- pps43 magazine name is "35rnd mp", fixed.
+- rpd magazine name is "rpd box", fixed.
+- sten magazine name is "sten", fixed.
+- svt40 magazine name is "svt", fixed.
+- thompson magazine name is "thompson", fixed.
+- type68 magazine name is "type 68", fixed.
+- uzi magazine name is "uzi", fixed.
+- birddog pilot sits bit too low (not much though), fixed.
+- mig19 pilot view is too low, fixed.
+- b57 pilot position is too high, torso is outside of the cockpit, fixed.
+- b57 missing view geometry, added.
+- b57 last res lod was 225 points, added new one less than 100.
+- b57 can't find the "get in" position, fixed.
+- artillery shell explosion config tweaked.
+- artillery has no shell explosion sound, fixed.
+- nva sniper (mosin) has type56 rifle, fixed.
+- vc rifleman (m14/mortar) has 20rnd m16 mags, fixed.
+- rpk machine gun missing, added.
+</pre>
+
+
+	<h2>v1.3.6</h2>
+
+<pre>
+--- fixes v1.3.6
+- ipalmt geometry mass added.
+- itree04 geometry mass added.
+- itree03 geometry mass added.
+- stump_tree04 geometry mass added.
+- stump_tree03 geometry mass added.
+- stump_tree01 geometry mass added.
+- tree_rubber04 geometry mass added.
+- tree_rubber03 geometry mass added.
+- tree_rubber02 geometry mass added.
+- tree_rubber01 geometry mass added.
+- tree24 geometry mass added.
+- tree23 geometry mass added.
+- tree22 geometry mass added.
+- tree21 geometry mass added.
+- tree20 geometry mass added.
+- tree19 geometry mass added.
+- tree18 geometry and fire/view geometry added.
+- tree17 geometry and fire/view geometry added.
+- tree16 geometry and fire/view geometry added.
+- tree15 geometry and fire/view geometry added.
+- tree14 geometry and fire/view geometry added.
+- tree13 geometry and fire/view geometry added.
+- tree12 geometry and fire/view geometry added.
+- tree11 geometry and fire/view geometry added.
+- tree08 fire/view geometry tweaked.
+- tree06c fire/view geometry tweaked.
+- tree06b fire/view geometry tweaked.
+- tree06a view geometry tweaked.
+- tree06 view geometry tweaked.
+- stump_tree04 fire/view geometry missing, added.
+- stump_tree03 fire/view geometry missing, added.
+- stump_tree02 fire/view geometry missing, added.
+- stump_tree01 fire/view geometry missing, added.
+- grass05 view geometry missing, added.
+- grass04 view geometry missing, added.
+- grass03 view geometry missing, added.
+- grass02 view geometry missing, added.
+- grass_tall_01 view geometry missing, added.
+- bush_dry_03 view geometry missing, added.
+- bush_dry_02 view geometry missing, added.
+- bush_dry_01 view geometry missing, added.
+- bush38 view geometry missing, added.
+- bush37 view geometry missing, added.
+- bush36 view geometry missing, added.
+- bush35 view geometry missing, added.
+- bush34 view geometry missing, added.
+- bush33 view geometry missing, added.
+- bush32 view geometry missing, added.
+- bush29 view geometry missing, added.
+- bush28 view geometry missing, added.
+- bush27 view geometry missing, added.
+- bush26 view geometry missing, added.
+- bush25 view geometry missing, added.
+- bush24 view geometry missing, added.
+- bush22 view geometry missing, added.
+- bush21 view geometry missing, added.
+- bush20 view geometry missing, added.
+- bush19 view geometry missing, added.
+- bush18 view geometry missing, added.
+- bush17 view geometry missing, added.
+- bush16 view geometry missing, added.
+- bush15 view geometry missing, added.
+- bush14 view geometry missing, added.
+- bush13 view geometry missing, added.
+- bush12 view geometry missing, added.
+- bush11 view geometry missing, added.
+- bush10 view geometry missing, added.
+- bush09 view geometry missing, added.
+- bush08 view geometry missing, added.
+- bush07 view geometry missing, added.
+- bush06 view geometry missing, added.
+- bush05 view geometry missing, added.
+- colt commander pistol missing (9x19mm, 9rnd mag), added.
+- weapon sounds from tpm, brand new ones added.
+- bm8 small tweak for lowest res lod.
+- bm8 windows are not transparent, fixed.
+- mat-49 smg missing, added.
+- mac-10 smg missing. 9x19, 32rnd mag, added.
+- mac-10 silenced smg missing. 9x19, 32rnd mag, added.
+- makarov pistol missing, added.
+- makarov silenced pistol missing, added.
+- m16a1 m203 grenade launcher missing, added.
+</pre>
+
+
+	<h2>v1.3.5</h2>
+
+<pre>
+--- fixes v1.3.5
+- added menu cutscenes for all terrains.
+- gamelogicks were not fully disabled, fixed.
+- sw keep height vte_sandbag_single.p3d error, fixed.
+- filled units[] and weapons[] on configs that required them.
+- ov10d cockpit glass is buggy, fixed.
+- ov10c cockpit glass is buggy, fixed.
+- ov10a cockpit glass is buggy, fixed.
+- ov10 cockpit glass is buggy, fixed.
+- ov1c doesn't have any ffars loaded, fixed.
+- ov1d doesn't have any ffars loaded, fixed.
+- ov10c doesn't have machine guns, fixed.
+- ammo truck nva was not working, fixed.
+- ammo truck us was not working, fixed.
+- m113 ambulance was not healing, fixed.
+- fuel truck us was not working, fixed.
+- repair truck us was not working, fixed.
+- replaced nva/vc truck model with v3s civil.
+- repair truck nva was not working, fixed.
+- fuel truck nva was not working, fixed.
+- strazni vez 1 lod, wrong rvmat, fixed.
+- su76 has a us crew, fixed.
+- zsu37 has a us crew, fixed.
+- ah1g cockpit glass is buggy, fixed.
+- ah1j cockpit glass is buggy, fixed.
+- tokarev t33 pistol did not do enough damage, tweaked.
+- ammobox not enough rocket launcher ammo, fixed.
+- ammobox bren2 in nva box, fixed.
+- ammobox garand in nva box, fixed.
+- ammobox m1 carbine in nva box, fixed.
+- ammobox no pistols in nva weapon box, fixed.
+- ammobox has wrong ak47 magazines, fixed.
+- bulldozer driver cannot be seen when driving, fixed.
+- car15gl xm148 reload sound missing, fixed.
+- terrains no environmental sounds, fixed.
+- added car15 xm148 into us weapons box.
+- k50m stringtables missing, fixed.
+- trees itree04 tweaked geometrys.
+- trees itree03 tweaked geometrys.
+- trees itree02 tweaked geometrys.
+- trees itree01 tweaked geometrys.
+- trees iplant7 tweaked geometry.
+- trees iplant6 tweaked geometry.
+- trees iplant5 tweaked geometry.
+- trees iplant4 tweaked geometry.
+- trees iplant3 tweaked geometry.
+- trees iplant2 tweaked geometry.
+- trees ipalmt4 dont have geometry and fire geometry, fixed.
+- trees ipalmt3 dont have geometry and fire geometry, fixed.
+- trees ipalmt2 dont have geometry and fire geometry, fixed.
+- trees ipalmt1 dont have geometry and fire geometry, fixed.
+- trees ipalmt dont have geometry and fire geometry, fixed.
+- trees ipalm2 dont have geometry and fire geometry, fixed.
+- trees iban3 dont have geometry and fire geometry, fixed.
+- trees iban2 dont have geometry and fire geometry, fixed.
+- trees iban1 dont have geometry and fire geometry, fixed.
+- trees bush01 dont have geometry and fire geometry, fixed.
+- trees bush23 dont have geometry and fire geometry, fixed.
+- trees bush30 dont have geometry and fire geometry, fixed.
+- trees bush31 dont have geometry and fire geometry, fixed.
+- trees tree24 dont have geometry and fire geometry, fixed.
+- trees tree23 dont have geometry and fire geometry, fixed.
+- trees tree22 dont have geometry and fire geometry, fixed.
+- trees tree21 dont have geometry and fire geometry, fixed.
+- trees tree20 dont have geometry and fire geometry, fixed.
+- trees tree19 dont have geometry and fire geometry, fixed.
+- added artillery and mortar weapons, magazines and ammo.
+- m56 howitzer was on nva side, fixed.
+- thompson too accurate, tweaked.
+- l1a1 sights don't zoom in, fixed.
+- k98k sights don't zoom in, fixed.
+- m3a1 sights don't zoom in, fixed.
+- m1 carbine sights don't zoom in, fixed.
+- garand sights don't zoom in, fixed.
+- enfieldn4 sights don't zoom in, fixed.
+- xm177e sights don't zoom in, fixed.
+- mp40 sights don't zoom in, fixed.
+- mas36 sights don't zoom in, fixed.
+- thompson sights don't zoom in, fixed.
+- m45 sights don't zoom in, fixed.
+- bar sights don't zoom in, fixed.
+- m3a1 too accurate, tweaked.
+- empty trucks cannot be boarded as driver, fixed.
+- btr50 no engine sound, fixed.
+- changed to 10000 rounds m60 ammo for pbr.
+- changed to 5000 rounds m60 ammo for lssc.
+- added missing ofp animals as config placeholders.
+- added missing ofp land vehicles as hidden config placeholders.
+- added missing ofp air vehicles as hidden config placehodlers.
+</pre>
+
+
+	<h2>v1.3.4</h2>
+
+<pre>
+--- fixes v1.3.4
+- kittyhawk build script had debug msg on and small delay, fixed.
+- uh1 ara when piloted by ai chases its own tail, fixed.
+- nva rto and mg soldier faces were ghostly white, fixed.
+- no speaker given errors in rpt, fixed.
+- rpg2 does too much damage, tweaked.
+- ak47 uses 7.62x54mm ammunition, changed to 7.62x39mm.
+- m3a1 fire rate is too fast, tweaked.
+- m60 fire rate is a bit too fast, fixed to arma final release value.
+- smg's need less recoil, fixed.
+- bulldozer geometry mass was not very good, fixed.
+- tweaked bulldozer textures.
+- tweaked btr50 textures.
+- btr50 flips when turning (geometry mass missing?), fixed.
+- added zsu-37 anti aircraft gun.
+- added su-76 self propelled gun.
+- added artillery groups (make them NONE so they wont stack up).
+- added m102 artillery (config only, m101 as placeholder).
+- vte_ch53: unknown animation source errors, fixed.
+- added some paint to m114 tyres.
+- ch53 mg gunner views are too low, fixed.
+- uh1 huey d/h pilot could not see out of cockpit, fixed.
+- uh1 huey dustoff pilot could not see out of cockpit, fixed.
+- uh1 huey ara pilot could not see out of cockpit, fixed.
+- uh1 huey gunship pilot could not see out of cockpit, fixed.
+- m134 minigun has no sound, fixed.
+- renamed uh1 m134 to m134.
+- removed ah1 m134 and use m134 instead.
+- ch46 back rotor spinned too fast, fixed.
+- ch47 back rotor spinned too fast, fixed.
+- ach47a back rotor spinned too fast, fixed.
+- renamed ah1 gl m129 to m129.
+- renamed uh1 gl m75 to m75
+- uh1 huey pilot view had no rear of helicopter, fixed.
+- tweaked mounted m60 fire rates.
+- mounted m60 has bis m240 sound, changed to vte m60 sound.
+- m73a has no reload timeout between magazines, fixed.
+- pkt has no reload timeout between magazines, fixed.
+- m2 has no reload timeout between magazines, fixed.
+- m197 has no reload timeout between magazines, fixed.
+- t55 no inside driving sound, fixed (I hope).
+- pt76 no inside driving sound, fixed (I hope).
+- added tracers to m2 machine gun.
+- 105mm_m68 cannon sound missing, fixed.
+- 90mm_m41 cannon sound missing, fixed.
+- m73a machine gun sound missing, fixed.
+- 152mm_m81e1 cannon sound missing, fixed.
+- 76mm_d56t_gun cannon sound missing, fixed.
+- 762mm_pkt machine gun sound missing, fixed.
+- 100mm_d10t2g_gun cannon sound missing, fixed.
+- VTE_m168 cannon sound missing, fixed.
+- m119_gun cannon sound missing, fixed.
+- d30_gun cannon sound missing, fixed.
+- added tracers to dshkm machine gun.
+- added tracers to m73a machine gun.
+- bronco had ca\ reference in ah1z_engines_destruct.rvmat, fixed.
+- mohawk had ca\ reference in a10_01_destruct.rvmat, fixed.
+- removed duplicate defines from vte_air_cfg.
+- removed duplicate defines from vte_bis_obj_cfg.
+- removed duplicate defines from vte_chara_cfg.
+- removed duplicate defines from vte_land_cfg.
+- removed duplicate defines from vte_objects_cfg.
+- removed duplicate defines from vte_ordnance_cfg.
+- removed duplicate defines from vte_running_speeds_cfg.
+- removed duplicate defines from vte_sea_cfg.
+- removed duplicate defines from vte_weapons_cfg.
+- tweaked dispersion values.
+- added specific destruct rvmat for ch34.
+- added specific destruct rvmat for ch34_sog.
+- added specific destruct rvmat for ch53.
+- added specific destruct rvmat for huey.
+- added specific destruct rvmat for uh1dustoff.
+- added specific destruct rvmat for uh1gs.
+- added specific destruct rvmat for uh1guns.
+- added specific destruct rvmat for ch47.
+- added specific destruct rvmat for ach47.
+- added specific destruct rvmat for ch46.
+- added specific destruct rvmat for s56.
+- added specific destruct rvmat for a4.
+- added specific destruct rvmat for b52.
+- added specific destruct rvmat for b57.
+- added specific destruct rvmat for birddog.
+- added specific destruct rvmat for mig19.
+- added specific destruct rvmat for a1h.
+- added specific destruct rvmat for c130.
+- added specific destruct rvmat for f4_grey.
+- added specific destruct rvmat for f4_tan.
+- added specific destruct rvmat for a6_napalm.
+- added specific destruct rvmat for f105.
+- added specific destruct rvmat for mig17_camo.
+- added specific destruct rvmat for mig17.
+- added specific destruct rvmat for f5_camo.
+- added specific destruct rvmat for f5_grey.
+- added specific destruct rvmat for ov1 mohawks.
+- added specific destruct rvmat for ov10 bronco.
+- added wound textures for res_pilot_body_wound1.rvmat
+- added wound textures for res_pilot_body_wound2.rvmat
+- res_pilot_molle_webbings.rvmat was missing one texture, fixed.
+- added missing us_hhl_wound1.rvmat.
+- added missing us_hhl_wound2.rvmat.
+- added missing us_pilot_hhl.rvmat.
+- added missing cfgfaces textures, lots of them.
+- added missing np_soldier_sniper_body.rvmat.
+- added missing np_soldier_sniper_body_hhl.rvmat.
+- replaced ca\ character map icons with pmc\vte_chara ones.
+- replaced ca\ character pictures with pmc\vte_chara ones.
+- added specific destruct rvmat for pbr.
+- added specific destruct rvmat for lssc.
+- added specific destruct rvmat for sebsampan.
+- added specific destruct rvmat for sampanbig.
+- added specific destruct rvmat for kittyhawk.
+- reworked kittyhawk config a bit.
+- added unique artillery and mortar map icons and group pictures.
+- svt40 has no sound, fixed.
+- ex41 recoil missing, fixed.
+- vc_rifleman low res lod's are missing textures, fixed.
+</pre>
+
+
+	<h2>v1.3.3</h2>
+
+<pre>
+--- fixes v1.3.3
+- m60 bis sound replaced with old original vte sound.
+- m16 bis sound replaced with old original vte sound.
+- m1abrams mg mount rvmat files missing, fixed.
+- various artillery vehicles turrets broken, fixed.
+- smokeshells not working, fixed.
+- split vte_sounds.pbo into vte_sounds_vehicles.pbo
+- added mission editor groups.
+- shell_casings.sqf script error on ov10's, fixed.
+- m134 added tracers.
+- m61 vulcan added tracers.
+- m60 doorgun added tracers.
+- m197 added tracers.
+- m61 vulcan has insane fire rate, fixed.
+- m75 40mm grenade launcher has insane fire rate, fixed.
+- m129 40mm grenade launcher has insane fire rate, fixed.
+- s56 mapsize way way too small, fixed.
+- s56 stringtable wrong, mg is not written as mg, fixed.
+- m2 machine gun sound missing, fixed (I think?).
+- mc-130 stringtable error, fixed.
+- many update base class rpt errors, fixed.
+- us 5t truck mess fixed.
+- vte_acofficern missing class, fixed.
+- sa2 rocket stringtable entries missing, fixed.
+- cannot load sound 'ca\water\data\sound\rhib_1.wss', fixed.
+- cannot load sound 'ca\water\data\sound\water_v5.wss', fixed.
+- cannot load sound 'ca\air\data\sound\camel1.wss', fixed.
+- invalid crew civilian in vte_60mortarnva, fixed.
+- error: no entry 'bin\config.bin.MissileCrater', fixed.
+- basic items, map, compass etc missing on most units, fixed.
+- artillery models were referencing wrong pbo, fixed.
+</pre>
+
+
+	<h2>v1.3.2</h2>
+
+<pre>
+--- fixes v1.3.2
+- added bulldozer model.
+- added m163 vulcan model.
+- added vte_nvacrew and vte_nva_pilot classes.
+- attempt to fix too fast firing 20mm cannon.
+- config.bin/shellcrater error, fixed.
+- ffar rocket name missing, fixed.
+- mp dedicated server error artillerycharge/dispersion, fixed.
+- rpt error engine_mi17.wss sound missing, fixed.
+</pre>
+
+<p>
+Back to <a href="manual-home.php">Manual home</a> or <a href="index.php">VTE ArmA 2 root</a> page.
+</p>
+</section>
+
+<footer>
+<?php include("../include/footer.php"); ?>
+<?php include("../include/w3-validator-logo.php"); ?>
+</footer>
+
+</body>
+</html>

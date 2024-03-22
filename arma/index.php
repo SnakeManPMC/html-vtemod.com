@@ -86,6 +86,10 @@ M101, M107, M108, M109, M110, M114, M30 (107mm mortar), M30 M1938, M55, M56, BM8
 For more information read our <a href="https://www.pmctactical.org/forum/viewforum.php?f=40" target="_blank">VTE ArmA forums</a>.<br>
 </p>
 
+<p>
+<a href="manual-class-names-ammo-boxes.php">Manual Class Names Ammo Boxes VTE ArmA 1</a>
+</p>
+
 </section>
 
 <footer>

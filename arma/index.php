@@ -102,6 +102,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-cfghqidentities.php">Manual Class Names CfgHQIdentities VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-factions.php">Manual Class Names Factions VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
 <a href="">Manual Class Names TITLE VTE ArmA 1</a>

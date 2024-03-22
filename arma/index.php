@@ -134,6 +134,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-infantry-australian.php">Manual Class Names Infantry Australian VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-infantry-backpacks.php">Manual Class Names Infantry Backpacks VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
 <a href=".php">Manual Class Names TITLE VTE ArmA 1</a>

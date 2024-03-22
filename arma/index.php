@@ -254,6 +254,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-vehicles-artillery.php">Manual Class Names Vehicles Artillery VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-vehicles-land.php">Manual Class Names Vehicles Land VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
 <a href=".php">Manual Class Names Vehicles TITLE VTE ArmA 1</a>

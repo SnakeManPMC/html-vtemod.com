@@ -182,6 +182,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-infantry-mobile-strike-force.php">Manual Class Names Infantry Mobile Strike Force VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-infantry-north-vietnamese-army.php">Manual Class Names Infantry North Vietnamese Army VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
 <a href=".php">Manual Class Names TITLE VTE ArmA 1</a>

@@ -110,6 +110,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-flagcarrier.php">Manual Class Names FlagCarrier VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-game-logic.php">Manual Class Names Game Logic VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
 <a href=".php">Manual Class Names TITLE VTE ArmA 1</a>

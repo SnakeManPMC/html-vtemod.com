@@ -90,6 +90,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-ammo-boxes.php">Manual Class Names Ammo Boxes VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-animals.php">Manual Class Names Animals VTE ArmA 1</a>
+</p>
+
 </section>
 
 <footer>

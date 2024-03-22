@@ -222,6 +222,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-infantry-vietminh.php">Manual Class Names Infantry Viet Minh VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-infantry-weapons.php">Manual Class Names Infantry Weapons VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
 <a href=".php">Manual Class Names Infantry TITLE VTE ArmA 1</a>

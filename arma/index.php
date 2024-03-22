@@ -122,6 +122,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-group-names.php">Manual Class Names Group Names VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-infantry-air-cavalry.php">Manual Class Names Infantry Air Cavalry VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
 <a href=".php">Manual Class Names TITLE VTE ArmA 1</a>

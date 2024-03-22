@@ -290,6 +290,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-required-addons.php">Manual Required Addons VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-terrains.php">Manual Terrains VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
 <a href=".php">Manual TITLE VTE ArmA 1</a>

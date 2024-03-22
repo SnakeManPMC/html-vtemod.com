@@ -282,6 +282,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-campaigns-missions-overview.php">Manual Campaigns Missions Overview VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-release-history.php">Manual Release History VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
 <a href=".php">Manual TITLE VTE ArmA 1</a>

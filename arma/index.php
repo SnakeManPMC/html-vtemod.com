@@ -202,6 +202,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-infantry-us-army.php">Manual Class Names Infantry US Army VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-infantry-us-marine-corps.php">Manual Class Names Infantry US Marine Corps VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
 <a href=".php">Manual Class Names TITLE VTE ArmA 1</a>

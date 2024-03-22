@@ -234,6 +234,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-mines-traps.php">Manual Class Names Mines Traps VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-objects.php">Manual Class Names Objects VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
 <a href=".php">Manual Class Names TITLE VTE ArmA 1</a>

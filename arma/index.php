@@ -166,6 +166,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-infantry-hoi-chan.php">Manual Class Names Infantry Hoi Chan VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-infantry-lrrp-erdl.php">Manual Class Names Infantry LRRP ERDL VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
 <a href=".php">Manual Class Names TITLE VTE ArmA 1</a>

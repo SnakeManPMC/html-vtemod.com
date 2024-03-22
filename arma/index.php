@@ -94,6 +94,16 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-animals.php">Manual Class Names Animals VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-cfggroups.php">Manual Class Names CfgGroups VTE ArmA 1</a>
+</p>
+
+<!--
+<p>
+<a href="">Manual Class Names TITLE VTE ArmA 1</a>
+</p>
+-->
+
 </section>
 
 <footer>

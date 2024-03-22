@@ -246,9 +246,13 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-ordnance.php">Manual Class Names Ordnance VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-vehicles-air.php">Manual Class Names Vehicles Air VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
-<a href=".php">Manual Class Names TITLE VTE ArmA 1</a>
+<a href=".php">Manual Class Names Vehicles TITLE VTE ArmA 1</a>
 </p>
 -->
 

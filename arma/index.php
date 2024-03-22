@@ -210,6 +210,10 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-infantry-us-navy-seal.php">Manual Class Names Infantry US Navy SEAL VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-infantry-us-special-forces.php">Manual Class Names Infantry US Special Forces VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
 <a href=".php">Manual Class Names TITLE VTE ArmA 1</a>

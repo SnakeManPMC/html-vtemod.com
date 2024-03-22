@@ -262,9 +262,25 @@ For more information read our <a href="https://www.pmctactical.org/forum/viewfor
 <a href="manual-class-names-vehicles-sea.php">Manual Class Names Vehicles Sea VTE ArmA 1</a>
 </p>
 
+<p>
+<a href="manual-class-names-weapons-land.php">Manual Class Names Weapons Land VTE ArmA 1</a>
+</p>
+
+<p>
+<a href="manual-credits.php">Manual Credits VTE ArmA 1</a>
+</p>
+
+<p>
+<a href="manual-frequently-asked-questions.php">Manual Frequently Asked Questions VTE ArmA 1</a>
+</p>
+
+<p>
+<a href="manual-history.php">Manual History VTE ArmA 1</a>
+</p>
+
 <!--
 <p>
-<a href=".php">Manual Class Names Vehicles TITLE VTE ArmA 1</a>
+<a href=".php">Manual TITLE VTE ArmA 1</a>
 </p>
 -->
 

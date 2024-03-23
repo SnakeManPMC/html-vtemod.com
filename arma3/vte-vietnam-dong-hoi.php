@@ -23,7 +23,7 @@
 	<h2>Vietnam Dong Hoi Terrain</h2>
 
 <p>
-143km x 143km terrain with high resolution satellite texture.
+143km x 143km with 71,680 x 71,680 resolution satellite image from ArcGIS world imagery (2 meters / pixel).
 </p>
 
 <p>
@@ -41,6 +41,29 @@ Satellite texture resolution: 71,680 x 71,680 pixels<br>
 Satellite surface mask size: 1024 x 1024 pixels<br>
 Texture layer size: 140m x 140m
 </p>
+
+
+	<h2>Changelog</h2>
+
+<pre>
+--- v0.1
+- initial release
+
+--- v0.1.1
+- airfield 1 elevations leveled
+- airfield 2 elevations leveled
+- location names added
+- openstreetmap road shapefile fixed.
+- airfield temporary runway texture added (also in mapview)
+- srtm 0m or below water depths fixed to 0.25m (actual ground)
+
+--- v0.1.2
+- ocean depths -5m to -50m fixed
+- water creeping through land fixed
+
+--- v0.2
+- 7,918 vegetation objects added
+</pre>
 
 <p>
 Back to <a href="terrains.php">VTE terrains</a> page.

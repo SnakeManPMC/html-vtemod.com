@@ -24,7 +24,7 @@ Vietnam: The Experience (VTE) modification for Operation Flashpoint online manua
 </p>
 
 <p>
-<a href="manual-classnames.php">Class names</a> Class names of all VTE items.
+<a href="manual-class-names.php">Class names</a> Class names of all VTE items.
 </p>
 
 <p>

@@ -83,6 +83,10 @@ Intro, Vietnam 12km, Vietnam 25km, SEB Ia Drang, 7 Mountains, A Shau Valley, Aus
 </p>
 
 <p>
+<a href="manual-home.php">Manual Homepage</a>
+</p>
+
+<p>
 For more information read our <a href="https://www.pmctactical.org/forum/viewforum.php?f=1" target="_blank">VTE OFP forums</a>.
 </p>
 

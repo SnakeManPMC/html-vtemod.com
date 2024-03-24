@@ -38,7 +38,7 @@ Install Help</a> page for install instructions.
 </p>
 
 <p>
-Read the <a href="https://www.pmctactical.org/manual/doku.php?id=ofp:vte" target="_blank">VTE OFP Online Manual</a> for details.
+Read the <a href="manual-home.php" target="_blank">VTE OFP Online Manual</a> for details.
 </p>
 
 <p>
@@ -80,10 +80,6 @@ LSSC, Sampan, Sampan big.
 <p>
 <b>Islands / Terrains</b><br>
 Intro, Vietnam 12km, Vietnam 25km, SEB Ia Drang, 7 Mountains, A Shau Valley, Australian AO (25km), VTE Ia Drang, Parrots Beak, Ilo Ilo, Rumble In The Jungle, RSSZ, Long Son, MDSZ, Meekong, Iron Triangle, Polei Kleng, Quan Binh Son, Vinh Thanh, Khe Sanh, The Bra, Dak Seang, FSB Gloria and Tet68. We have tons of brand new objects including vegetation and buildings objects. Various new ground textures are also included. The objects have been streamlined and optimized since v0.2 release.
-</p>
-
-<p>
-<a href="manual-home.php">Manual Homepage</a>
 </p>
 
 <p>

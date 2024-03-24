@@ -36,11 +36,11 @@ Vietnam: The Experience (VTE) modification for Operation Flashpoint online manua
 </p>
 
 <p>
-<a href="manual-voices.php">Voices config</a> Voices config, how to bring back the radio comms.
+<a href="manual-voices-radio-comms.php">Voices config</a> Voices config, how to bring back the radio comms.
 </p>
 
 <p>
-<a href="manual-mission-weapons-gear">Mission weapons gear</a> Weapons and gear description.ext entry for missions.
+<a href="manual-mission-weapons-magazines.php">Mission weapons gear</a> Weapons and gear description.ext entry for missions.
 </p>
 
 </section>

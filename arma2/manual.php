@@ -30,7 +30,7 @@ This is <a href="index.php">Vietnam: The Experience</a> for <a href="https://www
 </p>
 
 <p>
-<a href="https://www.pmctactical.org/forum/viewforum.php?f=56" target="_blank">PMC Tactical Forum ArmA 2: VTE area</a>.
+<a href="https://www.pmctactical.org/forum/viewforum.php?f=56" target="_blank">PMC Tactical Forum ArmA 2: VTE area</a> and <a href="https://www.pmctactical.org/forum/viewtopic.php?f=56&t=22961" target="_blank">PMC Tactical Forum ArmA 2 VTE Mod Missions and Campaigns Manuals topic</a> for feedback.
 </p>
 
 

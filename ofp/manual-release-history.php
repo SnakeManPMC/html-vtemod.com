@@ -67,6 +67,10 @@ The officially final OFP VTE release is this v0.4 you see here. It has been agai
 v0.4 was the last VTE Operation Flashpoint (OFP) release...
 </p>
 
+<p>
+Back to <a href="manual.php"> VTE OFP Manual Home</a> page.
+</p>
+
 </section>
 
 <footer>

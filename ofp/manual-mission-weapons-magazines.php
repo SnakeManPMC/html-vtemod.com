@@ -80,6 +80,10 @@ class Magazines
 };
 </pre>
 
+<p>
+Back to <a href="manual.php"> VTE OFP Manual Home</a> page.
+</p>
+
 </section>
 
 <footer>

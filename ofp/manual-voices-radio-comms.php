@@ -27,6 +27,10 @@ If you want to hear the OFP radio comms voices, then you need to browse into x_v
 After that you have the annoying and unit command lag causing OFP radio comms voices back. If you have any problems getting this to run, contact us on the <a href="https://www.pmctactical.org/forum/viewforum.php?f=1" target="_blank">PMC Tactical Forum official OFP VTE</a> area.
 </p>
 
+<p>
+Back to <a href="manual.php"> VTE OFP Manual Home</a> page.
+</p>
+
 </section>
 
 <footer>

@@ -51,6 +51,10 @@ Ebud came (back) on board for v0.3 to model those superb soldier models, which w
 Read more about the releases in the <a href="manual-release-history.php">VTE OFP Release History</a> (and of course continue to <a href="../arma/manual-history.php">ArmA 1 VTE history</a> and <a href="../arma/manual-release-history.php">ArmA 1 VTE release history</a> for even more details if you're interested).
 </p>
 
+<p>
+Back to <a href="manual.php"> VTE OFP Manual Home</a> page.
+</p>
+
 </section>
 
 <footer>

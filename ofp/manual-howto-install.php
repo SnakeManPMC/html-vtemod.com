@@ -126,6 +126,10 @@ Its all done now, just click the new shortcut that its on your desktop that you 
 Back to <a href="index.php">VTE OFP homepage</a>.
 </p>
 
+<p>
+Back to <a href="manual.php"> VTE OFP Manual Home</a> page.
+</p>
+
 </section>
 
 <footer>

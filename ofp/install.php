@@ -22,7 +22,7 @@
 	<h2>Updated for v0.3 - Nov 12th, 2006.</h2>
 
 <p>
-Please check <a href="https://www.pmctactical.org/manual/doku.php?id=ofp:howto_install" target="_blank">PMC addons/mods online manual: How to install Operation Flashpoint addons/mods</a> for further and more updated installation instructions.
+Please check <a href="https://www.vtemod.com/ofp/manual-howto-install.php" target="_blank">HOWTO Install Operation Flashpoint Addons</a> for further and more updated installation instructions.
 </p>
 
 <p>

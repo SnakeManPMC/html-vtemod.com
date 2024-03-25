@@ -33,12 +33,11 @@ page.
 </p>
 
 <p>
-Latest version of VTE is 0.4 released at June 25th, 2007. Check <a href="install.php">VTE OFP
-Install Help</a> page for install instructions.
+Latest version of VTE is 0.4 released at June 25th, 2007. Check <a href="manual-howto-install.php">VTE OFP Install Help</a> page for install instructions.
 </p>
 
 <p>
-Read the <a href="manual-home.php" target="_blank">VTE OFP Online Manual</a> for details.
+Read the <a href="manual.php" target="_blank">VTE OFP Online Manual</a> for details.
 </p>
 
 <p>

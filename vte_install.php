@@ -1,4 +1,4 @@
 <?php
-header('Location: ofp/install.php', true, 301);
+header('Location: ofp/manual-howto-install.php', true, 301);
 exit();
 ?>

@@ -1399,6 +1399,10 @@ VTE_hellovietnam - "Johnnie Wright - Hello Vietnam"
 Sorry but the above unit/weapon/vehicle/etc class names list is not 100% accurate, we will try to keep it as updated as possible.
 </p>
 
+<p>
+Back to <a href="manual.php"> VTE OFP Manual Home</a> page.
+</p>
+
 </section>
 
 <footer>

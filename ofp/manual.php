@@ -20,7 +20,7 @@
 	<h2>Manual Home Vietnam: The Experience Operation Flashpoint</h2>
 
 <p>
-Vietnam: The Experience (VTE) modification for Operation Flashpoint online manual.
+Vietnam: The Experience (VTE) modification for Operation Flashpoint online manual. See <a href="https://www.pmctactical.org/forum/viewtopic.php?f=1&t=22962" target="_blank">PMC Tactical Forum OFP VTE Mod Missions and Campaigns Manuals topic</a>.
 </p>
 
 <p>

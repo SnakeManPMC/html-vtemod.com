@@ -29,11 +29,11 @@ Welcome to Vietnam: The Experience (VTE) ArmA 2 mod page. In here you can find t
 </p>
 
 <p>
-Latest version of VTE is <b>v1.6</b> released at Dec 8th, 2016. Check <a href="https://www.pmctactical.org/manual/doku.php?id=arma2:howto_install" target="_blank">VTE ArmA 2 How to Install Help</a> page for install instructions.
+Latest version of VTE is <b>v1.6</b> released at Dec 8th, 2016. Check <a href="https://www.pmctactical.org/arma2/manual-howto-install-addons.php" target="_blank">VTE ArmA 2 How to Install Help</a> page for install instructions.
 </p>
 
 <p>
-Read the <a href="https://www.pmctactical.org/manual/doku.php?id=arma2:vte" target="_blank">VTE ArmA 2 Online Manual</a> for details and discuss in our <a href="https://www.pmctactical.org/forum/viewforum.php?f=56" target="_blank">VTE ArmA 2 Forum</a>. Browse our <a href="missions.php">VTE ArmA 2 Mission Repository</a> for VTE Mission Pack. View some <a href="screenshots.php">VTE ArmA 2 screenshots</a> and <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAefmUjd4_0MTnz8raBjs-4sGh" target="_blank">PMC Youtube VTE ArmA 2 Playlist</a> of videos.
+Read the <a href="manual.php" target="_blank">VTE ArmA 2 Online Manual</a> for details and discuss in our <a href="https://www.pmctactical.org/forum/viewforum.php?f=56" target="_blank">VTE ArmA 2 Forum</a>. Browse our <a href="missions.php">VTE ArmA 2 Mission Repository</a> for VTE Mission Pack. View some <a href="screenshots.php">VTE ArmA 2 screenshots</a> and <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAefmUjd4_0MTnz8raBjs-4sGh" target="_blank">PMC Youtube VTE ArmA 2 Playlist</a> of videos.
 </p>
 
 <p>
@@ -94,10 +94,6 @@ Apple, Bouncing Betty, Claymore, M49 trip flare, M14 mine, MON-200, POMZ, whip t
 <p>
 <b>Music / Sounds</b><br>
 34 tracks of authentic 1960's era music. Hundreds of sound bits to be used in missions.
-</p>
-
-<p>
-<a href="manual-home.php">Manual Home VTE ArmA 2</a>
 </p>
 
 <!--

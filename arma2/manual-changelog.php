@@ -20,7 +20,7 @@
 	<h2>Manual Changelog Vietnam: The Experience ArmA 2</h2>
 
 <p>
-Back to <a href="manual-home.php">Manual home</a> or <a href="index.php">VTE ArmA 2 root</a> page.
+Back to <a href="manual.php">Manual home</a> or <a href="index.php">VTE ArmA 2 root</a> page.
 </p>
 
 	<h2>v1.6</h2>
@@ -2661,7 +2661,7 @@ This is final VTE ArmA 2 release
 </pre>
 
 <p>
-Back to <a href="manual-home.php">Manual home</a> or <a href="index.php">VTE ArmA 2 root</a> page.
+Back to <a href="manual.php">Manual home</a> or <a href="index.php">VTE ArmA 2 root</a> page.
 </p>
 </section>
 

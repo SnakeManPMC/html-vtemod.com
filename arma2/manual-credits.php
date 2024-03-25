@@ -58,7 +58,7 @@ Greetings: Elena.
 </p>
 
 <p>
-Back to <a href="manual-home.php">Manual Home</a> or <a href="index.php">VTE ArmA 2 root</a> page.
+Back to <a href="manual.php">Manual Home</a> or <a href="index.php">VTE ArmA 2 root</a> page.
 </p>
 </section>
 

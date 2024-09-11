@@ -13,11 +13,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Vietnam: The Experience</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 
 	<h2>Operation Flashpoint (OFP) Vietnam war Modification</h2>
 
@@ -85,11 +88,15 @@ Intro, Vietnam 12km, Vietnam 25km, SEB Ia Drang, 7 Mountains, A Shau Valley, Aus
 For more information read our <a href="https://www.pmctactical.org/forum/viewforum.php?f=1" target="_blank">VTE OFP forums</a>.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <?php include("../include/footer.php"); ?>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

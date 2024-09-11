@@ -13,10 +13,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Manual HOWTO Install Vietnam: The Experience Operation Flashpoint</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>HOWTO Install</h2>
 
 <p>
@@ -130,11 +134,15 @@ Back to <a href="index.php">VTE OFP homepage</a>.
 Back to <a href="manual.php"> VTE OFP Manual Home</a> page.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <?php include("../include/footer.php"); ?>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

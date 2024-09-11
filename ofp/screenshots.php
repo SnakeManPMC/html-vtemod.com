@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Vietnam: The Experience</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 
 	<h2>OFP Vietnam War MOD</h2>
 
@@ -175,11 +178,15 @@ More screenshots long time lost into our web server directory :)
 <a href="screenshots/vc_sniper.jpg" target="_blank"><img class="ofpscreenshot" loading="lazy" src="screenshots/vc_sniper.jpg" alt="VTE OFP Screenshot"></a>
 <a href="screenshots/vc_tl.jpg" target="_blank"><img class="ofpscreenshot" loading="lazy" src="screenshots/vc_tl.jpg" alt="VTE OFP Screenshot"></a>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <?php include("../include/footer.php"); ?>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

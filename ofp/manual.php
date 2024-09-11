@@ -13,10 +13,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Manual Home Vietnam: The Experience Operation Flashpoint</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Manual Home Vietnam: The Experience Operation Flashpoint</h2>
 
 <p>
@@ -43,11 +47,15 @@ Vietnam: The Experience (VTE) modification for Operation Flashpoint online manua
 <a href="manual-mission-weapons-magazines.php">Mission weapons gear</a> Weapons and gear description.ext entry for missions.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <?php include("../include/footer.php"); ?>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -13,10 +13,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Manual Home Vietnam: The Experience ArmA 2</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Manual Home Vietnam: The Experience ArmA 2</h2>
 
 <img src="../images/VTE_logo.gif" class="imgresponsive" loading="lazy" alt="Vietnam: The Experience Log" title="Vietnam: The Experience Log">
@@ -147,11 +151,16 @@ Download from <a href="index.php">VTE ArmA 2 Official Homepage</a>.
 <p>
 Back to <a href="index.php">VTE ArmA 2 root</a> page.
 </p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <?php include("../include/footer.php"); ?>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

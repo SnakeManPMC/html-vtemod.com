@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Vietnam: The Experience</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 
 	<h2>ArmA Vietnam War MOD</h2>
 
@@ -84,11 +87,15 @@ Screenshots
 <a href="screenshots/VTE-0374.jpg" target="_blank"><img class="armascreenshot" loading="lazy" src="screenshots/VTE-0374.jpg" alt="VTE ArmA Screenshot"></a>
 <a href="screenshots/VTE-0376.jpg" target="_blank"><img class="armascreenshot" loading="lazy" src="screenshots/VTE-0376.jpg" alt="VTE ArmA Screenshot"></a>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <?php include("../include/footer.php"); ?>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

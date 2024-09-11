@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>VTE Characters - Vietnam: The Experience</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 
 	<h2>ArmA 3 Vietnam War MOD Characters</h2>
 
@@ -30,15 +33,15 @@ All characters.
 Units include various from these categories: Air Cavalry, Marine Force Recon, Marine, SEAL, Army, SF, LRRP, CIDG, MIKE, ARVN, Civilian villager, VC villager, Cambodian Mercenary, Hoi Chan, Bushman, Village Rebel, VC, Viet Minh, NVA, SOG, SOG Recon, Australia SAS, LRRP (ERDL / tiger).
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
-<!--
-<p>
-</p>
--->
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <?php include("../include/footer.php"); ?>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

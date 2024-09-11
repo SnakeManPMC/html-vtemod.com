@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Vietnam: The Experience Terrains</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 
 	<h2>ArmA 3 Vietnam War MOD Terrains</h2>
 
@@ -118,11 +121,15 @@
 </div>
 </div> <!-- grid-container -->
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <?php include("../include/footer.php"); ?>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

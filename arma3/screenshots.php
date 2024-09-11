@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Vietnam: The Experience</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 
 	<h2>ArmA 3 Vietnam War MOD Screenshots</h2>
 
@@ -41,11 +44,15 @@ VTE ArmA 3 <b>Preview 2013-05-16</b> Screenshots (not representing final content
 <a href="screenshots/VTE-Rung-Sat-Special_Zone-Terrain-01.jpg"><img src="screenshots/VTE-Rung-Sat-Special_Zone-Terrain-01t.jpg" width="91" height="92" alt="VTE Preview ArmA 3 Screenshot: Rung Sat Special Zone Terrain"></a>
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <?php include("../include/footer.php"); ?>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

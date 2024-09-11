@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>VTE Cambodia Pech Chreada Terrain - Vietnam: The Experience ArmA 3</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 
 	<h2>VTE Cambodia Pech Chreada</h2>
 
@@ -46,11 +49,15 @@ Texture layer size: 40m x 40m
 Back to <a href="terrains.php">ArmA 3 VTE Terrain's</a> page.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <?php include("../include/footer.php"); ?>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

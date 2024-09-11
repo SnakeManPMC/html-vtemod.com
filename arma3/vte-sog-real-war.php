@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>VTE SOG Real War Campaign - Vietnam: The Experience</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 
 	<h2>VTE SOG Real War Campaign</h2>
 
@@ -45,15 +48,16 @@ Support is available from support menu (0-0-8). Support includes air strikes fro
 <p>
 Back to <a href="campaigns.php">ArmA 3 VTE Campaigns</a> page.
 </p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
-<!--
-<p>
-</p>
--->
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <?php include("../include/footer.php"); ?>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

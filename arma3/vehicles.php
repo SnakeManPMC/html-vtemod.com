@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>VTE Vehicles - Vietnam: The Experience</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 
 	<h2>ArmA 3 Vietnam War MOD Vehicles</h2>
 
@@ -58,15 +61,15 @@ Artillery
 M101, M107, M108, M109, M110, M114, M3, M30 (107mm mortar), M30 M1938, M55, M56, BM8 Katysha, M19 mortar, M29 mortar.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
-<!--
-<p>
-</p>
--->
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <?php include("../include/footer.php"); ?>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

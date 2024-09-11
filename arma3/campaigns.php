@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Campaigns Vietnam: The Experience</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 
 	<h2>ArmA 3 Vietnam War MOD Campaigns</h2>
 
@@ -52,15 +55,15 @@ Campaign by Snake Man, PMC. More details <a href="vte-sog-real-war.php">VTE SOG 
 As the name says a debugging campaign, not a playable one. Loads all VTE terrains and has camera cutscene flying across the terrain diagonally. This is nice debug campaign to see if any errors come up with terrains or objects and most importantly if there are any visually wrong. Often times terrain can be error free but its still "wrong" in-game when you play on it.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
-<!--
-<p>
-</p>
--->
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <?php include("../include/footer.php"); ?>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

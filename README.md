@@ -7,11 +7,11 @@ Vietnam: The Experience (VTE) OFP, ArmA, ArmA 2 and ArmA 3 Modification Website
 Other PMC websites are:
 [Cities Skylines (City Building Game)](https://cities-skylines.pmctactical.org)
 
-[Cold Waters (Nuclear Submarine Simulator/game)](https://www.cold-waters.pmctactical.org)
+[Cold Waters (Nuclear Submarine Simulator/game)](https://cold-waters.pmctactical.org)
 
-[Combat Mission (Battlefront)](https://www.combat-mission.pmctactical.org)
+[Combat Mission (Battlefront)](https://combat-mission.pmctactical.org)
 
-[Command Modern Air/Naval Operations (CMANO)](https://www.cmano.pmctactical.org)
+[Command Modern Air/Naval Operations (CMANO)](https://cmano.pmctactical.org)
 
 [Elite Dangerous](https://www.elitedangerous.net)
 
@@ -19,7 +19,7 @@ Other PMC websites are:
 
 [Farming Simulator](https://www.farming-simulator.org)
 
-[modo (3D Modeling)](https://www.modo.pmctactical.org)
+[modo (3D Modeling)](https://modo.pmctactical.org)
 
 [Nekromantix Psychobilly](https://www.nekromantix.com)
 
@@ -33,10 +33,10 @@ Other PMC websites are:
 
 [Scenario HQ (missions, campaigns)](https://www.scenariohq.com)
 
-[Sea Power (Naval Combat In The Missile Age)](https://www.sea-power.pmctactical.org)
+[Sea Power (Naval Combat In The Missile Age)](https://sea-power.pmctactical.org)
 
 [Silent Hunter (U-Boat Simulator)](https://www.silenthunter.info)
 
-[Somalia Information (Black Hawk Down)](https://www.somalia.pmctactical.org)
+[Somalia Information (Black Hawk Down)](https://somalia.pmctactical.org)
 
 [WrpTool (OFP Terrain Editor)](https://www.wrptool.com)
